@@ -1,51 +1,252 @@
 {
   "needs": [
-    {"icon": "听", "href": "path-listen/",
-     "zh": {"t": "我想听懂音乐", "d": "不学乐器也行：从听到的结构、体裁与风格开始，先建立耳朵的判断。"},
-     "en": {"t": "I want to understand what I hear", "d": "No instrument needed: start from form, genre and style, and build judgement by ear."}},
-    {"icon": "器", "href": "path-instrument/",
-     "zh": {"t": "我想学一件乐器", "d": "从选琴、第一次发声到能完整弹一首，按你的时间和预算铺路。"},
-     "en": {"t": "I want to learn an instrument", "d": "From choosing one and the first sound to playing a whole piece, paced to your time and budget."}},
-    {"icon": "写", "href": "path-write/",
-     "zh": {"t": "我想写一首歌", "d": "旋律、和声、歌词与结构，从一句动机到能交付的 Demo。"},
-     "en": {"t": "I want to write a song", "d": "Melody, harmony, lyrics and form, from a one-bar idea to a deliverable demo."}},
-    {"icon": "影", "href": "path-score/",
-     "zh": {"t": "我想给视频或游戏配乐", "d": "贴片、情绪曲线、交互分层与交付格式，按画面而不是按小节写。"},
-     "en": {"t": "I want to score film or games", "d": "Sync, emotional arc, interactive layers and delivery formats, written to picture rather than bars."}},
-    {"icon": "智", "href": "path-ai/",
-     "zh": {"t": "我想用 AI 做音乐", "d": "工具选型、提示词、可控性与权利边界，把生成结果变成能交付的成品。"},
-     "en": {"t": "I want to make music with AI", "d": "Tool choice, prompting, control and rights, turning generations into deliverables."}},
-    {"icon": "声", "href": "path-finish/",
-     "zh": {"t": "我想修复、混音或交付", "d": "录音到母带的最后一公里：修、混、母带、分轨与响度标准。"},
-     "en": {"t": "I want to fix, mix or deliver", "d": "The last mile from recording to master: repair, mix, master, stems and loudness standards."}}
+    {
+      "icon": "听",
+      "href": "path-listen/",
+      "zh": {
+        "t": "我想听懂音乐",
+        "d": "不学乐器也行：从听到的结构、体裁与风格开始，先建立耳朵的判断。"
+      },
+      "en": {
+        "t": "I want to understand what I hear",
+        "d": "No instrument needed: start from form, genre and style, and build judgement by ear."
+      }
+    },
+    {
+      "icon": "器",
+      "href": "path-instrument/",
+      "zh": {
+        "t": "我想学一件乐器",
+        "d": "从选琴、第一次发声到能完整弹一首，按你的时间和预算铺路。"
+      },
+      "en": {
+        "t": "I want to learn an instrument",
+        "d": "From choosing one and the first sound to playing a whole piece, paced to your time and budget."
+      }
+    },
+    {
+      "icon": "写",
+      "href": "path-write/",
+      "zh": {
+        "t": "我想写一首歌",
+        "d": "旋律、和声、歌词与结构，从一句动机到能交付的 Demo。"
+      },
+      "en": {
+        "t": "I want to write a song",
+        "d": "Melody, harmony, lyrics and form, from a one-bar idea to a deliverable demo."
+      }
+    },
+    {
+      "icon": "影",
+      "href": "path-score/",
+      "zh": {
+        "t": "我想给视频或游戏配乐",
+        "d": "贴片、情绪曲线、交互分层与交付格式，按画面而不是按小节写。"
+      },
+      "en": {
+        "t": "I want to score film or games",
+        "d": "Sync, emotional arc, interactive layers and delivery formats, written to picture rather than bars."
+      }
+    },
+    {
+      "icon": "智",
+      "href": "path-ai/",
+      "zh": {
+        "t": "我想用 AI 做音乐",
+        "d": "工具选型、提示词、可控性与权利边界，把生成结果变成能交付的成品。"
+      },
+      "en": {
+        "t": "I want to make music with AI",
+        "d": "Tool choice, prompting, control and rights, turning generations into deliverables."
+      }
+    },
+    {
+      "icon": "声",
+      "href": "path-finish/",
+      "zh": {
+        "t": "我想修复、混音或交付",
+        "d": "录音到母带的最后一公里：修、混、母带、分轨与响度标准。"
+      },
+      "en": {
+        "t": "I want to fix, mix or deliver",
+        "d": "The last mile from recording to master: repair, mix, master, stems and loudness standards."
+      }
+    }
   ],
   "levels": [
-    {"n": "01", "href": "level-zero/",
-     "zh": {"t": "零基础", "d": "没有乐器经验，也读不懂谱。先建立听觉词汇，别急着买设备。"},
-     "en": {"t": "Starting from zero", "d": "No instrument, no notation. Build listening vocabulary first; do not buy gear yet."}},
-    {"n": "02", "href": "level-instrument/",
-     "zh": {"t": "会一点乐器", "d": "能弹几首、看得懂简单谱。把零散的手上功夫接上乐理与曲目。"},
-     "en": {"t": "I play a little", "d": "A few pieces and simple notation. Connect technique to theory and repertoire."}},
-    {"n": "03", "href": "level-writer/",
-     "zh": {"t": "能写歌或编曲", "d": "有作品，但混音与交付不稳。补齐制作链与判断标准。"},
-     "en": {"t": "I write or arrange", "d": "You finish songs, but mixing and delivery wobble. Fill in the production chain and standards."}},
-    {"n": "04", "href": "level-pro/",
-     "zh": {"t": "职业或半职业", "d": "靠音乐接活。按项目类型找工具档案、交付规范与客户流程。"},
-     "en": {"t": "Professional or semi-pro", "d": "You take paid work. Go straight to tool profiles, delivery specs and client workflow."}}
+    {
+      "n": "01",
+      "href": "level-zero/",
+      "zh": {
+        "t": "零基础",
+        "d": "没有乐器经验，也读不懂谱。先建立听觉词汇，别急着买设备。"
+      },
+      "en": {
+        "t": "Starting from zero",
+        "d": "No instrument, no notation. Build listening vocabulary first; do not buy gear yet."
+      }
+    },
+    {
+      "n": "02",
+      "href": "level-instrument/",
+      "zh": {
+        "t": "会一点乐器",
+        "d": "能弹几首、看得懂简单谱。把零散的手上功夫接上乐理与曲目。"
+      },
+      "en": {
+        "t": "I play a little",
+        "d": "A few pieces and simple notation. Connect technique to theory and repertoire."
+      }
+    },
+    {
+      "n": "03",
+      "href": "level-writer/",
+      "zh": {
+        "t": "能写歌或编曲",
+        "d": "有作品，但混音与交付不稳。补齐制作链与判断标准。"
+      },
+      "en": {
+        "t": "I write or arrange",
+        "d": "You finish songs, but mixing and delivery wobble. Fill in the production chain and standards."
+      }
+    },
+    {
+      "n": "04",
+      "href": "level-pro/",
+      "zh": {
+        "t": "职业或半职业",
+        "d": "靠音乐接活。按项目类型找工具档案、交付规范与客户流程。"
+      },
+      "en": {
+        "t": "Professional or semi-pro",
+        "d": "You take paid work. Go straight to tool profiles, delivery specs and client workflow."
+      }
+    }
   ],
   "scenes": [
-    {"href": "scene-wedding-video/", "zh": "婚礼视频配乐", "en": "Wedding video score"},
-    {"href": "scene-podcast-intro/", "zh": "播客片头", "en": "Podcast intro"},
-    {"href": "scene-game-demo/", "zh": "游戏 Demo 音频", "en": "Game demo audio"},
-    {"href": "scene-cover-song/", "zh": "翻唱一首歌", "en": "Cover a song"},
-    {"href": "scene-old-tape/", "zh": "修复老磁带", "en": "Restore an old tape"},
-    {"href": "scene-ai-demo/", "zh": "用 AI 出 Demo", "en": "Demo with AI"},
-    {"href": "scene-short-video/", "zh": "短视频背景乐", "en": "Music for short video"},
-    {"href": "scene-school-project/", "zh": "学校音乐作业", "en": "School music project"},
-    {"href": "scene-first-instrument/", "zh": "给孩子选第一件乐器", "en": "A first instrument for a child"},
-    {"href": "scene-band-rehearsal/", "zh": "乐队排练与分轨", "en": "Band rehearsal and stems"},
-    {"href": "scene-sample-flip/", "zh": "采样再创作", "en": "Sample flip"},
-    {"href": "scene-client-delivery/", "zh": "给客户交付成品", "en": "Deliver to a client"}
+    {
+      "href": "scene-wedding-video/",
+      "zh": "婚礼视频配乐",
+      "en": "Wedding video score"
+    },
+    {
+      "href": "scene-podcast-intro/",
+      "zh": "播客片头",
+      "en": "Podcast intro"
+    },
+    {
+      "href": "scene-game-demo/",
+      "zh": "游戏 Demo 音频",
+      "en": "Game demo audio"
+    },
+    {
+      "href": "scene-cover-song/",
+      "zh": "翻唱一首歌",
+      "en": "Cover a song"
+    },
+    {
+      "href": "scene-old-tape/",
+      "zh": "修复老磁带",
+      "en": "Restore an old tape"
+    },
+    {
+      "href": "scene-ai-demo/",
+      "zh": "用 AI 出 Demo",
+      "en": "Demo with AI"
+    },
+    {
+      "href": "scene-short-video/",
+      "zh": "短视频背景乐",
+      "en": "Music for short video"
+    },
+    {
+      "href": "scene-school-project/",
+      "zh": "学校音乐作业",
+      "en": "School music project"
+    },
+    {
+      "href": "scene-first-instrument/",
+      "zh": "给孩子选第一件乐器",
+      "en": "A first instrument for a child"
+    },
+    {
+      "href": "scene-band-rehearsal/",
+      "zh": "乐队排练与分轨",
+      "en": "Band rehearsal and stems"
+    },
+    {
+      "href": "scene-sample-flip/",
+      "zh": "采样再创作",
+      "en": "Sample flip"
+    },
+    {
+      "href": "scene-client-delivery/",
+      "zh": "给客户交付成品",
+      "en": "Deliver to a client"
+    }
   ],
-  "quiz": "diagnose/"
+  "quiz": "diagnose/",
+  "library": {
+    "title": "曲库：能听、能下、能核对",
+    "sub": "页面里的试听、按维度浏览和打包下载，都来自同一份开放数据；每一首的许可都单独标注。",
+    "note": "C1 可商用 · C2 非商业 · C3 仅学习研究；本站不改变原许可，具体以 midicn-lib 台账为准。",
+    "items": [
+      {
+        "href": "https://lib.midicn.com/",
+        "n": "13.3 万",
+        "t": "MIDI 音乐库",
+        "d": "在线试听、搜索与下载，逐曲标注来源与许可",
+        "zh": {
+          "t": "MIDI 音乐库",
+          "d": "在线试听、搜索与下载，逐曲标注来源与许可"
+        },
+        "en": {
+          "t": "MIDI library",
+          "d": "Listen, search and download, with source and licence per track"
+        }
+      },
+      {
+        "href": "https://mid.midicn.com/",
+        "n": "6 维",
+        "t": "维度浏览",
+        "d": "按作曲家、民歌省份、流派、时期、乐器、来源进入",
+        "zh": {
+          "t": "维度浏览",
+          "d": "按作曲家、民歌省份、流派、时期、乐器、来源进入"
+        },
+        "en": {
+          "t": "Browse by dimension",
+          "d": "Composer, province, genre, period, instrument, source"
+        }
+      },
+      {
+        "href": "https://zip.midicn.com/",
+        "n": "按需",
+        "t": "打包下载",
+        "d": "按用途与维度分卷，一次取走一批曲目",
+        "zh": {
+          "t": "打包下载",
+          "d": "按用途与维度分卷，一次取走一批曲目"
+        },
+        "en": {
+          "t": "Dataset packs",
+          "d": "Bundles by use case and dimension"
+        }
+      },
+      {
+        "href": "https://sf.midicn.com/",
+        "n": "1,776",
+        "t": "音色库",
+        "d": "SoundFont 目录，只分发可自由使用的音色",
+        "zh": {
+          "t": "音色库",
+          "d": "SoundFont 目录，只分发可自由使用的音色"
+        },
+        "en": {
+          "t": "SoundFonts",
+          "d": "A catalogue of freely usable soundfonts"
+        }
+      }
+    ]
+  }
 }
