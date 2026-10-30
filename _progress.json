@@ -1,0 +1,81 @@
+{
+  "site": "home",
+  "updated": "2026-09-28",
+  "note": "本站进度台账（内部文件，不参与构建、不进公开仓）",
+  "batches": [
+    {
+      "id": "M0-1",
+      "name": "新手入门引导（/start/）",
+      "planned": 30,
+      "done": 30,
+      "status": "done",
+      "doneOn": "2026-09-28",
+      "sections": {
+        "S1": 6,
+        "S2": 8,
+        "S3": 5,
+        "S4": 4,
+        "S5": 4,
+        "S6": 3
+      }
+    },
+    {
+      "id": "M0-2",
+      "name": "通识与文化（/culture/）",
+      "planned": 70,
+      "done": 70,
+      "status": "done",
+      "doneOn": "2026-10-03",
+      "sections": {
+        "C1": 12,
+        "C2": 14,
+        "C3": 12,
+        "C4": 12,
+        "C5": 10,
+        "C6": 10
+      },
+      "note": "C1–C6 全部 70 条 + 索引页 culture.md 完成并**已上线** · 110 条目 · 线上全量复核通过（70 链接 + 12 锚点 + 0 残留）· 内核 0.6.2"
+    },
+    {
+      "id": "M0-3",
+      "name": "互动工具（/tools/）",
+      "planned": 18,
+      "done": 18,
+      "status": "done",
+      "doneOn": "2026-10-03",
+      "sections": {
+        "音程": 4,
+        "音阶与调式": 3,
+        "和弦": 4,
+        "和声进行": 2,
+        "节奏": 2,
+        "调": 1,
+        "音色": 2
+      },
+      "note": "18 条全部上线（order 201–218 连续）· 52 个交互块 · 线上全量复核通过（18 页 200 · 交互块在位 · ::: 残留 0）· 索引页 tools.md 已重写"
+    },
+    {
+      "id": "M0-4",
+      "name": "枢纽页 7 + 全局搜索",
+      "planned": 8,
+      "done": 0,
+      "status": "pending"
+    }
+  ],
+  "counts": {
+    "start": 30,
+    "start_index": 1,
+    "legal": 7,
+    "tools": 19,
+    "culture": 71
+  },
+  "flags": {
+    "portal_home_entry": "首页快速入口加「新手入门」需内核改动（build_portal_body），已记 KERNEL-ISSUES K-44，未实施 ⚠️ M0-3 工具页已上线，工具区同样没有首页入口位",
+    "culture_pending_links": "无 —— 全部跨批死链已清零",
+    "culture_next": "M0-3 已完成上线。下一批：**M0-4 枢纽页 7 + 全局搜索**（`counts` 里 M0-4 仍 pending）",
+    "culture_index_gen": "索引页由 home/_authoring/gen_culture_index.py 生成（读 _authoring/_idx.json）—— **改标题/加条目后重跑它，别手改 culture.md**",
+    "tools_contracts": "工具组件的参数契约（7 个组件的白名单）在 home/content/_notes-tools.md 第一节 —— **写工具前先查那张表**，参数写错会静默回退",
+    "verify_tools": "home/_authoring/ 四个内部件：check_instances（冒号）· check_language（串味/乱码/JSON/引号/未知:::）· _prepush_check（推前三段差异 + 关键路径）· _online_verify（线上全量，不抽样）",
+    "check_tools": "写完必跑：build_kb.py --site home → check_language.py → check_instances.py → kb_preflight.py --site home"
+  }
+}
