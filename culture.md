@@ -33,7 +33,7 @@ updated: 2026-10-03
 
 ## 产业与商业（12 篇）
 
-*音乐是怎么变成钱的：钱从哪来、谁分、什么在变。*
+**音乐是怎么变成钱的：钱从哪来、谁分、什么在变。**
 
 - [音乐产业地图：钱从哪来](music-industry-map/) —— 两个大池子、一条产业链——先把地图看清
 - [乐谱出版小史：纸上的生意](sheet-music-publishing/) —— 在唱片之前，音乐产业是「纸做的」
@@ -50,7 +50,7 @@ updated: 2026-10-03
 
 ## 版权与许可（14 篇）
 
-*一首歌上有几层权利、谁能用、边界在哪。*
+**一首歌上有几层权利、谁能用、边界在哪。**
 
 - [一首歌上有几层权利](copyright-composition/) —— 作品、录音、表演——一首歌在制度上是「一叠」东西
 - [著作人身权与财产权：署名是个什么权](moral-vs-economic/) —— 著作权里混着两种性格：一种是「钱」，一种是「名」
@@ -69,7 +69,7 @@ updated: 2026-10-03
 
 ## 音乐与心理（12 篇）
 
-*音乐怎么进到人的感觉里：情绪、记忆、专注、身体。*
+**音乐怎么进到人的感觉里：情绪、记忆、专注、身体。**
 
 - [大调为什么听起来「快乐」：解释与争议](major-happy-why/) —— 有一个流行的答案、一个更谨慎的答案，和一个诚实的答案
 - [绝对音感：天赋、训练与它的边界](perfect-pitch-again/) —— 它是「给音命名」的能力，不是「懂音乐」的能力
@@ -86,7 +86,7 @@ updated: 2026-10-03
 
 ## 民族音乐学（12 篇）
 
-*音乐在人们的生活里怎么活：采集、传承、变体、仪式。*
+**音乐在人们的生活里怎么活：采集、传承、变体、仪式。**
 
 - [民族音乐学是什么：从「比较」到「理解」](what-is-ethnomusicology/) —— 它研究音乐，也研究音乐在人们的生活里怎么活
 - [田野录音的伦理：谁的声音，谁的权利](fieldwork-ethics/) —— 按下录音键之前，需要想清楚的五件事
@@ -103,7 +103,7 @@ updated: 2026-10-03
 
 ## 音乐教育（10 篇）
 
-*怎么学、怎么教：教学法、练琴、考级、老师与学生。*
+**怎么学、怎么教：教学法、练琴、考级、老师与学生。**
 
 - [三大教学法：达尔克罗兹、奥尔夫、柯达伊](three-methods/) —— 它们的分歧不在难易，而在「音乐是什么」的答案
 - [铃木教学法：像学母语一样学音乐](suzuki-method/) —— 先听、再模仿、最后才读谱，这是一条被验证过的路径
@@ -118,7 +118,7 @@ updated: 2026-10-03
 
 ## 演出与录音工业（10 篇）
 
-*声音从现场到耳朵、到麦克风、到成品：整条链路怎么运作。*
+**声音从现场到耳朵、到麦克风、到成品：整条链路怎么运作。**
 
 - [音乐厅声学：好声音是怎么被设计的](hall-acoustics/) —— 音乐厅不是"隔音好的房间"，它是一件为特定音乐定制的乐器
 - [现场扩声：声音是怎么被送到你耳边的](live-sound/) —— 扩声不是把声音放大，是补上乐器做不到的那几件事
@@ -193,7 +193,7 @@ If still unsure, start with [why the major scale sounds happy](../culture/major-
 
 ## Music and the Mind (12)
 
-*How music gets into feeling — emotion, memory, focus, body.*
+**How music gets into feeling — emotion, memory, focus, body.**
 
 - [Why Does Major Sound "Happy"? Explanations and Debates](major-happy-why/) —— One popular answer, one more careful answer, and one honest one
 - [Perfect Pitch — Gift, Training, and Its Edges](perfect-pitch-again/) —— The ability to name a note is not the ability to know music
@@ -237,7 +237,7 @@ If still unsure, start with [why the major scale sounds happy](../culture/major-
 - [Judging a Good Teacher — and a Good Student](finding-a-teacher/) —— In a trial lesson, listen not to how well they play but to whether they can diagnose you
 - [Adult Music Education — A Completely Different Design](adult-education/) —— Adults are not learning skills but the ability to finish something interrupted
 - [What School Music Lessons Actually Teach](school-music/) —— What a music lesson really contains is a listen-do-write cycle
-- [The "Reading First or Playing First" Debate](notation-teaching/) —— The debate is misplaced — the real disagreement is not order but what notation *is*
+- [The "Reading First or Playing First" Debate](notation-teaching/) —— The debate is misplaced — the real disagreement is not order but what notation **is**
 - [What Practice Research Actually Says](practice-research/) —— The "ten thousand hours" line is widely quoted; the research does not say that
 
 ## Live and Recording Industries (10)

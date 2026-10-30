@@ -129,7 +129,7 @@ Counter-intuitively, adult dropout peaks not at "this is too hard" but at **"I h
 
 Two designs that work against those:
 
-- **Allowing a lower difficulty**: sounding easier than the learner expected is a *good* outcome;
+- **Allowing a lower difficulty**: sounding easier than the learner expected is a **good** outcome;
 - **Removing the evaluation**: the most effective adult-class atmosphere has **no audience** — nothing to perform for.
 
 The "four short pieces" in the second example carries a third function: **something complete can be brought to every lesson**, which is the key psychological device against "I have achieved nothing".

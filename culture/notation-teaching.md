@@ -5,7 +5,7 @@ cat: C5
 title: 「先识谱还是先演奏」的教学辩论
 title_en: The "Reading First or Playing First" Debate
 summary: 这场辩论的错位在于，真正的分歧不是顺序，而是「谱是什么」
-summary_en: The debate is misplaced — the real disagreement is not order but what notation *is*
+summary_en: The debate is misplaced — the real disagreement is not order but what notation is
 level: standard
 tags: [音乐教育, 记谱, 教学法]
 tags_en: [music education, notation, pedagogy]
@@ -16,7 +16,7 @@ links:
   - "[[concept:sight-reading]]"
 instances:
   - nottingham-000466 | 一首英国乡村巡游进行曲 —— 需要稳定版本的场合（教会、仪式）里，谱必须先教 | A British village processional — in church and rite, where a stable version is required, notation has to come first
-  - giantmidi-006047 | 一位都铎时期女士的琉特琴歌本 —— 谱传传统里，"读谱"本身就是演奏技能 | A Tudor lady's lute book — in the written tradition, reading the score *is* the performing skill
+  - giantmidi-006047 | 一位都铎时期女士的琉特琴歌本 —— 谱传传统里，"读谱"本身就是演奏技能 | A Tudor lady's lute book — in the written tradition, reading the score **is** the performing skill
   - aria-000196 | 一组克莱门蒂小奏鸣曲 —— 分级教材从第一首起就配谱，因为"读得慢"是必须治的问题 | A set of Clementi sonatinas — graded books ship with the score from piece one, because slow reading is a problem to be treated
 sources:
   - 本文为记谱教学顺序争论的通识性整理；不为任何一方背书，具体顺序应按乐器与目标调整
@@ -86,7 +86,7 @@ updated: 2026-09-29
 :::
 
 ::: en
-The debate is usually phrased as "reading first or playing first". **But the real disagreement is not about order — it is about what a score *is*. The two sides define notation differently.**
+The debate is usually phrased as "reading first or playing first". **But the real disagreement is not about order — it is about what a score **is**. The two sides define notation differently.**
 
 ## Two views of notation
 
@@ -107,7 +107,7 @@ One example suffices: a village processional like the first example above is pla
 
 The strongest argument for "notation as record" is that **symbols can deceive.** A child may read accurately and hear nothing happening in the music — **symbol competence and aural competence are two separate skills.**
 
-The second example is evidence from the other side: in written traditions, reading the score *is* the performing skill. **It is not that you learn the music first and then learn to read — in that tradition, reading is the music.**
+The second example is evidence from the other side: in written traditions, reading the score **is** the performing skill. **It is not that you learn the music first and then learn to read — in that tradition, reading is the music.**
 
 ## A workable compromise
 

@@ -131,7 +131,7 @@ Across those three, **the root (C) and the top note barely change** — what mov
 2. Then only the second (minor) on "decompose";
 3. **Alternate between them quickly** — you will feel those two middle notes (E and E♭) starting to swap places in your mind.
 
-**That "swapping" sensation *is* the build-up of identification ability.** The method is identical to the interval pages here.
+**That "swapping" sensation **is** the build-up of identification ability.** The method is identical to the interval pages here.
 
 ## What each quality does in music
 

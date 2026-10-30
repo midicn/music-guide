@@ -141,7 +141,7 @@ Suzuki's assumptions have a real advantage in early childhood, because they matc
 
 Suzuki's teaching books differ from ordinary tutors in two ways:
 
-- **Everything sounds good** — pieces must play as *a piece*, not exist to drill a technique;
+- **Everything sounds good** — pieces must play as **a piece**, not exist to drill a technique;
 - **Growth is slow** — you do not advance while the previous step is unsteady.
 
 The first example above is a Clementi sonatina: it is both a teaching piece and **a real short work for the platform**. That choice is itself the value statement: **technical training need not cost you the sense of playing a piece.**

@@ -78,7 +78,7 @@ updated: 2026-09-28
 ## What paying actually buys
 
 - **Structure**: a systematic course removes the assembly work and lays the path out;
-- **Diagnosis**: a teacher's eyes and ears — **the single most worthwhile purchase in music**, because no machine or tutorial can see *your* specific problem;
+- **Diagnosis**: a teacher's eyes and ears — **the single most worthwhile purchase in music**, because no machine or tutorial can see **your** specific problem;
 - **Commitment**: money makes quitting harder. Not a slogan — sunk cost quietly does part of the persisting for you.
 
 ## A priority order for spending

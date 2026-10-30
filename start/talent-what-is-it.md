@@ -76,7 +76,7 @@ Unpacked, the word names at least five different things — with completely diff
 2. **Relative pitch** (hearing distances and relations between notes) — **fully trainable**. This is what ear training trains, and what actually does the work in real playing and writing.
 3. **Rhythmic sense** (body syncing to a beat) — trainable, and fast: it is a mix of motor coordination and auditory prediction.
 4. **Musical memory** (how well things stick) — depends far more on method (see memorising) than on drawer size at birth.
-5. **Emotional sensitivity to music** (being moved, wanting to answer) — natural intensity does differ; but it decides whether you *want to*, not whether you *can*. **Wanting is already enough.**
+5. **Emotional sensitivity to music** (being moved, wanting to answer) — natural intensity does differ; but it decides whether you **want to**, not whether you **can**. **Wanting is already enough.**
 
 ## An honest conclusion
 

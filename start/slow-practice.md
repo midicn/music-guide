@@ -86,7 +86,7 @@ The mechanism is the opposite: **at speed, the brain cannot supervise the action
 
 Slowing down returns three words to the brain:
 
-- **time to think**: before each move you *know* what comes next — instead of fingers first, brain chasing;
+- **time to think**: before each move you **know** what comes next — instead of fingers first, brain chasing;
 - **attention to listen**: spare capacity to check tone, intonation, buzz;
 - **room to correct**: a mistake can be stopped the moment it happens, not carried to the end of the phrase.
 

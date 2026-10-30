@@ -80,7 +80,7 @@ Copyright myths share one trait: **every one "sounds right".** Taken one by one 
 6. **"Public domain means use freely."** Half right. The **work** is free; the **recording or edition** in your hands may be another matter (see [public-domain reckoning](../public-domain/)).
 7. **"Just post the cover."** Mostly wrong. Covers walk the work-layer channel; the original backing also touches the recording layer (see [covering vs copying](../cover-vs-copy/)).
 8. **"Bought the CD / subscribed = may soundtrack my video."** Wrong. You bought the **right to listen**, not the right to sync (see [music for video](../sync-license/)).
-9. **"Nobody manages it, so it's free."** Wrong. Not finding the owner is a signal to *wait*, not a licence — dedicated orphan-works mechanisms exist, but not for "I didn't look".
+9. **"Nobody manages it, so it's free."** Wrong. Not finding the owner is a signal to **wait**, not a licence — dedicated orphan-works mechanisms exist, but not for "I didn't look".
 10. **"Used it for years, nobody complained."** Wrong. Limitation periods exist; being unnoticed is never a rights status.
 
 ## The shape behind the ten

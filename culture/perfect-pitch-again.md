@@ -90,7 +90,7 @@ Perfect pitch is arguably the **most mythologised** ability in music psychology 
 ## What it really means for learners
 
 - **Stop waiting for the gift**: what you need is **relative pitch** — trainable, fast to improve (see [[concept:ear-training|ear training]]);
-- **Naming is a by-product, not a starting point**: hear *relations* first (which interval, which direction); names arrive later on their own;
+- **Naming is a by-product, not a starting point**: hear **relations** first (which interval, which direction); names arrive later on their own;
 - **Calibrate with tools**: [[concept:concert-pitch|concert pitch]] and a tuner give your practice an objective reference.
 
 ## Listen: no reference — can you name them?

@@ -88,9 +88,9 @@ Fairly consistent in cognitive psychology:
 
 Individual differences are huge; the most useful self-knowledge is which type you are:
 
-- **The easily distracted**: any changing stimulus pulls attention away — including *good* songs;
+- **The easily distracted**: any changing stimulus pulls attention away — including **good** songs;
 - **The motivation-seeker**: rhythm helps start and sustain (the ancient principle of work songs — see [work and song](../work-and-song/));
-- **The noise-masker**: playing music *over* noise — the music's job is "background wall".
+- **The noise-masker**: playing music **over** noise — the music's job is "background wall".
 
 ## The music: how to choose a "work track"
 
@@ -99,9 +99,9 @@ Given the above, reliable picks are obvious:
 - **No lyrics** (avoid language competition);
 - **Low information, low surprise** (few hooks, low distraction — and lower [earworm](../earworms/) risk);
 - **Quieter than a conversation**;
-- **A fixed, looping playlist** (familiar to the point of not being *listened* to).
+- **A fixed, looping playlist** (familiar to the point of not being **listened** to).
 
-Which explains a fun fact: **game soundtracks, ambient electronic, plain chant** dominate study playlists — all designed to *not steal the scene*.
+Which explains a fun fact: **game soundtracks, ambient electronic, plain chant** dominate study playlists — all designed to **not steal the scene**.
 
 ## An honest summary
 

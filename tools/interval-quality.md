@@ -141,7 +141,7 @@ Major and minor thirds appear in music so constantly that the brain switches to 
 
 1. **Listen to the major third alone**, sing it internally, and remember the shape of that distance;
 2. **Listen to the minor third alone** and do the same;
-3. **Alternate between them quickly** — you are now training the *switch*, not memorising either one;
+3. **Alternate between them quickly** — you are now training the **switch**, not memorising either one;
 4. Only then go back to real music and spot them.
 
 **Step 3 is the point.** Hearing either one alone is easy; what is hard — and what real performance demands — is **switching between them quickly without confusion**.

@@ -87,7 +87,7 @@ Want to use a piece of music in your video, game or ad? **Finding the music is s
 
 ## Two shortcuts, each with conditions
 
-- **Pre-cleared libraries**: some platforms offer cleared music — subscription, use at will, no per-song negotiation. The price: you get *their* catalogue, not *that* song.
+- **Pre-cleared libraries**: some platforms offer cleared music — subscription, use at will, no per-song negotiation. The price: you get **their** catalogue, not **that** song.
 - **Public domain and open licences**: public-domain works and openly licensed music skip the full chain — but **read the fine print** (attribution, commercial use — see [the CC licence family](../cc-license-family/)).
 
 ## Three legitimate paths on a small budget

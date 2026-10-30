@@ -84,7 +84,7 @@ Reported rates vary widely (a matter of how it is defined), but studies agree: *
 
 ## One crucial clarification
 
-**Synesthesia is not "cross-sensory rhetoric".** "Music has colour", "this chord feels warm" — metaphors everyone uses; a synesthete's experience is **perceptual**: not "like blue" but *seeing* blue.
+**Synesthesia is not "cross-sensory rhetoric".** "Music has colour", "this chord feels warm" — metaphors everyone uses; a synesthete's experience is **perceptual**: not "like blue" but **seeing** blue.
 
 The two get conflated constantly — metaphors taken for clinical phenomena, or synesthesia recruited to "prove" objective colours in music.
 

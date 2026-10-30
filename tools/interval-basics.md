@@ -141,7 +141,7 @@ Below is a **perfect octave** — C4 and C5. Same name, an octave apart.
 
 **If an interval were only "distance", a perfect octave should sound like "the same note, very far away".** And it does — many people cannot tell an octave from a unison at all.
 
-**Next try a perfect fifth** (C4 and G4). It spans *less* than the octave, yet the sense of openness is stronger.
+**Next try a perfect fifth** (C4 and G4). It spans **less** than the octave, yet the sense of openness is stronger.
 
 **That is the difference between consonant and open:** the octave is a unison relation, the fifth is an open one. **Distance and consonance are not the same thing.**
 

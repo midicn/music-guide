@@ -148,7 +148,7 @@ One common confusion: **a suspension is not an unresolved chord.** The differenc
 Only the two most basic suspensions are shown here. Real suspensions also include:
 
 - **suspended 7th, 9th, 11th** — identical principle, higher held degree;
-- **tie** — not a suspension at all; it *joins* two notes rather than holding one;
+- **tie** — not a suspension at all; it **joins** two notes rather than holding one;
 - **retardation** — the deliberately unresolved variant of a suspension.
 
 **But the test is always the same: is that note a chord tone?**

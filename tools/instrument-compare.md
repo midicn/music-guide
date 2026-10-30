@@ -133,8 +133,8 @@ So you arrive at a counter-intuitive conclusion:
 
 **Because musical recognition relies on more than pitch — it also relies on "how the note was produced".**
 
-- the **pitch sequence** tells you *what melody* it is;
-- the **timbre and duration** tell you *what this instrument is doing*.
+- the **pitch sequence** tells you **what melody** it is;
+- the **timbre and duration** tell you **what this instrument is doing**.
 
 **Those are two separate lines in the brain.** When the timbre changes abruptly, the second line **interferes** with recognition on the first — **even though not a single note on the first line has changed.**
 
@@ -144,7 +144,7 @@ So you arrive at a counter-intuitive conclusion:
 2. **Switch straight to C**;
 3. Switch back to A.
 
-**Between steps 2 and 3 you will take a moment to recall the melody.** That hitch *is* the interference.
+**Between steps 2 and 3 you will take a moment to recall the melody.** That hitch **is** the interference.
 
 **Try B instead of C, and step 3 barely hitches at all.** Same melody, far less interference.
 

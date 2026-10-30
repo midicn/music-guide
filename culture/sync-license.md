@@ -115,7 +115,7 @@ Agreements, emails, payment receipts — **keep the whole chain**. Distributors,
 
 - **"My platform subscription = the right to soundtrack a video"** → entirely different things;
 - **"I bought the album = I can put it in my video"** → likewise;
-- **"I could not find the owner, so I used it"** → not finding the owner is a reason to *wait*, not a reason to use (move to openly licensed material instead).
+- **"I could not find the owner, so I used it"** → not finding the owner is a reason to **wait**, not a reason to use (move to openly licensed material instead).
 
 ## The professional way on a budget
 
@@ -127,7 +127,7 @@ Agreements, emails, payment receipts — **keep the whole chain**. Distributors,
 
 ## Listen: notes built for picture
 
-Scene music breathes with the image: it needs to *fit*, not necessarily to shine. Hear a simple pair — picture a scene it could sit under.
+Scene music breathes with the image: it needs to **fit**, not necessarily to shine. Hear a simple pair — picture a scene it could sit under.
 
 ```audiolab
 {"type":"interval","a":"E4","b":"B4","label":"纯五度：稳定、留白，适合「配画面」","label_en":"A perfect fifth — steady, open, made to sit under picture","hint":"两个音先分开听，再听合起来","hint_en":"Hear each note alone, then both together"}

@@ -77,12 +77,12 @@ Play a song and the foot starts tapping — no training required. **Rhythm perce
 A fast lane runs between auditory and motor systems: hear a steady beat and the body automatically locks onto it — **entrainment**. It explains a chain of daily facts:
 
 - Why tapping along needs no lessons;
-- Why dance music must be *steady* (unsteady beats are uncatchable);
+- Why dance music must be **steady** (unsteady beats are uncatchable);
 - Why walking and working together naturally grow work songs (see [work and song](../work-and-song/)).
 
 ## Movement from infancy
 
-Developmental studies observe clear rhythmic responses in infants (swaying, clapping), with the **preference to move along appearing very early** — suggesting a shared biological base for beat processing. How *precisely* one locks to the beat, however, varies widely with person and training.
+Developmental studies observe clear rhythmic responses in infants (swaying, clapping), with the **preference to move along appearing very early** — suggesting a shared biological base for beat processing. How **precisely** one locks to the beat, however, varies widely with person and training.
 
 ## A counter-intuitive fact
 

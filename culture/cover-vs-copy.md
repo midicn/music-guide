@@ -104,7 +104,7 @@ Using the **original recording** (in a video, as a bed, in a mashup) calls at th
 ## Field questions
 
 - **"I post covers on short-video platforms"**: platforms and collectives often have **umbrella arrangements** — following the platform flow and letting it settle is the compliant path;
-- **"I use the original backing track"**: that backing *is* the original recording — you have stepped onto the recording layer, one gate more than a pure cover;
+- **"I use the original backing track"**: that backing **is** the original recording — you have stepped onto the recording layer, one gate more than a pure cover;
 - **"I changed the words/music"**: now you are in **adaptation** territory, a separate set of rights (see [moral and economic rights](../moral-vs-economic/));
 - **"It is non-commercial"**: non-profit is **not** an automatic pass (see [fair use](../fair-use/)).
 

@@ -136,7 +136,7 @@ The practical consequence: **the performer's facing changes the timbre**. Same n
 
 ## Listen: what distance changes
 
-Below is the same set of notes used in the other audiolabs on this site. **Imagine two takes: one almost touching (full, no space), one several metres off (less detail, obvious room).** You will notice that what changes is *space*, not pitch.
+Below is the same set of notes used in the other audiolabs on this site. **Imagine two takes: one almost touching (full, no space), one several metres off (less detail, obvious room).** You will notice that what changes is **space**, not pitch.
 
 ```audiolab
 {"type":"scale","notes":["G3","C4","E4","G4","E4","C4"],"label":"One sound, two distances","label_en":"One sound, two distances","hint":"Imagine once close and once several metres away — what changes is space, not pitch","hint_en":"Imagine once close and once several metres away — what changes is space, not pitch"}

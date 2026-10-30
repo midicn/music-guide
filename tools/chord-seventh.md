@@ -103,7 +103,7 @@ Add **one more note** to a triad and it sounds completely different. **The point
 {"type":"chord","root":"C4","quality":"min7","label":"小七和弦 · 暗而不慌","label_en":"Minor seventh — dark but not unsettled","hint":"比小三和弦多一个小七度，多了它就不那么「委屈」了","hint_en":"A minor triad plus a minor seventh — with it, the chord stops sounding wronged","hint2":"根音上 0/3/7/10 个半音","hint2_en":"0/3/7/10 semitones above the root"}
 ```
 
-## The key: the added note changes *what*
+## The key: the added note changes **what**
 
 A triad is a **static colour**. Once a seventh is added, it becomes an **unfinished sentence**:
 

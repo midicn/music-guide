@@ -79,7 +79,7 @@ updated: 2026-09-28
 :::
 
 ::: en
-A MIDI dataset, a folk-song archive, a stack of sample packs — **a dataset's licence is a different question from a single song's**. It is a licence for a *basket of works*, and you need a sheet that explains the whole basket.
+A MIDI dataset, a folk-song archive, a stack of sample packs — **a dataset's licence is a different question from a single song's**. It is a licence for a **basket of works**, and you need a sheet that explains the whole basket.
 
 (Rules and practice; not legal advice.)
 

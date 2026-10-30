@@ -116,7 +116,7 @@ One consequence follows directly — **a variant gains a chance to outweigh the 
 
 - A fieldworker brings a recorder and can usually capture **only the one occasion they happened to encounter**;
 - that occasion is preserved and becomes "a version";
-- everyone who hears it later assumes it *is* the song;
+- everyone who hears it later assumes it **is** the song;
 - and **versions that were never recorded may simply stop being sung.**
 
 **One fixed version won — but it won by accident.**

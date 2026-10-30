@@ -82,7 +82,7 @@ updated: 2026-09-28
 A chart's essence is its **counting rules**:
 
 - **What is counted**: sales, streams, radio plays, downloads — tracked per channel;
-- **How it is combined**: channels weighted differently (the weights *are* the chart's editorial position);
+- **How it is combined**: channels weighted differently (the weights **are** the chart's editorial position);
 - **Multiple charts**: overall, genre, regional — because "number one" differs by coordinate system.
 
 So **charts mirror channel structure**: change the channels and the ruler changes with them — which is why "album charts", "singles charts" and "streaming charts" look less and less alike.
@@ -94,7 +94,7 @@ So **charts mirror channel structure**: change the channels and the ruler change
 An award's essence is its **voting rules**:
 
 - **Who votes**: industry peers? media? the public? — the electorate flavours the award;
-- **What is judged**: the work, commercial achievement, influence — different awards *judge different things*;
+- **What is judged**: the work, commercial achievement, influence — different awards **judge different things**;
 - **Why results differ**: not because someone erred, but because the three machines run different variables.
 
 **Popular awards lean toward "popularity"; professional awards toward "peer respect"; academy awards toward an imagined "historical place"** — all three can be "right" at once.

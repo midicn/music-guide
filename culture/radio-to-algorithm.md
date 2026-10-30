@@ -89,7 +89,7 @@ In the first half of the twentieth century, radio became music's primary distrib
 
 ## The visual age: a second leg
 
-Television and music video made *seeing* a variable — a song's spread began to depend on visual memory points. From here on, a "song" was an audiovisual product.
+Television and music video made **seeing** a variable — a song's spread began to depend on visual memory points. From here on, a "song" was an audiovisual product.
 
 ## The internet eve: on-demand and chaos
 

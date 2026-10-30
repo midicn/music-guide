@@ -122,7 +122,7 @@ updated: 2026-10-03
 
 **These four layers judge by different standards, so none substitutes for another.**
 
-## The producer: deciding what *not* to do
+## The producer: deciding what **not** to do
 
 A common misreading: the producer's job is "to make the song good".
 
@@ -132,7 +132,7 @@ What they actually do most often is **subtract**:
 - refusing a more "perfect" take that has no live quality;
 - deciding the song gets no second chorus.
 
-The second example is the clearest case: **the same Debussy under a different microphone position is a different piece** — and deciding *which* piece is the producer's call, not the mixer's.
+The second example is the clearest case: **the same Debussy under a different microphone position is a different piece** — and deciding **which** piece is the producer's call, not the mixer's.
 
 ## The recording engineer: turning physical reality into signal
 

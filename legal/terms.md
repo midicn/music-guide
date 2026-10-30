@@ -78,7 +78,7 @@ There are no accounts, no payments, and no transactions here.
 
 **Code** on this site is MIT licensed.
 
-**Musical works referenced here** (MIDI files) are *not* covered by the above. Each belongs to its own source licence within the midicn-lib dataset, and every example on every page carries its licence tier (C1 commercial / C2 non-commercial / C3 study only). For those, **their own licence governs**.
+**Musical works referenced here** (MIDI files) are **not** covered by the above. Each belongs to its own source licence within the midicn-lib dataset, and every example on every page carries its licence tier (C1 commercial / C2 non-commercial / C3 study only). For those, **their own licence governs**.
 
 ## 3. Please don't
 

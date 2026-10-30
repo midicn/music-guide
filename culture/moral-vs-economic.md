@@ -100,7 +100,7 @@ Their common trait: **transferable, licensable, and time-limited** (expiry sends
 
 ## A crucial distinction: which strand did you buy?
 
-"I sold you the whole song" cannot mean *everything* under the system: what transfers is usually the economic strand; attribution and integrity **stay with the author**.
+"I sold you the whole song" cannot mean **everything** under the system: what transfers is usually the economic strand; attribution and integrity **stay with the author**.
 
 This explains daily matters:
 

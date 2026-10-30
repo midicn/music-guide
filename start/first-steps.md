@@ -100,7 +100,7 @@ The practical problem is that your first instrument is rarely your last: your ha
 
 - **Buying a big lesson package up front** — take one or two trial lessons first and check that you and the teacher speak the same language.
 - **Opening three fronts at once** (theory, instrument, production) — pick one as the main project and keep the rest as hobbies.
-- **Waiting to be "ready"** — that day never comes. Starting with what you already have *is* the preparation.
+- **Waiting to be "ready"** — that day never comes. Starting with what you already have **is** the preparation.
 
 ## Listen: one scale
 

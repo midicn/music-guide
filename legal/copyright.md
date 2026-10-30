@@ -114,7 +114,7 @@ Because the content is **clean at the source**:
 - **Audio is synthesised live in the browser** — not a copy of any recording
 - **No external CDNs** (fonts, icons and scripts are all self-hosted)
 
-That is why this site *can* grant CC BY 4.0 rather than reserving all rights.
+That is why this site **can** grant CC BY 4.0 rather than reserving all rights.
 
 ## 3. Referenced tracks (MIDI)
 

@@ -142,7 +142,7 @@ Digital recording turns sound into **data that copies exactly**.
 **New problems:**
 
 - **loudness normalisation** — because recordings from different decades differ so much in level, platforms began adjusting level automatically, and **dynamics were flattened** (see the site's piece on normalisation for that);
-- **over-editing** — when seams become inaudible, some people began editing *too much*, producing sounds with no human residue.
+- **over-editing** — when seams become inaudible, some people began editing **too much**, producing sounds with no human residue.
 
 The first example, the one marked "Live", is a useful reminder: **it records something that actually happened once**. In an age when anything can be fixed, that marking has become precious.
 

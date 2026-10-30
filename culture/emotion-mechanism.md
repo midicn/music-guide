@@ -75,7 +75,7 @@ Music carries no emotion itself — no "happy molecules" live in audio. The main
 
 Taking Western tonal music as the sample (a repertoire that builds expectation with exceptional precision):
 
-- **Build**: a progression makes you *expect* the next chord (the classic: a dominant "wants" to go home);
+- **Build**: a progression makes you **expect** the next chord (the classic: a dominant "wants" to go home);
 - **Fulfil**: arrival as promised — stable, exhaled (the cadence);
 - **Delay**: detours and postponement — tension accumulates (why "crescendo, then sudden quiet" works);
 - **Break**: surprise chords — shock, freshness.
@@ -96,7 +96,7 @@ What is **relatively solid**: music systematically manipulates **arousal** — e
 
 - To **stir**: widen the expectation gap (faster, louder, bigger turns);
 - To **soothe**: shrink it (steady, predictable, fading);
-- For **sophistication**: satisfy the expectation *a little late — not too late*; the measure of delay is the craft.
+- For **sophistication**: satisfy the expectation **a little late — not too late**; the measure of delay is the craft.
 
 ## Listen: home by a detour
 

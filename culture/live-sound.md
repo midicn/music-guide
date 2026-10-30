@@ -150,7 +150,7 @@ This is the core of live engineering and the thing audiences most often misunder
 - **Front of house** — what the audience hears, optimised for everyone being comfortable;
 - **Stage / monitors** — what the performers hear, optimised for **hearing what they need to hear**.
 
-**The two signals are often opposite.** A loud bassist may need their low frequencies *reduced* in the monitors, or they cannot hear the melody they are singing over it; the front-of-house audience may need the bass *lifted* to feel the pulse.
+**The two signals are often opposite.** A loud bassist may need their low frequencies **reduced** in the monitors, or they cannot hear the melody they are singing over it; the front-of-house audience may need the bass **lifted** to feel the pulse.
 
 **So live mixing is not "making the sound good" — it is arranging two different listening realities at once.**
 

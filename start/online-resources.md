@@ -85,7 +85,7 @@ Online music resources reach choice paralysis: video tutorials, score libraries,
 | Video tutorials | demonstrating, play-along | being systematic (you assemble it) |
 | Score libraries | finding a specific piece | telling you what to learn first |
 | Q&A communities | fixing specific problems | systematic study |
-| Open courses | building frameworks | answering *your* case |
+| Open courses | building frameworks | answering **your** case |
 | Data and archives | research, provenance | hand-holding |
 
 ## A self-check for this site

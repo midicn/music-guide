@@ -81,9 +81,9 @@ Of the three, the second is hardest — it runs against everything normal practi
 
 ## Three habits, in order
 
-1. **Eyes ahead of hands.** While playing this bar, your eyes are already scanning the *shape* of the next (leaps or steps, accidentals). Drill: slow click, and **make yourself look at the coming bar before each downbeat**.
+1. **Eyes ahead of hands.** While playing this bar, your eyes are already scanning the **shape** of the next (leaps or steps, accidentals). Drill: slow click, and **make yourself look at the coming bar before each downbeat**.
 2. **Rhythm before notes.** The discipline of sight-reading: drop or miss a note if you must, never break the flow. A break cuts the information chain; a wrong note is just noise in the data.
-3. **A little new material daily.** Sight-reading runs on the total number of *first meetings*. **Five minutes of yesterday-untouched material daily** beats one hour a week — the key is "new"; revisiting adds nothing.
+3. **A little new material daily.** Sight-reading runs on the total number of **first meetings**. **Five minutes of yesterday-untouched material daily** beats one hour a week — the key is "new"; revisiting adds nothing.
 
 ## Choosing material: two grades down
 
