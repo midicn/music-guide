@@ -38,7 +38,7 @@ updated: 2026-10-03
 {"type":"scale","notes":["G3","A3","B3","C4","D4","E4","F#4","G4"],"label":"G 大调 · 同一个骨架，换了个落脚点","label_en":"G major — the same frame, a different home","hint":"注意升号那个音——它就是换调的全部代价","hint_en":"Note the sharp — that single note is the entire cost of transposition","hint2":"同样是全音阶，只有第 7 音升了","hint2_en":"Still a full scale; only the 7th degree is raised"}
 ```
 
-**第三遍：D 大调**
+第三遍：D 大调
 
 ```audiolab
 {"type":"scale","notes":["D4","E4","F#4","G4","A4","B4","C#5","D5"],"label":"D 大调 · 再升两个音","label_en":"D major — two sharps further","hint":"现在有两个升号，但听感比刚才更「远」——这就是调性距离","hint_en":"Two sharps now, yet it sounds further away — that is tonal distance","hint2":"升号越多，听感越「远」，但结构完全一样","hint2_en":"More sharps sounds further away, though the structure is identical"}
@@ -46,44 +46,44 @@ updated: 2026-10-03
 
 ## 换调换的是什么
 
-上面三遍里，**音与音之间的距离完全没变**（都是全音阶）。变的是三样东西：
+上面三遍里，音与音之间的距离完全没变（都是全音阶）。变的是三样东西：
 
 ### 1. 哪个音是「家」
 
-每一遍的第一个音和最后一个音就是主音。**它决定了整段音乐的重心。**
+每一遍的第一个音和最后一个音就是主音。它决定了整段音乐的重心。
 
-上面第二遍如果从 C 开始而不是 G 开始，你听到的就是**同一组音但重心不同**的东西——这就是"转调听起来不一样"的真正来源。
+上面第二遍如果从 C 开始而不是 G 开始，你听到的就是同一组音但重心不同的东西——这就是"转调听起来不一样"的真正来源。
 
 ### 2. 半音的位置
 
-- **C 大调**里半音在 E–F 和 B–C 之间；
-- **G 大调**里变成了 F♯–G 和 C–D；
-- **D 大调**里是 F♯–G、C♯–D。
+- C 大调里半音在 E–F 和 B–C 之间；
+- G 大调里变成了 F♯–G 和 C–D；
+- D 大调里是 F♯–G、C♯–D。
 
-**半音决定了"哪里有台阶"。** 这就是为什么同一组唱名在不同调里听起来性格不同。
+半音决定了"哪里有台阶"。 这就是为什么同一组唱名在不同调里听起来性格不同。
 
 ### 3. 哪些音被"升高"或"降低"
 
-升号不是随意的——**它只出现在需要避免半音冲突的地方**。上面第三遍那两个升号都是为了这个。
+升号不是随意的——它只出现在需要避免半音冲突的地方。上面第三遍那两个升号都是为了这个。
 
 ## 一个常见误解要澄清
 
-「升号多 = 调子亮」这个说法**只对了一半**。
+「升号多 = 调子亮」这个说法只对了一半。
 
-准确的说法是：**升号多 = 离 C 调更远**。亮不亮取决于你用什么调去比较——
+准确的说法是：升号多 = 离 C 调更远。亮不亮取决于你用什么调去比较——
 
-- D 大调听起来"亮"，是因为它离 C **近**；
-- 但 F♯ 大调（六个升号）比 D 大调"远"，也**更亮**（因为它有六个升号而不是两个）。
+- D 大调听起来"亮"，是因为它离 C 近；
+- 但 F♯ 大调（六个升号）比 D 大调"远"，也更亮（因为它有六个升号而不是两个）。
 
-**所以「亮」跟距离有关，跟升号数量也有关，两者不能混成一句。**
+所以「亮」跟距离有关，跟升号数量也有关，两者不能混成一句。
 
 ## 一个能自己做的实验
 
-用上面的按钮，把第一遍（C 调）和第三遍（D 调）**交替快速听**。
+用上面的按钮，把第一遍（C 调）和第三遍（D 调）交替快速听。
 
-**你会发现一件事：三遍之间在"同一首曲子"和"不同的曲子"之间摇摆。** 这就是转调听起来最真实的状态——
+你会发现一件事：三遍之间在"同一首曲子"和"不同的曲子"之间摇摆。 这就是转调听起来最真实的状态——
 
-**它的本质是：结构没变，参照变了。**
+它的本质是：结构没变，参照变了。
 
 ## 下一步
 
@@ -110,7 +110,7 @@ Below are **the same melody, placed in three different keys**. On three listens 
 {"type":"scale","notes":["G3","A3","B3","C4","D4","E4","F#4","G4"],"label":"G 大调 · 同一个骨架，换了个落脚点","label_en":"G major — the same frame, a different home","hint":"注意升号那个音——它就是换调的全部代价","hint_en":"Note the sharp — that single note is the entire cost of transposition","hint2":"同样是全音阶，只有第 7 音升了","hint2_en":"Still a full scale; only the 7th degree is raised"}
 ```
 
-**Third: D major**
+Third: D major
 
 ```audiolab
 {"type":"scale","notes":["D4","E4","F#4","G4","A4","B4","C#5","D5"],"label":"D 大调 · 再升两个音","label_en":"D major — two sharps further","hint":"现在有两个升号，但听感比刚才更「远」——这就是调性距离","hint_en":"Two sharps now, yet it sounds further away — that is tonal distance","hint2":"升号越多，听感越「远」，但结构完全一样","hint2_en":"More sharps sounds further away, though the structure is identical"}
@@ -118,44 +118,44 @@ Below are **the same melody, placed in three different keys**. On three listens 
 
 ## What transposition actually changes
 
-Across those three passes, **the distances between notes never changed** (all are full scales). Three things changed:
+Across those three passes, the distances between notes never changed (all are full scales). Three things changed:
 
 ### 1. Which note is home
 
-The first and last note of each pass is the tonic. **It determines the whole passage's centre of gravity.**
+The first and last note of each pass is the tonic. It determines the whole passage's centre of gravity.
 
-If the second pass started on C instead of G, you would hear **the same set of notes with a different centre** — and that is the real reason "transposed music sounds different".
+If the second pass started on C instead of G, you would hear the same set of notes with a different centre — and that is the real reason "transposed music sounds different".
 
 ### 2. Where the semitones sit
 
-- In **C major** the semitones fall between E–F and B–C;
-- in **G major** they become F♯–G and C–D;
-- in **D major** they are F♯–G and C♯–D.
+- In C major the semitones fall between E–F and B–C;
+- in G major they become F♯–G and C–D;
+- in D major they are F♯–G and C♯–D.
 
-**Semitones decide where the steps are.** That is why the same set of scale degrees carries a different character in different keys.
+Semitones decide where the steps are. That is why the same set of scale degrees carries a different character in different keys.
 
 ### 3. Which notes get raised or lowered
 
-Sharps are not arbitrary — **they appear only where needed to avoid a semitone clash.** Both sharps in the third pass exist for exactly that reason.
+Sharps are not arbitrary — they appear only where needed to avoid a semitone clash. Both sharps in the third pass exist for exactly that reason.
 
 ## A common misreading to clear up
 
-"More sharps means a brighter key" is **only half true**.
+"More sharps means a brighter key" is only half true.
 
-The accurate statement: **more sharps means further from C**. Whether it sounds bright depends on what you compare it against:
+The accurate statement: more sharps means further from C. Whether it sounds bright depends on what you compare it against:
 
-- D major sounds "bright" because it is **near** C;
-- but F♯ major (six sharps) is further from D, and also **brighter** (six sharps rather than two).
+- D major sounds "bright" because it is near C;
+- but F♯ major (six sharps) is further from D, and also brighter (six sharps rather than two).
 
 **So "brightness" relates both to distance and to the number of sharps — the two cannot be collapsed into one sentence.**
 
 ## An experiment you can run
 
-Using the buttons above, alternate **quickly** between the first pass (C) and the third (D).
+Using the buttons above, alternate quickly between the first pass (C) and the third (D).
 
 **You will notice something: the three passes swing between "the same tune" and "different tunes".** That is the most truthful state of transposition —
 
-**its essence is: the structure is unchanged, the reference has moved.**
+its essence is: the structure is unchanged, the reference has moved.
 
 ## Next
 

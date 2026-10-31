@@ -42,17 +42,17 @@ updated: 2026-09-28
 
 有些音乐**故意不让身体"对上"**：
 
-- **切分与错位**：重音落在"弱位"上，身体刚要落步就被"闪"一下——爵士、放克的核心趣味；
-- **复合拍与交错节奏**：两套拍子同时走——西非鼓乐、某些巴尔干音乐的世界；
-- **自由节拍**：根本不给稳定拍子——古琴、格里高利圣咏的呼吸感。
+- 切分与错位：重音落在"弱位"上，身体刚要落步就被"闪"一下——爵士、放克的核心趣味；
+- 复合拍与交错节奏：两套拍子同时走——西非鼓乐、某些巴尔干音乐的世界；
+- 自由节拍：根本不给稳定拍子——古琴、格里高利圣咏的呼吸感。
 
-**"想跟着动"和"动不进去"都是设计的一部分。** 节奏的学问，就是把身体"接住"再"放下"的手艺。
+"想跟着动"和"动不进去"都是设计的一部分。 节奏的学问，就是把身体"接住"再"放下"的手艺。
 
 ## 实用的一面：用身体学节奏
 
-- **走路练拍子**：把拍子绑到步伐上——最省力的节拍器；
-- **拍手分解**：先拍"强拍"，再补"弱拍"（[[concept:rhythm-training|节奏训练]] 的核心手法）；
-- **先动再数**：卡壳时别忙着数"1-2-3-4"，先让身体"荡"起来，数字会自己跟上。
+- 走路练拍子：把拍子绑到步伐上——最省力的节拍器；
+- 拍手分解：先拍"强拍"，再补"弱拍"（[[concept:rhythm-training|节奏训练]] 的核心手法）；
+- 先动再数：卡壳时别忙着数"1-2-3-4"，先让身体"荡"起来，数字会自己跟上。
 
 ## 听一听：一个「接得住」的拍子
 
@@ -66,7 +66,7 @@ updated: 2026-09-28
 
 - 把身体训练成节拍器：[[concept:rhythm-training|节奏训练方法]]。
 - 拍子最密集的地方：[[instrument:drum-kit|爵士鼓组]]。
-- 相关篇章：本站 [劳动与歌](../work-and-song/)。
+- 相关篇章：[劳动与歌](../work-and-song/)。
 :::
 
 ::: en
@@ -82,23 +82,23 @@ A fast lane runs between auditory and motor systems: hear a steady beat and the 
 
 ## Movement from infancy
 
-Developmental studies observe clear rhythmic responses in infants (swaying, clapping), with the **preference to move along appearing very early** — suggesting a shared biological base for beat processing. How **precisely** one locks to the beat, however, varies widely with person and training.
+Developmental studies observe clear rhythmic responses in infants (swaying, clapping), with the **preference to move along appearing very early** — suggesting a shared biological base for beat processing. How precisely one locks to the beat, however, varies widely with person and training.
 
 ## A counter-intuitive fact
 
-Some music **deliberately refuses the body's lock-on**:
+Some music deliberately refuses the body's lock-on:
 
-- **Syncopation and displacement**: accents land off-beat; the body's step gets "feinted" — the core thrill of jazz and funk;
-- **Compound and interlocking metres**: two pulses at once — West African drumming, some Balkan traditions;
-- **Free rhythm**: no steady beat at all — the breathing feel of guqin or Gregorian chant.
+- Syncopation and displacement: accents land off-beat; the body's step gets "feinted" — the core thrill of jazz and funk;
+- Compound and interlocking metres: two pulses at once — West African drumming, some Balkan traditions;
+- Free rhythm: no steady beat at all — the breathing feel of guqin or Gregorian chant.
 
-**Wanting to move — and being unable to — are both part of the design.** Rhythm's craft is catching the body, then letting it go.
+Wanting to move — and being unable to — are both part of the design. Rhythm's craft is catching the body, then letting it go.
 
 ## A practical side: learn rhythm with the body
 
-- **Walk the beat**: bind the pulse to your steps — the cheapest metronome;
-- **Clap in layers**: strong beats first, then fill the weak ones (the core move of [[concept:rhythm-training|rhythm training]]);
-- **Move before counting**: when stuck, do not count "1-2-3-4" harder — let the body swing, and the numbers catch up.
+- Walk the beat: bind the pulse to your steps — the cheapest metronome;
+- Clap in layers: strong beats first, then fill the weak ones (the core move of [[concept:rhythm-training|rhythm training]]);
+- Move before counting: when stuck, do not count "1-2-3-4" harder — let the body swing, and the numbers catch up.
 
 ## Listen: a beat you can catch
 

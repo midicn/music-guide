@@ -48,14 +48,14 @@ updated: 2026-09-28
 历史的大转弯，往往由**技术**推动——记住这几件事，比背年代有用：
 
 - **记谱法**的成熟 → 音乐可以被精确复制，跨代传播；
-- **复调**的发明 → 多个声部同时说话，欧洲音乐的独特路线由此展开；
-- **印刷术与乐谱出版** → 音乐成为商品，业余爱好者变多；
-- **平均律**的普及 → 可以自由转调，和声空间打开；
-- **录音**的发明 → 音乐第一次可以被「保存」，二十世纪之后的一切都变了。
+- 复调的发明 → 多个声部同时说话，欧洲音乐的独特路线由此展开；
+- 印刷术与乐谱出版 → 音乐成为商品，业余爱好者变多；
+- 平均律的普及 → 可以自由转调，和声空间打开；
+- 录音的发明 → 音乐第一次可以被「保存」，二十世纪之后的一切都变了。
 
 ## 抓手三：中国音乐史是并行的主线
 
-中国有一条**独立发展、同样长**的音乐史：八音分类、十二律、戏曲、民乐。——不要把它「插入」西方的时间线，而是当作**另一条主线**并排看：两者解决的问题相似（音怎么定、曲怎么传），答案各异。
+中国有一条独立发展、同样长的音乐史：八音分类、十二律、戏曲、民乐。——不要把它「插入」西方的时间线，而是当作另一条主线并排看：两者解决的问题相似（音怎么定、曲怎么传），答案各异。
 
 ## 听一听：纯五度——最早的空旷感
 
@@ -96,13 +96,13 @@ History's sharp turns usually come from **technology**. Remember a few of these 
 
 - a mature **notation** → music can be copied exactly and travel across generations;
 - the invention of **polyphony** → several voices at once; Europe's distinctive path begins;
-- **printing and music publishing** → music becomes a commodity; amateurs multiply;
-- the spread of **equal temperament** → keys change freely; harmonic space opens up;
-- the invention of **recording** → music becomes storable, and everything after is different.
+- printing and music publishing → music becomes a commodity; amateurs multiply;
+- the spread of equal temperament → keys change freely; harmonic space opens up;
+- the invention of recording → music becomes storable, and everything after is different.
 
 ## Handle three: China runs a parallel main line
 
-China has a music history just as long, **developed independently**: the eight-instrument categories, the twelve-lü pitch system, opera, instrumental traditions. Do not insert it into the Western timeline — read it as **another main line beside it**. The questions were similar (how to fix pitches, how to pass pieces on); the answers differed.
+China has a music history just as long, developed independently: the eight-instrument categories, the twelve-lü pitch system, opera, instrumental traditions. Do not insert it into the Western timeline — read it as another main line beside it. The questions were similar (how to fix pitches, how to pass pieces on); the answers differed.
 
 ## Listen: the perfect fifth, the earliest emptiness
 

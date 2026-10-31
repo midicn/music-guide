@@ -16,7 +16,7 @@ instances:
   - m21-000001 | 巴赫的一首众赞歌 —— 每首众赞歌的末句都是一个终止式 | Another Bach chorale — the last phrase of every chorale is a cadence
   - atepp-000238 | 肖斯塔科维奇的一首前奏曲与赋格 —— 赋格的尾部常靠终止式落地 | A Shostakovich Prelude and Fugue — fugue endings usually land on a cadence
 sources:
-  - 本页为终止式听辨练习的说明；终止式类型依据通用功能和声记法
+  - 这一条为终止式听辨练习的说明；终止式类型依据通用功能和声记法
   - 实例均标注来源与许可档位，可在线试听；练习用的合成音由浏览器实时生成，非录音
 updated: 2026-10-03
 ---
@@ -38,7 +38,7 @@ updated: 2026-10-03
 {"type":"progression","key":"C4","degrees":["I","IV","V"],"label":"半终止 · 停在属和弦上","label_en":"Half cadence — stopping on the dominant","hint":"它结束在「半路」，因为 V 还没有解决——悬念被保留","hint_en":"It ends mid-journey, because V is unresolved — the suspense is kept","beat":1.2}
 ```
 
-**第三种：变格终止（IV → I）** —— 听起来更"软"的结束。
+第三种：变格终止（IV → I） —— 听起来更"软"的结束。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["IV","I"],"label":"变格终止 IV–I · 更软的结束","label_en":"Plagal cadence IV–I — a softer ending","hint":"没有属功能参与，所以听起来像「圆满」而不是「解决」","hint_en":"No dominant function involved, so it sounds 'complete' rather than 'resolved'","beat":1.3}
@@ -46,18 +46,18 @@ updated: 2026-10-03
 
 ## 关键：两个音同时到达
 
-这是本页最想让你记住的一句。
+这是最想让你记住的一句。
 
-**完全终止之所以「圆满」，不是因为它停在主和弦，而是因为：**
+完全终止之所以「圆满」，不是因为它停在主和弦，而是因为：
 
-- **低音**（属 → 主）和
-- **旋律**（通常是主音或三音）
+- 低音（属 → 主）和
+- 旋律（通常是主音或三音）
 
-**在同一瞬间到达。**
+在同一瞬间到达。
 
-**低音声部给出"走了多远"（属→主是最强的方向），旋律给出"落在哪"（主音）。两者对齐的那一刻，就是"说完"的感觉。**
+低音声部给出"走了多远"（属→主是最强的方向），旋律给出"落在哪"（主音）。两者对齐的那一刻，就是"说完"的感觉。
 
-**所以如果你把低音和旋律错开一点，"说完"的感觉就减弱了。** 这也是为什么同一组和弦在不同排列下，终结感会不一样。
+所以如果你把低音和旋律错开一点，"说完"的感觉就减弱了。 这也是为什么同一组和弦在不同排列下，终结感会不一样。
 
 ## 三种终止式的情绪差别
 
@@ -67,25 +67,25 @@ updated: 2026-10-03
 | 半终止（→ V） | 悬念、未完 | 乐段中间、段落转折 |
 | 变格（IV–I） | 柔和、安定 | 祷词式的收束、安静结尾 |
 
-**一个实用建议**：如果你要写一段的结尾，**先用完全终止**——它最不容易出错。半终止留给"还要继续"的地方。
+一个实用建议：如果你要写一段的结尾，先用完全终止——它最不容易出错。半终止留给"还要继续"的地方。
 
 ## 一个能自己做的实验
 
-**把第一组（V–I）的 `beat` 从 1.3 改小（比如 0.7）再听。**
+把第一组（V–I）的 `beat` 从 1.3 改小（比如 0.7）再听。
 
-**两个和弦会靠得更近**，"说完"的感觉会变得更"急"——**这就是为什么终止式慢下来了会显得庄重，快就会显得草率。**
+两个和弦会靠得更近，"说完"的感觉会变得更"急"——这就是为什么终止式慢下来了会显得庄重，快就会显得草率。
 
-**节奏在这里不是速度问题，是"这个停顿被多重视"的问题。**
+节奏在这里不是速度问题，是"这个停顿被多重视"的问题。
 
 ## 一个诚实的说明
 
-本页只演示了三种最常见的。真实的终止式还有：
+这一条只演示了三种最常见的。真实的终止式还有：
 
-- **半终止的变体**（停在 ii 或 vi 上的"伪半终止"）；
-- **弗里几亚终止**（全音阶上去的、听起来很"亮"的结束）；
-- **洛克里亚终止**（下行到主和弦的"现代"感觉）。
+- 半终止的变体（停在 ii 或 vi 上的"伪半终止"）；
+- 弗里几亚终止（全音阶上去的、听起来很"亮"的结束）；
+- 洛克里亚终止（下行到主和弦的"现代"感觉）。
 
-**但判断方法始终是同一个：低音去了哪，旋律去了哪，两者是否同时到。**
+但判断方法始终是同一个：低音去了哪，旋律去了哪，两者是否同时到。
 
 ## 下一步
 
@@ -124,10 +124,10 @@ This is the sentence worth keeping.
 
 **A perfect cadence feels "complete" not because it stops on the tonic, but because:**
 
-- the **bass** (dominant → tonic) and
-- the **melody** (usually the tonic or the third)
+- the bass (dominant → tonic) and
+- the melody (usually the tonic or the third)
 
-**arrive at the same moment.**
+arrive at the same moment.
 
 **The bass supplies "how far we travelled" (dominant → tonic is the strongest direction); the melody supplies "where we landed" (the tonic). The moment those two align is the moment a sentence ends.**
 
@@ -141,23 +141,23 @@ This is the sentence worth keeping.
 | Half (→ V) | suspense, unfinished | middle of a section, a transition |
 | Plagal (IV–I) | gentle, settled | prayer-like closes, quiet endings |
 
-**One practical tip**: if you are writing an ending, **use a perfect cadence first** — it is the hardest to get wrong. Save half cadences for places that are supposed to continue.
+One practical tip: if you are writing an ending, use a perfect cadence first — it is the hardest to get wrong. Save half cadences for places that are supposed to continue.
 
 ## An experiment you can run yourself
 
 **Change the `beat` of progression one from 1.3 to something smaller (say 0.7) and listen again.**
 
-**The two chords will crowd together** and the sense of completion becomes more "hurried" — **which is why slowing a cadence makes it feel solemn, and rushing it feels careless.**
+The two chords will crowd together and the sense of completion becomes more "hurried" — **which is why slowing a cadence makes it feel solemn, and rushing it feels careless.**
 
-**Here rhythm is not about speed; it is about how much the pause is valued.**
+Here rhythm is not about speed; it is about how much the pause is valued.
 
 ## An honest note
 
 Only the three commonest are shown. Real cadences also include:
 
-- **variants of the half cadence** (stopping on ii or vi, the "pseudo-half");
-- **Phrygian cadence** (a rising whole-tone approach, which sounds very bright);
-- **Locrian cadence** (a descending-to-tonic ending that sounds modern).
+- variants of the half cadence (stopping on ii or vi, the "pseudo-half");
+- Phrygian cadence (a rising whole-tone approach, which sounds very bright);
+- Locrian cadence (a descending-to-tonic ending that sounds modern).
 
 **But the test is always the same: where does the bass go, where does the melody go, and do they arrive together.**
 

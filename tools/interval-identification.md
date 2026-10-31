@@ -30,29 +30,29 @@ updated: 2026-10-03
 
 1. **听得出有区别** —— 能判断两个音一样或不一样；
 2. **听得出是什么** —— 能说出它是大三度还是纯五度；
-3. **心里能唱出来** —— 能在没有声音的情况下在脑内重建它。
+3. 心里能唱出来 —— 能在没有声音的情况下在脑内重建它。
 
-**第 3 层是瓶颈。** 因为辨认可以靠排除法（"比大三度小"），但唱歌必须精确到具体两个音。
+第 3 层是瓶颈。 因为辨认可以靠排除法（"比大三度小"），但唱歌必须精确到具体两个音。
 
-**所以下面的练习全部围绕第 3 层设计。**
+所以下面的练习全部围绕第 3 层设计。
 
 ## 三个对照，练「距离感」
 
 先别管名字，只听距离。
 
-**第一组：大三度**
+第一组：大三度
 
 ```audiolab
 {"type":"interval","a":"C4","b":"E4","label":"大三度 · 宽而稳","label_en":"Major third — wide but stable","hint":"两个音都落在 C 大调的主音与三音上","hint_en":"Both notes sit in the tonic triad of C major","hint2":"4 个半音","hint2_en":"4 semitones"}
 ```
 
-**第二组：小三度**
+第二组：小三度
 
 ```audiolab
 {"type":"interval","a":"C4","b":"Eb4","label":"小三度 · 窄而暗","label_en":"Minor third — narrower and darker","hint":"只差一个半音，但听感明显不同——这是最难的一组","hint_en":"Only one semitone smaller, yet clearly different — this is the hardest pair","hint2":"3 个半音","hint2_en":"3 semitones"}
 ```
 
-**第三组：纯五度**
+第三组：纯五度
 
 ```audiolab
 {"type":"interval","a":"C4","b":"G4","label":"纯五度 · 最协和的跳","label_en":"Perfect fifth — the most consonant leap","hint":"空旷但不打架，任何调里都成立","hint_en":"Open without clashing — it works in any key","hint2":"7 个半音","hint2_en":"7 semitones"}
@@ -60,29 +60,29 @@ updated: 2026-10-03
 
 ## 一个可执行的练习流程
 
-1. **只点「合起来」**，不要分别听——分别听会让答案变成"两个音的印象"，而不是"距离的印象"；
-2. **在心里把它唱一遍**（第 3 层）；
+1. 只点「合起来」，不要分别听——分别听会让答案变成"两个音的印象"，而不是"距离的印象"；
+2. 在心里把它唱一遍（第 3 层）；
 3. 唱得出来，再点分别听，验证；
-4. **唱不出来的那一组，就是你要练的那一组**——不是全部都要练。
+4. 唱不出来的那一组，就是你要练的那一组——不是全部都要练。
 
-**第 4 步是整个流程的关键。** 大多数人练音程失败的原因是"从头到尾都练"，而正确做法是**只练唱不出来的那几个**。
+第 4 步是整个流程的关键。 大多数人练音程失败的原因是"从头到尾都练"，而正确做法是只练唱不出来的那几个。
 
 ## 一个常见误解要澄清
 
-「我听不出大三度和小三度」**不是耳朵有问题**。真实原因是：
+「我听不出大三度和小三度」不是耳朵有问题。真实原因是：
 
 - 缺少参照——没人告诉你"大三度听起来该是这样"；
 - 只听不做——听得再多，不在脑内重建就永远不牢。
 
-**这两个问题都能靠上面的流程解决，不需要换耳朵。**
+这两个问题都能靠上面的流程解决，不需要换耳朵。
 
 ## 进度会卡在一个地方
 
-练耳的进展不是线性的。常见轨迹是：**初期进步快 → 平台期 → 突破**。
+练耳的进展不是线性的。常见轨迹是：初期进步快 → 平台期 → 突破。
 
-**平台期通常就发生在"能听出但唱不准"的位置**——也就是第 2 层到第 3 层之间。
+平台期通常就发生在"能听出但唱不准"的位置——也就是第 2 层到第 3 层之间。
 
-**这不是天赋问题，是训练目标切换。** 过了这关，后面的进展会重新变快。
+这不是天赋问题，是训练目标切换。 过了这关，后面的进展会重新变快。
 
 ## 下一步
 
@@ -101,29 +101,29 @@ Aural ability has three layers, and **most people stall between the second and t
 
 1. **Hearing that there is a difference** — same or not, higher or lower;
 2. **Hearing what it is** — a major third or a perfect fifth;
-3. **Hearing it internally** — reconstructing it in your head with no sound present.
+3. Hearing it internally — reconstructing it in your head with no sound present.
 
-**Layer 3 is the bottleneck.** Naming can work by elimination ("smaller than a major third"), but singing must be exact down to the two pitches.
+Layer 3 is the bottleneck. Naming can work by elimination ("smaller than a major third"), but singing must be exact down to the two pitches.
 
-**So every exercise below targets layer 3.**
+So every exercise below targets layer 3.
 
 ## Three pairs, training your sense of distance
 
 Ignore names at first; just hear the distance.
 
-**One: major third**
+One: major third
 
 ```audiolab
 {"type":"interval","a":"C4","b":"E4","label":"大三度 · 宽而稳","label_en":"Major third — wide but stable","hint":"两个音都落在 C 大调的主音与三音上","hint_en":"Both notes sit in the tonic triad of C major","hint2":"4 个半音","hint2_en":"4 semitones"}
 ```
 
-**Two: minor third**
+Two: minor third
 
 ```audiolab
 {"type":"interval","a":"C4","b":"Eb4","label":"小三度 · 窄而暗","label_en":"Minor third — narrower and darker","hint":"只差一个半音，但听感明显不同——这是最难的一组","hint_en":"Only one semitone smaller, yet clearly different — this is the hardest pair","hint2":"3 个半音","hint2_en":"3 semitones"}
 ```
 
-**Three: perfect fifth**
+Three: perfect fifth
 
 ```audiolab
 {"type":"interval","a":"C4","b":"G4","label":"纯五度 · 最协和的跳","label_en":"Perfect fifth — the most consonant leap","hint":"空旷但不打架，任何调里都成立","hint_en":"Open without clashing — it works in any key","hint2":"7 个半音","hint2_en":"7 semitones"}
@@ -131,29 +131,29 @@ Ignore names at first; just hear the distance.
 
 ## A procedure you can actually execute
 
-1. **Use only the "together" button** — playing the notes separately turns the answer into an impression of two notes rather than an impression of a distance;
-2. **Sing it in your head** (layer 3);
+1. Use only the "together" button — playing the notes separately turns the answer into an impression of two notes rather than an impression of a distance;
+2. Sing it in your head (layer 3);
 3. If you can sing it, play them separately to verify;
-4. **The pair you cannot sing is the pair you should practise** — not all of them.
+4. The pair you cannot sing is the pair you should practise — not all of them.
 
-**Step 4 is the crux.** Most people's practice fails because they work through everything; the right move is to **work only on what you cannot yet sing**.
+Step 4 is the crux. Most people's practice fails because they work through everything; the right move is to work only on what you cannot yet sing.
 
 ## A misreading worth clearing up
 
-"I cannot hear the difference between a major and minor third" is **not a problem with your ears**. The real causes are:
+"I cannot hear the difference between a major and minor third" is not a problem with your ears. The real causes are:
 
 - no reference — nobody ever told you what a major third should sound like;
 - listening without doing — however much you hear, it will not stick until you rebuild it internally.
 
-**Both are fixed by the procedure above. You do not need different ears.**
+Both are fixed by the procedure above. You do not need different ears.
 
 ## Where progress stalls
 
-Ear-training progress is not linear. The usual trajectory: **fast early progress → plateau → breakthrough**.
+Ear-training progress is not linear. The usual trajectory: fast early progress → plateau → breakthrough.
 
-**The plateau sits exactly at "I can hear it but cannot sing it"** — between layer 2 and layer 3.
+The plateau sits exactly at "I can hear it but cannot sing it" — between layer 2 and layer 3.
 
-**That is not a talent problem; it is a change of training target.** Past it, progress speeds up again.
+That is not a talent problem; it is a change of training target. Past it, progress speeds up again.
 
 ## Next
 

@@ -34,11 +34,11 @@ updated: 2026-09-29
 - **有明确的目标** —— 不是"练琴"，是"这一段换指要匀"；
 - **有即时的反馈** —— 知道自己错了，才可能改；
 - **有超出当前能力的任务** —— 太简单和太难都不产生进步；
-- **有休息** —— 极限练习会掉水平。
+- 有休息 —— 极限练习会掉水平。
 
-被简化掉的是这些条件，只留下时长。**这就是为什么有人练了一万小时还是很差——缺的不是时长，是那三条。**
+被简化掉的是这些条件，只留下时长。这就是为什么有人练了一万小时还是很差——缺的不是时长，是那三条。
 
-上面第一个实例说的就是这个：分级练习材料之所以有效，是因为它**短、单项明确、可自评**，三条都对应上了。
+上面第一个实例说的就是这个：分级练习材料之所以有效，是因为它短、单项明确、可自评，三条都对应上了。
 
 ## 研究里比较可靠的几条
 
@@ -46,51 +46,51 @@ updated: 2026-09-29
 
 ### 1. 有目的的练习 > 无目的的重复
 
-**"弹三十遍这首曲子"和"把第 9–16 小节的手型固定住再合回去"是两种完全不同的练习。** 前者产出的是熟练，后者产出的是能力。
+"弹三十遍这首曲子"和"把第 9–16 小节的手型固定住再合回去"是两种完全不同的练习。 前者产出的是熟练，后者产出的是能力。
 
 ### 2. 慢练的价值被低估
 
-上面第二个实例是个例子：对位练习训练的不是手指技巧，是**同时处理两条线**。这类能力在快速弹奏里根本来不及想，只能靠慢速让它显形。
+上面第二个实例是个例子：对位练习训练的不是手指技巧，是同时处理两条线。这类能力在快速弹奏里根本来不及想，只能靠慢速让它显形。
 
-**慢练不是"降低难度"，是把隐性的决策变成显性的。**
+慢练不是"降低难度"，是把隐性的决策变成显性的。
 
 ### 3. 睡眠和间隔被低估
 
-巩固主要发生在**练完之后**，不在练的时候。所以：
+巩固主要发生在练完之后，不在练的时候。所以：
 
 - 睡不够练再久效果也打折；
-- **隔一天再练一遍**（间隔重复），比连着练三遍更有效。
+- 隔一天再练一遍（间隔重复），比连着练三遍更有效。
 
 ### 4. 提取练习 > 重读
 
-自测式练习（弹一半，然后回忆剩下的）比完整重弹三遍更有效。**因为只有提取才动用记忆，完整重弹只是滑过去。**
+自测式练习（弹一半，然后回忆剩下的）比完整重弹三遍更有效。因为只有提取才动用记忆，完整重弹只是滑过去。
 
 ## 几条最容易被违反的
 
 实践中最常见的违反：
 
-- **只练会的部分** —— 因为舒服。困难段落才是能力增长的地方；
-- **练到累** —— 累的时候练的是动作不是判断；
-- **不录音** —— 没有反馈源的练习，**很多错误会永久固化**；
-- **以时长为目标** —— "今天练够一小时"替代了"今天练成什么"。
+- 只练会的部分 —— 因为舒服。困难段落才是能力增长的地方；
+- 练到累 —— 累的时候练的是动作不是判断；
+- 不录音 —— 没有反馈源的练习，很多错误会永久固化；
+- 以时长为目标 —— "今天练够一小时"替代了"今天练成什么"。
 
-上面第三个实例是个有意思的对照：十九世纪的教本**已经把"每天固定时段"写进结构**——它很清楚固定时段的必要性，只是当时还不知道该怎么解释。
+上面第三个实例是个有意思的对照：十九世纪的教本已经把"每天固定时段"写进结构——它很清楚固定时段的必要性，只是当时还不知道该怎么解释。
 
 ## 一个可执行的结构
 
 综合起来，一个能落地的练习单元大概是：
 
-1. **定一个具体目标**（不超过两件）；
-2. **慢速起步**，速度以"不出错"为准；
-3. **中间做一次自测**（不看谱回忆，或录音回听）；
-4. **最后留一个"下次起点"**；
-5. **练完就停**，别用疲劳换心安。
+1. 定一个具体目标（不超过两件）；
+2. 慢速起步，速度以"不出错"为准；
+3. 中间做一次自测（不看谱回忆，或录音回听）；
+4. 最后留一个"下次起点"；
+5. 练完就停，别用疲劳换心安。
 
-**顺序比时长重要。**
+顺序比时长重要。
 
 ## 听一听：一个"慢练能看见、快点就看不见"的地方
 
-下面这段的第三、四音有一个小跳。**慢速弹，你会听出它需要提前准备；快速弹，你会直接糊过去。** 这就是慢练在干的事——**把来不及做的决策提前暴露出来。**
+下面这段的第三、四音有一个小跳。慢速弹，你会听出它需要提前准备；快速弹，你会直接糊过去。 这就是慢练在干的事——把来不及做的决策提前暴露出来。
 
 ```audiolab
 {"type":"scale","notes":["D4","F4","G4","A4","G4","F4","D4"],"label":"慢练才能看见的决策点","label_en":"A decision point only slow practice reveals","hint":"放慢三倍——你会听见第三音之前其实有个准备动作","hint_en":"Slow it three times down — you will hear the preparation before the third note"}
@@ -114,11 +114,11 @@ The core of the original work is not "enough hours will do it", but several spec
 - **A defined goal** — not "practise piano", but "make this passage's fingering even";
 - **Immediate feedback** — you must know you were wrong in order to change it;
 - **Tasks beyond current ability** — too easy and too hard both fail to produce progress;
-- **Rest** — practising at your limit degrades performance.
+- Rest — practising at your limit degrades performance.
 
 What gets dropped is those conditions, leaving only the duration. **That is why someone can practise for ten thousand hours and still be mediocre: the missing part is not duration, it is the other three.**
 
-The first example says the same thing: graded practice material works because it is **short, single-focus, and self-assessable** — all three conditions satisfied.
+The first example says the same thing: graded practice material works because it is short, single-focus, and self-assessable — all three conditions satisfied.
 
 ## The more reliable findings
 
@@ -130,47 +130,47 @@ Several directions are far more robust than the ten-thousand-hour line:
 
 ### 2. Slow practice is undervalued
 
-The second example shows why: counterpoint exercises do not train finger technique, they train **handling two lines at once**. That capacity is unavailable at speed — it can only be made visible by playing slowly.
+The second example shows why: counterpoint exercises do not train finger technique, they train handling two lines at once. That capacity is unavailable at speed — it can only be made visible by playing slowly.
 
 **Slow practice is not "making it easier"; it turns invisible decisions into visible ones.**
 
 ### 3. Sleep and spacing are undervalued
 
-Consolidation happens **after** practice, not during it. So:
+Consolidation happens after practice, not during it. So:
 
 - too little sleep discounts however long you practised;
-- **coming back the next day** (spaced repetition) beats three sessions in a row.
+- coming back the next day (spaced repetition) beats three sessions in a row.
 
 ### 4. Retrieval beats re-reading
 
-Self-testing (play half, then recall the rest) beats playing it through three times. **Only retrieval engages memory; playing it through just slides past.**
+Self-testing (play half, then recall the rest) beats playing it through three times. Only retrieval engages memory; playing it through just slides past.
 
 ## The rules most often broken
 
 In practice, the most common violations:
 
-- **only practising what you can already play** — because it is comfortable. The hard passage is where ability grows;
-- **practising until exhausted** — past fatigue you are drilling movements, not judgement;
-- **never recording** — a practice without a feedback source **fixes many errors permanently**;
-- **aiming at duration** — "an hour today" replaces "what did I get good at today".
+- only practising what you can already play — because it is comfortable. The hard passage is where ability grows;
+- practising until exhausted — past fatigue you are drilling movements, not judgement;
+- never recording — a practice without a feedback source fixes many errors permanently;
+- aiming at duration — "an hour today" replaces "what did I get good at today".
 
-The third example is a useful contrast: 19th-century tutors **already built "a fixed daily slot" into the structure** — they knew the necessity of regularity, they just did not yet have the explanation.
+The third example is a useful contrast: 19th-century tutors already built "a fixed daily slot" into the structure — they knew the necessity of regularity, they just did not yet have the explanation.
 
 ## An executable practice unit
 
 Combined, a workable session looks like:
 
-1. **Set one concrete goal** (no more than two things);
-2. **Start slow**, at a speed where you do not make errors;
-3. **Self-test once in the middle** (recall from memory, or play back a recording);
-4. **Write down a "next starting point"**;
-5. **Stop when it is done** — do not trade fatigue for reassurance.
+1. Set one concrete goal (no more than two things);
+2. Start slow, at a speed where you do not make errors;
+3. Self-test once in the middle (recall from memory, or play back a recording);
+4. Write down a "next starting point";
+5. Stop when it is done — do not trade fatigue for reassurance.
 
-**Order matters more than duration.**
+Order matters more than duration.
 
 ## Listen: a decision point that speed hides
 
-Below, the third and fourth notes involve a small leap. **Played slowly you hear that preparation is needed before the third note; played fast you simply blur it.** That is exactly what slow practice is for: **pulling decisions forward into view.**
+Below, the third and fourth notes involve a small leap. **Played slowly you hear that preparation is needed before the third note; played fast you simply blur it. That is exactly what slow practice is for: pulling decisions forward into view.**
 
 ```audiolab
 {"type":"scale","notes":["D4","F4","G4","A4","G4","F4","D4"],"label":"A decision point only slow practice reveals","label_en":"A decision point only slow practice reveals","hint":"Slow it three times down — you will hear the preparation before the third note","hint_en":"Slow it three times down — you will hear the preparation before the third note"}

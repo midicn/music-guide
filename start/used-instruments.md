@@ -35,25 +35,25 @@ updated: 2026-09-28
 
 ## 外行也能做的六个动作
 
-1. **白天看琴**：光线充足，瑕疵藏不住。
-2. **弹一遍试琴曲目**（见下方三段）：听三点——有没有杂音/每个音一样大声吗/高音区刺耳吗。
-3. **查物理伤**：吉他看琴颈直不直（从琴头瞄向琴身）、琴桥有没有开胶；管乐看管身凹陷、垫圈是否老化发硬；弦乐看面板裂缝（对光看）。
-4. **看磨损与使用痕迹**：品丝凹痕、按键磨损、漆面——用了多久，比卖家说的时间更诚实。
-5. **验序列号**：和卖家核对序列号与票据；来源可疑的便宜，坚决不要（可能是赃物）。
-6. **做价格锚点**：搜同款近期的成交价，横向比三家——不要拿「全新价」当参照。
+1. 白天看琴：光线充足，瑕疵藏不住。
+2. 弹一遍试琴曲目（见下方三段）：听三点——有没有杂音/每个音一样大声吗/高音区刺耳吗。
+3. 查物理伤：吉他看琴颈直不直（从琴头瞄向琴身）、琴桥有没有开胶；管乐看管身凹陷、垫圈是否老化发硬；弦乐看面板裂缝（对光看）。
+4. 看磨损与使用痕迹：品丝凹痕、按键磨损、漆面——用了多久，比卖家说的时间更诚实。
+5. 验序列号：和卖家核对序列号与票据；来源可疑的便宜，坚决不要（可能是赃物）。
+6. 做价格锚点：搜同款近期的成交价，横向比三家——不要拿「全新价」当参照。
 
 ## 一段「试琴曲目」怎么准备
 
 带三段去试琴（哪怕是手机里的录音）：
 
-- **一段独奏**——暴露音准与手感；
-- **一段练习曲**——检验每个音区的均匀度；
-- **一段你喜欢的音乐**——它会告诉你「你是不是真的想带它回家」。
+- 一段独奏——暴露音准与手感；
+- 一段练习曲——检验每个音区的均匀度；
+- 一段你喜欢的音乐——它会告诉你「你是不是真的想带它回家」。
 
 ## 交易时的两个不要
 
-- **不要没试过就付款**（哪怕同城闪送）；
-- **不要为「故事」付溢价**（它是谁的老师用过不重要，只认乐器本身的状态与价格）。
+- 不要没试过就付款（哪怕同城闪送）；
+- 不要为「故事」付溢价（它是谁的老师用过不重要，只认乐器本身的状态与价格）。
 
 ## 听一听：一个「干净」的五度
 
@@ -81,24 +81,24 @@ Musical instruments are one of the most normal second-hand categories: **they ho
 ## Six moves anyone can make
 
 1. **Look in daylight**: flaws cannot hide in good light.
-2. **Play your try-out pieces** (three below): listen for — any buzz, even volume across notes, harsh highs.
-3. **Check for physical damage**: on guitars, sight down the neck and check the bridge; on winds, dents and hardened pads; on strings, cracks (hold against the light).
-4. **Read the wear**: fret dents, key wear, the patina — how long it served is more honest than the seller's story.
-5. **Verify the serial number**: match it against receipts; walk away from cheap-without-papers (it may be stolen).
-6. **Anchor the price**: look up recent sold prices for the same model, compare three — never anchor on "new" price.
+2. Play your try-out pieces (three below): listen for — any buzz, even volume across notes, harsh highs.
+3. Check for physical damage: on guitars, sight down the neck and check the bridge; on winds, dents and hardened pads; on strings, cracks (hold against the light).
+4. Read the wear: fret dents, key wear, the patina — how long it served is more honest than the seller's story.
+5. Verify the serial number: match it against receipts; walk away from cheap-without-papers (it may be stolen).
+6. Anchor the price: look up recent sold prices for the same model, compare three — never anchor on "new" price.
 
 ## Preparing "try-out pieces"
 
 Bring three to the viewing (even as phone recordings):
 
-- **a solo passage** — exposes intonation and action;
-- **a study** — tests evenness across the range;
-- **music you love** — it will tell you whether you really want to take it home.
+- a solo passage — exposes intonation and action;
+- a study — tests evenness across the range;
+- music you love — it will tell you whether you really want to take it home.
 
 ## Two "don'ts" at the transaction
 
-- **Do not pay untested** (not even same-city delivery);
-- **Do not pay for "stories"** (whose teacher owned it does not matter — only condition and price).
+- Do not pay untested (not even same-city delivery);
+- Do not pay for "stories" (whose teacher owned it does not matter — only condition and price).
 
 ## Listen: a "clean" fifth
 

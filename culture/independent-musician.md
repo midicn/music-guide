@@ -19,7 +19,7 @@ instances:
   - norbeck-000076 | 民间提琴手的曲目：手艺人的独立营生，世代相传 | A fiddler's tune — the independent trade of a craft musician, passed down for generations
   - cyberhymnal-000261 | 灵歌：在正式产业之外流传了百年的「活水」——民间创作的生存样本 | A spiritual — a century of life outside the formal industry; folk creativity surviving on its own
 sources:
-  - 本文为独立音乐人生存方式的通识性描述，不涉及具体平台或合同数据
+  - 独立音乐人生存方式的通识性描述，不涉及具体平台或合同数据
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---
@@ -42,19 +42,19 @@ updated: 2026-09-28
 
 ## 众筹与预购：把听众变成出资人
 
-众筹（或预售）把「先做后卖」翻转成「先卖后做」：粉丝为一张还没录的专辑付费，音乐人用这笔钱完成它。它的本质不是融资技巧，而是**一段被提前确认的关系**——出钱的人成了作品的一部分。
+众筹（或预售）把「先做后卖」翻转成「先卖后做」：粉丝为一张还没录的专辑付费，音乐人用这笔钱完成它。它的本质不是融资技巧，而是一段被提前确认的关系——出钱的人成了作品的一部分。
 
 ## 直接经营听众：从流量回到关系
 
-平台的推荐来得快去得也快；**邮件列表、社群、订阅粉丝群**则是一份自己拥有的名册。行业里的老话是：一千个愿意每次都到场、每次都付费的铁杆粉丝，比一百万次偶然播放更可靠。
+平台的推荐来得快去得也快；邮件列表、社群、订阅粉丝群则是一份自己拥有的名册。行业里的老话是：一千个愿意每次都到场、每次都付费的铁杆粉丝，比一百万次偶然播放更可靠。
 
 ## 授权的另一面
 
-对独立音乐人，授权（一集剧、一款游戏、一支广告）常是**最划算的收入之一**：一笔钱、一个明确的范围、一次交付。它不需要你巡演、不需要你直播——但它需要你的作品**权利清晰**（详见[音乐授权家族](../licensing-family/)）。
+对独立音乐人，授权（一集剧、一款游戏、一支广告）常是最划算的收入之一：一笔钱、一个明确的范围、一次交付。它不需要你巡演、不需要你直播——但它需要你的作品权利清晰（详见[音乐授权家族](../licensing-family/)）。
 
 ## 一句诚实的话
 
-多数独立音乐人的收入里，**音乐之外的工作**（兼职、教学）仍占相当比例——这不丢人，是结构使然：在收入碎片化的时代，「稳定的闲时收入 + 自由的创作时间」是许多人的理性选择。
+多数独立音乐人的收入里，音乐之外的工作（兼职、教学）仍占相当比例——这不丢人，是结构使然：在收入碎片化的时代，「稳定的闲时收入 + 自由的创作时间」是许多人的理性选择。
 
 ## 听一听：一个人的声音也能很厚
 
@@ -66,7 +66,7 @@ updated: 2026-09-28
 
 ## 下一步
 
-- 授权通道的全貌：本站 [音乐授权家族](../licensing-family/)。
+- 授权通道的全貌：[音乐授权家族](../licensing-family/)。
 - 独立创作里最自由的一格：[[concept:improvisation|即兴]]。
 - 一个人能撑起一件作品：[[instrument:classical-guitar|古典吉他]]。
 :::
@@ -89,19 +89,19 @@ A signed artist's income logic is "one great river" (salary and splits). The ind
 
 ## Crowdfunding and pre-sales: listeners as backers
 
-Crowdfunding (or pre-order) flips "make then sell" into "sell then make": fans pay for an unrecorded album; the money records it. Its essence is not a financing trick but **a relationship confirmed in advance** — the backers become part of the work.
+Crowdfunding (or pre-order) flips "make then sell" into "sell then make": fans pay for an unrecorded album; the money records it. Its essence is not a financing trick but a relationship confirmed in advance — the backers become part of the work.
 
 ## Owning the audience: from traffic back to relations
 
-Platform recommendations come and go; **mailing lists, communities, fan subscriptions** are a roster you own. The industry's old saying: a thousand die-hards who show up and pay every time beat a million passing plays.
+Platform recommendations come and go; mailing lists, communities, fan subscriptions are a roster you own. The industry's old saying: a thousand die-hards who show up and pay every time beat a million passing plays.
 
 ## The bright side of licensing
 
-For independents, a sync licence (one episode, one game, one ad) is often **the best-value income**: one fee, a clear scope, one delivery. No touring, no livestreaming required — but it requires your rights to be **clean** (see [the licensing family](../licensing-family/)).
+For independents, a sync licence (one episode, one game, one ad) is often the best-value income: one fee, a clear scope, one delivery. No touring, no livestreaming required — but it requires your rights to be clean (see [the licensing family](../licensing-family/)).
 
 ## One honest sentence
 
-In most independents' ledgers, **work outside music** (part-time jobs, teaching) still holds a real share — not a shame, a structure: when income is fragmented, "a steady side income plus free creative time" is a rational choice for many.
+In most independents' ledgers, work outside music (part-time jobs, teaching) still holds a real share — not a shame, a structure: when income is fragmented, "a steady side income plus free creative time" is a rational choice for many.
 
 ## Listen: one voice can be thick
 

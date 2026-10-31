@@ -26,7 +26,7 @@ updated: 2026-09-28
 ::: zh
 「多久之后可以随便用？」——答案是一张表。这张表的核心逻辑只有一句话：**保护期是有限的**。
 
-（本文介绍通行制度，不构成法律意见。）
+（通行制度说明，不构成法律意见。）
 
 ## 为什么必须有期限
 
@@ -39,20 +39,20 @@ updated: 2026-09-28
 | **中国** | 作者终生 + 死后 **50 年**（截止于死后第 50 年的 12 月 31 日） |
 | **美国 / 欧盟** | 作者终生 + 死后 **70 年**（美国由 1998 年法案延长） |
 
-**同一个作品，在中国可能已公版，在美国可能还没有**——这就是为什么「跨国使用」要按**使用地**的规则判断。
+同一个作品，在中国可能已公版，在美国可能还没有——这就是为什么「跨国使用」要按使用地的规则判断。
 
 ## 特殊作品的算法
 
-- **合作作品**：按**最后去世**的作者起算；
-- **法人作品 / 职务作品**（归单位的那些）：通常按**首次发表后 50 年**（中国规则）；
-- **匿名作品**：发表后 50 年（中国规则）；
-- **自然人的表演、录音制品**：各有一套自己的期限（录音在中国是**制作完成后 50 年**，且 2020 年修法后与"发表"的计算有细化——具体案例请核对现行法条）。
+- 合作作品：按最后去世的作者起算；
+- 法人作品 / 职务作品（归单位的那些）：通常按首次发表后 50 年（中国规则）；
+- 匿名作品：发表后 50 年（中国规则）；
+- 自然人的表演、录音制品：各有一套自己的期限（录音在中国是制作完成后 50 年，且 2020 年修法后与"发表"的计算有细化——具体案例请核对现行法条）。
 
 ## 三个最容易踩的坑
 
-1. **作品公版 ≠ 那份录音公版**：一首 19 世纪的曲子进入公版，但一份 1950 年的录音可能仍在保护期内——**谱和声是两回事**（见[一首歌上有几层权利](../copyright-composition/)）；
-2. **公版 ≠ 完全没有义务**：作品的**署名、保护完整**等在中国法下**保护期不受限制**——用公版作品，原作者的名字仍然是作者的名字；
-3. **改编有"洋葱效应"**：你改编公版作品，你的**改编版**会生成属于你的新权利——一层裹一层，使用时要看最新一层。
+1. 作品公版 ≠ 那份录音公版：一首 19 世纪的曲子进入公版，但一份 1950 年的录音可能仍在保护期内——谱和声是两回事（见[一首歌上有几层权利](../copyright-composition/)）；
+2. 公版 ≠ 完全没有义务：作品的署名、保护完整等在中国法下保护期不受限制——用公版作品，原作者的名字仍然是作者的名字；
+3. 改编有"洋葱效应"：你改编公版作品，你的改编版会生成属于你的新权利——一层裹一层，使用时要看最新一层。
 
 ## 听一听：基础材料，人人可用
 
@@ -64,8 +64,8 @@ updated: 2026-09-28
 
 ## 下一步
 
-- 公版判定的实操清单：本站 [公有领域判定](../public-domain/)。
-- 公版之后、下一站是什么：本站 [知识共享许可家族](../cc-license-family/)。
+- 公版判定的实操清单：[公有领域判定](../public-domain/)。
+- 公版之后、下一站是什么：[知识共享许可家族](../cc-license-family/)。
 - 从最基础的材料开始创作：[[concept:melody|旋律]]。
 :::
 
@@ -85,20 +85,20 @@ If rights were eternal, common culture would be locked: nobody could reprint Sha
 | **China** | Life of the author + **50 years** after death (to 31 December of that 50th year) |
 | **US / EU** | Life + **70 years** (extended in the US by the 1998 act) |
 
-**The same work may be free in China and protected in the US** — which is why cross-border use follows the rules of the **place of use**.
+The same work may be free in China and protected in the US — which is why cross-border use follows the rules of the place of use.
 
 ## The arithmetic for special works
 
-- **Joint works**: counted from the **last surviving** author;
-- **Works of legal entities** (owned by a company, etc.): usually **50 years from first publication** (Chinese rule);
-- **Anonymous works**: 50 years from publication (Chinese rule);
-- **Performances and sound recordings** carry their own clocks (recordings: **50 years from fixation** in China, with refinements after the 2020 amendment — check the current text for real cases).
+- Joint works: counted from the last surviving author;
+- Works of legal entities (owned by a company, etc.): usually 50 years from first publication (Chinese rule);
+- Anonymous works: 50 years from publication (Chinese rule);
+- Performances and sound recordings carry their own clocks (recordings: 50 years from fixation in China, with refinements after the 2020 amendment — check the current text for real cases).
 
 ## The three most common traps
 
-1. **A public-domain work ≠ the recording is public**: a 19th-century tune is free, but a 1950s recording of it may still be protected — **score and sound are two different things** (see [how many rights live in one song](../copyright-composition/));
-2. **Public domain ≠ no duties at all**: attribution and integrity remain protected **without a term limit** under Chinese law — the author's name is still the author's name;
-3. **Adaptations grow an onion**: adapt a free work and your **adaptation** creates new rights of your own — layers wrap layers; users must watch the newest skin.
+1. A public-domain work ≠ the recording is public: a 19th-century tune is free, but a 1950s recording of it may still be protected — score and sound are two different things (see [how many rights live in one song](../copyright-composition/));
+2. Public domain ≠ no duties at all: attribution and integrity remain protected without a term limit under Chinese law — the author's name is still the author's name;
+3. Adaptations grow an onion: adapt a free work and your adaptation creates new rights of your own — layers wrap layers; users must watch the newest skin.
 
 ## Listen: base material, free for all
 

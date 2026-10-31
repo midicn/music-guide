@@ -19,7 +19,7 @@ instances:
   - pdmx-000007 | G 小调交响曲：小调与戏剧性的经典绑定——绑定是文化写下的，不是声学写下的 | A symphony in G minor — the classic minor-and-drama pairing; written by culture, not acoustics
   - cyberhymnal-000062 | 一首大调的赞美诗：同样的大调，装着庄重而非欢快——用途塑造了色彩 | A major-key hymn — gravity, not joy, in the same mode; use shapes colour
 sources:
-  - 「大调／小调与情绪」的对应是多因素、偏文化性的，学界对「先天/习得」的配比仍有讨论；本文如实呈现几种解释而非定论
+  - 「大调／小调与情绪」的对应是多因素、偏文化性的，学界对「先天/习得」的配比仍有讨论；如实呈现几种解释而非定论
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---
@@ -38,16 +38,16 @@ updated: 2026-09-28
 心理学与音乐学给出的图画要复杂得多，至少包含三股力量：
 
 1. **声学/知觉线索**：不谐和度、亮度等声学属性确实会影响"紧张感"的判断；
-2. **文化学习**：在西方调性音乐几百年的实践里，大调被系统性地与喜庆、凯旋场景绑定（婚礼进行曲、赞歌），小调与哀悼、戏剧绑定——**重复强化出一种"听了就会"的关联**；
-3. **个人与情境**：同一首小调曲子，在葬礼与在电影院引发的东西完全不同。
+2. 文化学习：在西方调性音乐几百年的实践里，大调被系统性地与喜庆、凯旋场景绑定（婚礼进行曲、赞歌），小调与哀悼、戏剧绑定——重复强化出一种"听了就会"的关联；
+3. 个人与情境：同一首小调曲子，在葬礼与在电影院引发的东西完全不同。
 
-**一个关键证据方向**：跨文化研究显示，"大调=快乐"的直觉并非全球统一；在一些非西方音乐传统中，相应的情绪联觉并不成立——这倾向于支持"文化学习占相当比重"。（这类研究的取样与结论仍在讨论中。）
+一个关键证据方向：跨文化研究显示，"大调=快乐"的直觉并非全球统一；在一些非西方音乐传统中，相应的情绪联觉并不成立——这倾向于支持"文化学习占相当比重"。（这类研究的取样与结论仍在讨论中。）
 
 ## 第三层：诚实的答案
 
-在**这套西方调性语言的内部**，"大调的明亮、小调的幽暗"是真实有效的语法常识——就像中文里"红色"与"喜庆"的关联一样真实。但把它说成**全人类、天生的生理事实**，就超出了证据。
+在这套西方调性语言的内部，"大调的明亮、小调的幽暗"是真实有效的语法常识——就像中文里"红色"与"喜庆"的关联一样真实。但把它说成全人类、天生的生理事实，就超出了证据。
 
-**实践结论**：写作与听赏时，放心使用这套语法；解释它的来源时，记得它主要是**文化写成的，而非耳朵写成的**。
+实践结论：写作与听赏时，放心使用这套语法；解释它的来源时，记得它主要是文化写成的，而非耳朵写成的。
 
 ## 听一听：两种三和弦的色彩
 
@@ -65,7 +65,7 @@ updated: 2026-09-28
 
 - 大小调本身的构成：[[concept:major-scale|大调音阶]]。
 - 小三和弦的构造：[[concept:minor-triad|小三和弦]]。
-- 换个角度理解情绪：本站 [音乐怎么引发情绪](../emotion-mechanism/)。
+- 换个角度理解情绪：[音乐怎么引发情绪](../emotion-mechanism/)。
 :::
 
 ::: en
@@ -82,16 +82,16 @@ This explanation is **right in direction and overstated in degree** — a starti
 Psychology and musicology paint a more complex picture with at least three forces:
 
 1. **Acoustic-perceptual cues**: dissonance, brightness and similar properties do shape judgements of "tension";
-2. **Cultural learning**: across centuries of Western tonal practice, major was systematically bound to celebration and triumph (wedding marches, anthems) and minor to mourning and drama — **repetition hardening into "you just hear it";**
-3. **Person and situation**: the same minor piece at a funeral and in a cinema does entirely different work.
+2. Cultural learning: across centuries of Western tonal practice, major was systematically bound to celebration and triumph (wedding marches, anthems) and minor to mourning and drama — repetition hardening into "you just hear it";
+3. Person and situation: the same minor piece at a funeral and in a cinema does entirely different work.
 
-**One key line of evidence**: cross-cultural studies suggest the "major = happy" intuition is not globally uniform; in some non-Western traditions the corresponding associations do not hold — leaning toward "culture carries much of the weight". (Sampling and conclusions in this literature remain under discussion.)
+One key line of evidence: cross-cultural studies suggest the "major = happy" intuition is not globally uniform; in some non-Western traditions the corresponding associations do not hold — leaning toward "culture carries much of the weight". (Sampling and conclusions in this literature remain under discussion.)
 
 ## Layer three: the honest answer
 
-**Inside this Western tonal language**, "bright major, dark minor" is a real and effective piece of grammar — as real as the linking of red with festivity in Chinese culture. Claiming it as a **universal, inborn physiological fact**, however, goes beyond the evidence.
+Inside this Western tonal language, "bright major, dark minor" is a real and effective piece of grammar — as real as the linking of red with festivity in Chinese culture. Claiming it as a universal, inborn physiological fact, however, goes beyond the evidence.
 
-**Practically**: use the grammar freely when writing and listening; when explaining its origins, remember it was written mostly by **culture, not by the ear**.
+Practically: use the grammar freely when writing and listening; when explaining its origins, remember it was written mostly by culture, not by the ear.
 
 ## Listen: two triads, two colours
 

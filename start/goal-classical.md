@@ -46,21 +46,21 @@ updated: 2026-09-28
 
 1. **主题在哪？** 那段抓住你的旋律，是曲子的「人物」。
 2. **它变形了吗？** 同一个主题变快、变慢、换了乐器、翻了身——像同一个人换了衣服，认出来就是进步。
-3. **哪里是新的？** 古典音乐的两个基本动作是**重复**与**对比**——听出「这段我认识」和「这是新的」，你就已经在听结构了。
+3. 哪里是新的？ 古典音乐的两个基本动作是重复与对比——听出「这段我认识」和「这是新的」，你就已经在听结构了。
 
 ## 第三段：看结构（建筑层）
 
 不用术语也能开始。听多了你会发现几种常见「户型」：
 
-- **A–B–A**：出去转一圈，再回到家；
-- **主题与变奏**：同一句话的十种说法；
-- **奏鸣曲式**：第一乐章最常见的「陈述、发展、回来」。
+- A–B–A：出去转一圈，再回到家；
+- 主题与变奏：同一句话的十种说法；
+- 奏鸣曲式：第一乐章最常见的「陈述、发展、回来」。
 
-术语只是门牌号——**先见过房子，再学门牌号**。想系统看这门牌号怎么编，可以从 [[concept:sonata-form|奏鸣曲式]] 入手。
+术语只是门牌号——先见过房子，再学门牌号。想系统看这门牌号怎么编，可以从 [[concept:sonata-form|奏鸣曲式]] 入手。
 
 ## 关于音乐会
 
-规则比传说中宽松得多：迟到会被引导在乐章间隙入场；鼓掌的规矩因时代与场合而异，乐章之间通常不鼓掌——但这不是考试，跟着大多数人做就好。**紧张的反面不是懂规矩，是熟悉曲子**——去之前把曲目列表听一遍。
+规则比传说中宽松得多：迟到会被引导在乐章间隙入场；鼓掌的规矩因时代与场合而异，乐章之间通常不鼓掌——但这不是考试，跟着大多数人做就好。紧张的反面不是懂规矩，是熟悉曲子——去之前把曲目列表听一遍。
 
 ## 听一听：期待与解决
 
@@ -98,21 +98,21 @@ Once it is familiar, give the ear a job. For any piece, ask only three questions
 
 1. **Where is the theme?** The melody that catches you is the piece's "character".
 2. **Does it transform?** The same theme speeds up, slows down, changes instrument, turns upside down — one person in different clothes. Spotting it is progress.
-3. **What is new?** Classical music runs on two gestures, **repetition** and **contrast** — noticing "I know this" and "this is new" means you are already hearing structure.
+3. What is new? Classical music runs on two gestures, repetition and contrast — noticing "I know this" and "this is new" means you are already hearing structure.
 
 ## Flight three: see the building
 
 No jargon needed to start. With enough listening, a few floor plans recur:
 
-- **A–B–A**: out for a walk, then home;
-- **theme and variations**: ten ways to say one sentence;
-- **sonata form**: the most common plan for a first movement — statement, development, return.
+- A–B–A: out for a walk, then home;
+- theme and variations: ten ways to say one sentence;
+- sonata form: the most common plan for a first movement — statement, development, return.
 
-Terms are house numbers — **meet the house before memorising its number**. To see how the numbers are issued, start from [[concept:sonata-form|sonata form]].
+Terms are house numbers — meet the house before memorising its number. To see how the numbers are issued, start from [[concept:sonata-form|sonata form]].
 
 ## About concerts
 
-The rules are far looser than legend: latecomers are seated at movement breaks, and applause conventions shift with era and venue; between movements people usually stay quiet — but it is not a test, follow the room. **The cure for nerves is not etiquette but familiarity**: play the programme through once before you go.
+The rules are far looser than legend: latecomers are seated at movement breaks, and applause conventions shift with era and venue; between movements people usually stay quiet — but it is not a test, follow the room. The cure for nerves is not etiquette but familiarity: play the programme through once before you go.
 
 ## Listen: tension and release
 

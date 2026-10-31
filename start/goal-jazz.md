@@ -48,21 +48,21 @@ updated: 2026-09-28
 爵士的基本结构是一场**对话**：
 
 1. 先听到**主题**（head）——一段大家都认识的旋律；
-2. 然后乐手轮流**独奏**——在原来的和弦路线上换着花样走路；
-3. 最后主题**回来**——对话收尾。
+2. 然后乐手轮流独奏——在原来的和弦路线上换着花样走路；
+3. 最后主题回来——对话收尾。
 
-听独奏时做一件事就够：**抓住主题的碎片**。乐手会时不时引用它——像聊天里突然重复对方说过的词。抓到那一下，你就「进入」了这场对话。
+听独奏时做一件事就够：抓住主题的碎片。乐手会时不时引用它——像聊天里突然重复对方说过的词。抓到那一下，你就「进入」了这场对话。
 
 ## 第三课：蓝调——爵士的母语
 
-蓝调给爵士提供了三件传家宝：**十二小节的结构**、几个固定和弦、以及**蓝调音**（把音阶里的音「压低」一点的那种语气）。许多爵士标准曲的第一句，都从蓝调的口音开始。
+蓝调给爵士提供了三件传家宝：十二小节的结构、几个固定和弦、以及蓝调音（把音阶里的音「压低」一点的那种语气）。许多爵士标准曲的第一句，都从蓝调的口音开始。
 
 ## 入门听的顺序
 
-从**有「曲子感」的**开始，别从最复杂的开始：
+从有「曲子感」的开始，别从最复杂的开始：
 
-1. **拉格泰姆**（Ragtime）——爵士的前身之一，钢琴上的爵士感，结构清晰；
-2. **蓝调与摇摆**——听到「长—短」的律动成为常态；
+1. 拉格泰姆（Ragtime）——爵士的前身之一，钢琴上的爵士感，结构清晰；
+2. 蓝调与摇摆——听到「长—短」的律动成为常态；
 3. 再进入 bebop 等高密度独奏——此时你的耳朵已经有底子了。
 
 ## 下一步
@@ -95,21 +95,21 @@ Compare the two patterns below: the same four beats, first even, then swung — 
 The basic shape of a jazz performance is a **conversation**:
 
 1. First comes the **head** — a tune everyone knows;
-2. Then players take turns **soloing** — walking the same chord route with fresh steps;
-3. Finally the head **returns** — the conversation closes.
+2. Then players take turns soloing — walking the same chord route with fresh steps;
+3. Finally the head returns — the conversation closes.
 
-While listening to a solo, do one thing only: **catch the scraps of the theme**. Players quote it every so often, like someone reusing your words mid-chat. Catch one and you are inside the conversation.
+While listening to a solo, do one thing only: catch the scraps of the theme. Players quote it every so often, like someone reusing your words mid-chat. Catch one and you are inside the conversation.
 
 ## Lesson three: the blues, jazz's mother tongue
 
-The blues handed jazz three heirlooms: a **twelve-bar shape**, a few fixed chords, and the **blue notes** (that pressured, bent tone). Most jazz standards open their first sentence with a blues accent.
+The blues handed jazz three heirlooms: a twelve-bar shape, a few fixed chords, and the blue notes (that pressured, bent tone). Most jazz standards open their first sentence with a blues accent.
 
 ## A listening order for beginners
 
-Start with pieces that still feel like **compositions**, not the densest solos:
+Start with pieces that still feel like compositions, not the densest solos:
 
-1. **Ragtime** — one of jazz's direct ancestors; piano jazz feeling with a clear structure;
-2. **Blues and swing** — the long–short gait becomes the norm;
+1. Ragtime — one of jazz's direct ancestors; piano jazz feeling with a clear structure;
+2. Blues and swing — the long–short gait becomes the norm;
 3. Then enter high-density soloing like bebop — your ear will have its footing by then.
 
 ## Next

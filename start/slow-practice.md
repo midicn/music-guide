@@ -36,15 +36,15 @@ updated: 2026-09-28
 
 - **能想**：每一个动作开始之前，先「知道」要做什么——不是手指先动、脑子后追；
 - **能听**：注意力有余量去检查音色、音准、杂音；
-- **能纠**：出错的那一刻来得及停下——而不是一路错到句尾。
+- 能纠：出错的那一刻来得及停下——而不是一路错到句尾。
 
 ## 慢到什么程度
 
 不是「比正常慢一点」，是要慢到满足三个标准：
 
-1. **全身放松**——肩膀、手腕没有一处较劲；
-2. **心里有数**——弹这个音的时候，下一个音已经准备好了；
-3. **能复述**——这一遍做了什么、对在哪里，说得出来。
+1. 全身放松——肩膀、手腕没有一处较劲；
+2. 心里有数——弹这个音的时候，下一个音已经准备好了；
+3. 能复述——这一遍做了什么、对在哪里，说得出来。
 
 任何一条不满足，就把速度再降一档。
 
@@ -52,19 +52,19 @@ updated: 2026-09-28
 
 慢练不是目的，是生产能力：
 
-- **连续三次零错误** → 速度 +5～10 BPM（节拍器的下一个刻度就够）；
-- **一旦出错** → 退回上一个速度，而不是「重来一遍应该就好了」。
+- 连续三次零错误 → 速度 +5～10 BPM（节拍器的下一个刻度就够）；
+- 一旦出错 → 退回上一个速度，而不是「重来一遍应该就好了」。
 
-记住：**速度是加出来的，不是冲出来的。** 一次冲上去的「快」，代价通常是回头重练。
+记住：速度是加出来的，不是冲出来的。 一次冲上去的「快」，代价通常是回头重练。
 
 ## 两个常见误解
 
-- **「慢练 = 慢慢弹几遍」**：不对。慢练是**在慢速下把每一个细节做对**——慢而不专注，等于什么都没练；
-- **「慢练的曲子不好听，没意思」**：可以一天只慢练 15 分钟，剩下的时间弹好听的——**慢练与享受并存**，只是不要相互冒充。
+- 「慢练 = 慢慢弹几遍」：不对。慢练是在慢速下把每一个细节做对——慢而不专注，等于什么都没练；
+- 「慢练的曲子不好听，没意思」：可以一天只慢练 15 分钟，剩下的时间弹好听的——慢练与享受并存，只是不要相互冒充。
 
 ## 听一听：60 拍——练习的默认速度
 
-先让每一拍都落在应该落的位置上。这就是慢练的节拍器刻度：**它是「能做对」的速度，而不是「像不像原曲」的速度。**
+先让每一拍都落在应该落的位置上。这就是慢练的节拍器刻度：它是「能做对」的速度，而不是「像不像原曲」的速度。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":60,"label":"60 BPM：慢练的默认速度","label_en":"60 BPM — the default speed of slow practice","hint":"先听节拍器，再听节奏型","hint_en":"The click first, then the pattern"}
@@ -87,16 +87,16 @@ The mechanism is the opposite: **at speed, the brain cannot supervise the action
 Slowing down returns three words to the brain:
 
 - **time to think**: before each move you **know** what comes next — instead of fingers first, brain chasing;
-- **attention to listen**: spare capacity to check tone, intonation, buzz;
-- **room to correct**: a mistake can be stopped the moment it happens, not carried to the end of the phrase.
+- attention to listen: spare capacity to check tone, intonation, buzz;
+- room to correct: a mistake can be stopped the moment it happens, not carried to the end of the phrase.
 
 ## How slow is slow
 
 Not "a bit slower than normal" — slow enough for three standards:
 
-1. **Fully relaxed** — no clenched shoulder, wrist or jaw;
-2. **Ahead of the hands** — while playing this note, the next is already prepared;
-3. **Sayable** — you can state what this pass did and where it was right.
+1. Fully relaxed — no clenched shoulder, wrist or jaw;
+2. Ahead of the hands — while playing this note, the next is already prepared;
+3. Sayable — you can state what this pass did and where it was right.
 
 Miss any one and drop the tempo another notch.
 
@@ -104,15 +104,15 @@ Miss any one and drop the tempo another notch.
 
 Slow practice is not the goal; it is production capacity:
 
-- **Three clean passes in a row** → +5 to +10 BPM (the next click on the metronome);
-- **One mistake** → step back one tempo — not "one more try should fix it".
+- Three clean passes in a row → +5 to +10 BPM (the next click on the metronome);
+- One mistake → step back one tempo — not "one more try should fix it".
 
-Remember: **speed is added, not charged at.** A "fast" gained by force is usually repaid in retraining.
+Remember: speed is added, not charged at. A "fast" gained by force is usually repaid in retraining.
 
 ## Two common misreadings
 
-- **"Slow practice just means playing slowly"**: no — it means **doing every detail right at a slow tempo**. Slow without focus practices nothing;
-- **"Slow practice is boring"**: keep it to fifteen minutes a day and play the fun stuff after — **slow work and enjoyment coexist**, as long as one does not pretend to be the other.
+- "Slow practice just means playing slowly": no — it means doing every detail right at a slow tempo. Slow without focus practices nothing;
+- "Slow practice is boring": keep it to fifteen minutes a day and play the fun stuff after — slow work and enjoyment coexist, as long as one does not pretend to be the other.
 
 ## Listen: 60 BPM, the default
 

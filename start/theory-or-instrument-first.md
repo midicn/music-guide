@@ -42,19 +42,19 @@ updated: 2026-09-28
 ## 一个具体的并行路线
 
 - **第 1 周**：先摸乐器（每天十分钟就行）+ 认识音名（C D E F G A B，就是 do re mi fa sol la si）。
-- **第 2 周**：加上两条——音阶（为什么「哆来咪」这样排列）、打拍子（数的拍子）。
-- **第 1 个月**：开始认识音程与和弦——此时你已经听过足够多的「感觉」，只差名字。
-- **之后**：乐器是主线，乐理保持每两三天一个小点的节奏，跟着练到的曲子走。
+- 第 2 周：加上两条——音阶（为什么「哆来咪」这样排列）、打拍子（数的拍子）。
+- 第 1 个月：开始认识音程与和弦——此时你已经听过足够多的「感觉」，只差名字。
+- 之后：乐器是主线，乐理保持每两三天一个小点的节奏，跟着练到的曲子走。
 
 ## 什么时候可以「理论先行」
 
-- **编曲/制作路线**：软件里的操作直接对应乐理（加法器、和弦垫），先学一章和声常常立刻用得上。
-- **纯听赏路线**：可以完全不碰乐器——但这时「乐理」就是听力词汇表，要结合听辨来学，不能只读书。
+- 编曲/制作路线：软件里的操作直接对应乐理（加法器、和弦垫），先学一章和声常常立刻用得上。
+- 纯听赏路线：可以完全不碰乐器——但这时「乐理」就是听力词汇表，要结合听辨来学，不能只读书。
 
 ## 两个常见误解
 
-- **「乐理高高在上，是专业的门槛」** → 它是描述工具，像厨师的温度计：不懂也能炒菜，懂了少走弯路。
-- **「不懂乐理不能开始」** → 反了。不懂也能开始；开始了，才会真的懂。
+- 「乐理高高在上，是专业的门槛」 → 它是描述工具，像厨师的温度计：不懂也能炒菜，懂了少走弯路。
+- 「不懂乐理不能开始」 → 反了。不懂也能开始；开始了，才会真的懂。
 
 ## 听一听：先体验，后命名
 
@@ -88,19 +88,19 @@ Then comes the second half of the loop: **once you know the terms, you start see
 ## A concrete parallel route
 
 - **Week 1**: touch the instrument (ten minutes a day is fine) + learn note names (C D E F G A B).
-- **Week 2**: add two things — scales (why the notes are arranged that way) and counting (feeling the beats).
-- **Month 1**: start meeting intervals and chords — you will have heard enough "feelings" that only the names are missing.
-- **After that**: instrument stays the main line; theory comes in small pieces every couple of days, following the music you actually play.
+- Week 2: add two things — scales (why the notes are arranged that way) and counting (feeling the beats).
+- Month 1: start meeting intervals and chords — you will have heard enough "feelings" that only the names are missing.
+- After that: instrument stays the main line; theory comes in small pieces every couple of days, following the music you actually play.
 
 ## When theory can go first
 
-- **Production and arranging**: software operations map straight onto theory; one chapter of harmony pays off immediately.
-- **Pure listening**: you can skip the instrument entirely — but then theory must be learned with your ears as the companion, not from books alone.
+- Production and arranging: software operations map straight onto theory; one chapter of harmony pays off immediately.
+- Pure listening: you can skip the instrument entirely — but then theory must be learned with your ears as the companion, not from books alone.
 
 ## Two common misreadings
 
-- **"Theory is a professional gate."** It is a descriptive tool — a thermometer in a kitchen: you can cook without it, and you waste fewer dishes with it.
-- **"You cannot start before you understand theory."** It is the reverse: you can start without it, and only by starting will you truly understand it.
+- "Theory is a professional gate." It is a descriptive tool — a thermometer in a kitchen: you can cook without it, and you waste fewer dishes with it.
+- "You cannot start before you understand theory." It is the reverse: you can start without it, and only by starting will you truly understand it.
 
 ## Listen: experience first, name later
 

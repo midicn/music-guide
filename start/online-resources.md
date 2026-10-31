@@ -32,7 +32,7 @@ updated: 2026-09-28
 
 1. **来源可核**：它敢不敢说清「依据是什么」？乐谱有没有版本的出处？教程的说法有没有可对照的第二来源？**越是含糊其辞，越要警惕。**
 2. **结构完整**：它是「一颗颗珍珠」还是「一条项链」？散装技巧适合救急，系统学习需要成体系的内容——先看目录，再决定。
-3. **能留下来**：可下载、可打印、可引用、可离线阅读的，价值远高于锁在平台里的。**判断标准很土但很准——五年后，它还在吗？**
+3. 能留下来：可下载、可打印、可引用、可离线阅读的，价值远高于锁在平台里的。判断标准很土但很准——五年后，它还在吗？
 
 ## 五类资源的正确用法
 
@@ -44,15 +44,15 @@ updated: 2026-09-28
 | 公开课 | 建立整体框架 | 针对个人问题 |
 | 数据与档案 | 研究、溯源 | 手把手教学 |
 
-## 关于本站的一份自检
+## 关于这里的一份自检
 
 你完全可以用上面三把筛子来检查这个网站和它背后的知识矩阵：
 
-- **来源可核**：每条内容都附事实来源，每个曲目实例都标注出处与许可档位，点「详情」可查；
-- **结构完整**：入门引导、乐理、乐器、音乐史、作曲家……按主题分站，互相链接成网；
-- **能留下来**：文字内容依 CC BY 4.0 开放，可复制、可改写、可署名转载。
+- 来源可核：每条内容都附事实来源，每个曲目实例都标注出处与许可档位，点「详情」可查；
+- 结构完整：入门引导、乐理、乐器、音乐史、作曲家……按主题分站，互相链接成网；
+- 能留下来：文字内容依 CC BY 4.0 开放，可复制、可改写、可署名转载。
 
-**我们把自己放进同一套标准里——这也是我们希望你挑选一切资源的方式。**
+我们把自己放进同一套标准里——这也是我们希望你挑选一切资源的方式。
 
 ## 听一听：一个「组合要听」的句子
 
@@ -76,7 +76,7 @@ Online music resources reach choice paralysis: video tutorials, score libraries,
 
 1. **Verifiable source**: does it dare to say what it is based on? Which edition of the score? A second source for the claim? **The vaguer it sounds, the more you should worry.**
 2. **Complete structure**: is it pearls, or a necklace? Scattered tips rescue emergencies; systematic learning needs a system — read the table of contents first.
-3. **Built to last**: downloadable, printable, citable, offline-readable — worth far more than anything locked inside a platform. **A blunt but accurate test — will it still exist in five years?**
+3. **Built to last**: downloadable, printable, citable, offline-readable — worth far more than anything locked inside a platform. A blunt but accurate test — will it still exist in five years?
 
 ## How to use each kind
 
@@ -92,9 +92,9 @@ Online music resources reach choice paralysis: video tutorials, score libraries,
 
 You can bring the same three sieves to this website and the knowledge matrix behind it:
 
-- **Verifiable source**: every entry lists its sources; every track example shows provenance and licence tier via "details";
-- **Complete structure**: starter guides, theory, instruments, history, composers — separate sites woven into one net;
-- **Built to last**: text is CC BY 4.0 — copy it, adapt it, republish with attribution.
+- Verifiable source: every entry lists its sources; every track example shows provenance and licence tier via "details";
+- Complete structure: starter guides, theory, instruments, history, composers — separate sites woven into one net;
+- Built to last: text is CC BY 4.0 — copy it, adapt it, republish with attribution.
 
 **We hold ourselves to the same standards — which is how we hope you pick everything.**
 

@@ -36,7 +36,7 @@ instances:
 
 sources:
 
-  - 音乐治疗的专业定义、训练路径与适用领域为行业通行表述（各国执业规范不同）；具体临床效果问题以专业文献为准，本文不引具体研究结论
+  - 音乐治疗的专业定义、训练路径与适用领域为行业通行表述（各国执业规范不同）；具体临床效果问题以专业文献为准，不引具体研究结论
 
   - 涉及的曲目均标注来源与许可档位，可在线试听
 
@@ -60,13 +60,13 @@ updated: 2026-09-28
 
 
 
-- **有评估**：先判断来访者的状况与需要；
+- 有评估：先判断来访者的状况与需要；
 
-- **有目标**：如改善沟通、调节情绪、重建运动功能、支持认知训练；
+- 有目标：如改善沟通、调节情绪、重建运动功能、支持认知训练；
 
-- **有方法**：即兴演奏、歌曲写作、节奏训练、歌唱、聆听分析——**用哪种、怎么用，是专业决策**；
+- 有方法：即兴演奏、歌曲写作、节奏训练、歌唱、聆听分析——用哪种、怎么用，是专业决策；
 
-- **有记录与复盘**：像一切临床工作一样可追踪。
+- 有记录与复盘：像一切临床工作一样可追踪。
 
 
 
@@ -78,13 +78,13 @@ updated: 2026-09-28
 
 
 
-- **不是「好听的音乐治病」**：音乐本身不治病；起作用的是**在治疗关系中如何使用它**；
+- 不是「好听的音乐治病」：音乐本身不治病；起作用的是在治疗关系中如何使用它；
 
-- **不是「听歌放松」的别名**：日常放松很好，但那不叫治疗（就像散步很好，但不是理疗）；
+- 不是「听歌放松」的别名：日常放松很好，但那不叫治疗（就像散步很好，但不是理疗）；
 
-- **不是资格外的服务**：它需要受训的执业者——"会音乐+热心"不构成执业资格；
+- 不是资格外的服务：它需要受训的执业者——"会音乐+热心"不构成执业资格；
 
-- **不是万能**：它的效果因人群与目标而异，专业界对它各应用领域的证据等级有持续的评估与讨论。
+- 不是万能：它的效果因人群与目标而异，专业界对它各应用领域的证据等级有持续的评估与讨论。
 
 
 
@@ -104,7 +104,7 @@ updated: 2026-09-28
 
 
 
-**把这两栏分开**，既保护了疗法的严肃性，也让日常听乐无需背负"治疗"的期待——你放松听歌，什么都不欠。
+把这两栏分开，既保护了疗法的严肃性，也让日常听乐无需背负"治疗"的期待——你放松听歌，什么都不欠。
 
 
 
@@ -112,7 +112,7 @@ updated: 2026-09-28
 
 
 
-听一段摇篮曲式的走向——安抚的形态在文化之间惊人地相似：慢、下行、重复。**但请记住：它的"疗效"来自使用它的关系，而非这几个音本身。**
+听一段摇篮曲式的走向——安抚的形态在文化之间惊人地相似：慢、下行、重复。但请记住：它的"疗效"来自使用它的关系，而非这几个音本身。
 
 
 
@@ -130,9 +130,9 @@ updated: 2026-09-28
 
 - 耳朵的训练与治疗不同，但都从听觉开始：[[concept:ear-training|练耳的意义与方法]]。
 
-- 音乐—记忆的机制背景：本站 [音乐与记忆](../music-and-memory/)。
+- 音乐—记忆的机制背景：[音乐与记忆](../music-and-memory/)。
 
-- 一部「被用于照护的倾听史」：本站 [田野录音的伦理](../fieldwork-ethics/) 里的照护视角。
+- 一部「被用于照护的倾听史」：[田野录音的伦理](../fieldwork-ethics/) 里的照护视角。
 
 :::
 
@@ -152,13 +152,13 @@ Music therapy is a **trained practitioner** using music as the **working medium*
 
 
 
-- **Assessment first**: the client's condition and needs are judged;
+- Assessment first: the client's condition and needs are judged;
 
-- **Goals**: communication, emotional regulation, motor recovery, cognitive support;
+- Goals: communication, emotional regulation, motor recovery, cognitive support;
 
-- **Methods**: improvisation, songwriting, rhythmic work, singing, guided listening — **which, and how**, is a professional decision;
+- Methods: improvisation, songwriting, rhythmic work, singing, guided listening — which, and how, is a professional decision;
 
-- **Records and review**: traceable, like all clinical work.
+- Records and review: traceable, like all clinical work.
 
 
 
@@ -170,13 +170,13 @@ Typical settings: child development support, elderly and dementia care, mental h
 
 
 
-- **Not "nice music cures"**: music itself does not cure; what works is **how it is used inside the therapeutic relationship**;
+- Not "nice music cures": music itself does not cure; what works is how it is used inside the therapeutic relationship;
 
-- **Not a synonym for "relaxing with music"**: daily relaxation is lovely, but it is not therapy (strolling is lovely; it is not physiotherapy);
+- Not a synonym for "relaxing with music": daily relaxation is lovely, but it is not therapy (strolling is lovely; it is not physiotherapy);
 
-- **Not a service by untrained hands**: it requires trained practitioners — "musical + kind" is not a licence;
+- Not a service by untrained hands: it requires trained practitioners — "musical + kind" is not a licence;
 
-- **Not omnipotent**: effects vary by population and goal, and the field keeps evaluating the evidence levels of each application.
+- Not omnipotent: effects vary by population and goal, and the field keeps evaluating the evidence levels of each application.
 
 
 
@@ -196,7 +196,7 @@ Typical settings: child development support, elderly and dementia care, mental h
 
 
 
-**Keeping the columns apart** protects the seriousness of therapy — and frees daily listening from carrying "treatment" as a debt. You relax; you owe nothing.
+Keeping the columns apart protects the seriousness of therapy — and frees daily listening from carrying "treatment" as a debt. You relax; you owe nothing.
 
 
 

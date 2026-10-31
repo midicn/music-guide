@@ -36,16 +36,16 @@ updated: 2026-09-28
 
 ## 考级的代价（如果使用不当）
 
-- **曲目窄化**：一年只磨考级那几首，音乐世界被压缩成一张考卷；
-- **替分数练琴**：练习的目标从「弹好」变成「过关」，动机外包给了评委；
-- **能力误读**：证书只能说明「这几首在当天弹完了」，说明不了综合能力——尤其是视奏、合奏与即兴这些真正高频的能力。
+- 曲目窄化：一年只磨考级那几首，音乐世界被压缩成一张考卷；
+- 替分数练琴：练习的目标从「弹好」变成「过关」，动机外包给了评委；
+- 能力误读：证书只能说明「这几首在当天弹完了」，说明不了综合能力——尤其是视奏、合奏与即兴这些真正高频的能力。
 
 ## 一个简单的决策框架
 
-- **你对「外部目标」有需求**（自我督促、可量化的里程碑）→ 可以考，**把它当日期，不当水平**；
-- **你更在意音乐本身**（享受、表达、和朋友一起玩）→ 不必考级，但要**自己设计里程碑**：每 3～6 个月一次「演出日」——给家人弹、录一段完整录音、在社群里交作业。
+- 你对「外部目标」有需求（自我督促、可量化的里程碑）→ 可以考，把它当日期，不当水平；
+- 你更在意音乐本身（享受、表达、和朋友一起玩）→ 不必考级，但要自己设计里程碑：每 3～6 个月一次「演出日」——给家人弹、录一段完整录音、在社群里交作业。
 
-**关键不是"考不考"，而是"有没有替代的进度锚点"**——没有任何锚点的学习，容易静悄悄地散掉。
+关键不是"考不考"，而是"有没有替代的进度锚点"——没有任何锚点的学习，容易静悄悄地散掉。
 
 ## 如果决定考
 
@@ -55,7 +55,7 @@ updated: 2026-09-28
 
 ## 听一听：一个「考级之后」的和弦
 
-下面这个和弦（大七和弦）不在入门清单上——它在更远的地方等你。考级的尽头不是终点：**音乐的词汇表，比你正在背的厚得多。**
+下面这个和弦（大七和弦）不在入门清单上——它在更远的地方等你。考级的尽头不是终点：音乐的词汇表，比你正在背的厚得多。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj7","label":"Cmaj7：考级单之外的世界一角","label_en":"Cmaj7 — a corner of the world beyond the syllabus","hint":"整体听一声，再点「分解」听它由哪几个音组成","hint_en":"Hear it as a block, then as separate notes"}
@@ -79,14 +79,14 @@ updated: 2026-09-28
 
 ## What they cost (when misused)
 
-- **A narrowed repertoire**: a year spent polishing three pieces compresses the musical world into one exam paper;
-- **Practising for scores**: the goal shifts from "play well" to "pass", and motivation is outsourced to examiners;
-- **A misread of ability**: a certificate says those pieces were played that day — nothing about sight-reading, ensemble or improvisation, the truly high-frequency skills.
+- A narrowed repertoire: a year spent polishing three pieces compresses the musical world into one exam paper;
+- Practising for scores: the goal shifts from "play well" to "pass", and motivation is outsourced to examiners;
+- A misread of ability: a certificate says those pieces were played that day — nothing about sight-reading, ensemble or improvisation, the truly high-frequency skills.
 
 ## A simple decision frame
 
-- **Need external goals?** (self-accountability, quantifiable milestones) → sit them, but treat the exam as **a date, not a level**;
-- **In it for the music itself?** (enjoyment, expression, playing with friends) → skip them, but **design your own milestones**: a "show day" every three to six months — play for family, record a complete take, post an assignment in a community.
+- Need external goals? (self-accountability, quantifiable milestones) → sit them, but treat the exam as a date, not a level;
+- In it for the music itself? (enjoyment, expression, playing with friends) → skip them, but design your own milestones: a "show day" every three to six months — play for family, record a complete take, post an assignment in a community.
 
 **The question is never "exams or not" but "do you have any progress anchors at all"** — a practice without anchors quietly dissolves.
 
@@ -98,7 +98,7 @@ updated: 2026-09-28
 
 ## Listen: a chord from after the exam
 
-This chord (a major seventh) is not on any beginner list — it waits further along. The end of a syllabus is not the end: **music's vocabulary is far thicker than what you are memorising.**
+This chord (a major seventh) is not on any beginner list — it waits further along. The end of a syllabus is not the end: music's vocabulary is far thicker than what you are memorising.
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj7","label":"Cmaj7：考级单之外的世界一角","label_en":"Cmaj7 — a corner of the world beyond the syllabus","hint":"整体听一声，再点「分解」听它由哪几个音组成","hint_en":"Hear it as a block, then as separate notes"}

@@ -36,28 +36,28 @@ updated: 2026-09-28
 - **一层 · 音与音高**：一个音是什么？音名、八度、半音——最小的积木。
 - **二层 · 音程与音阶**：音与音之间隔多远？音阶是这些距离排成的阶梯。
 - **三层 · 和弦与和声**：多个音叠在一起是什么效果？它们怎么排队走（和声进行）。
-- **四层 · 曲式与风格**：一整首曲子怎么组织，为什么这个时代的音乐听起来「像那个时代」。
+- 四层 · 曲式与风格：一整首曲子怎么组织，为什么这个时代的音乐听起来「像那个时代」。
 
 ## 从哪一步开始：从音阶
 
-如果只能推荐一个起点，是**音阶**。它同时踩在一层与二层上，还预告了三层的内容——性价比最高的一个概念。
+如果只能推荐一个起点，是音阶。它同时踩在一层与二层上，还预告了三层的内容——性价比最高的一个概念。
 
-先记住唯一值得先背的东西——大调音阶的「配方」：**全、全、半、全、全、全、半**（相邻两音之间隔一个全音还是半音）。你熟悉的「哆来咪发嗦啦西」，就是按这个配方排出来的。
+先记住唯一值得先背的东西——大调音阶的「配方」：全、全、半、全、全、全、半（相邻两音之间隔一个全音还是半音）。你熟悉的「哆来咪发嗦啦西」，就是按这个配方排出来的。
 
 ## 学的节奏：跟着曲子走
 
-一个能长期跑下去的节奏是：**每周学一个概念，然后在你听过的三首曲子里找到它。**
+一个能长期跑下去的节奏是：每周学一个概念，然后在你听过的三首曲子里找到它。
 
 - 学「音程」，就去卡农里找那串一遍遍重复的旋律线，看看它的步子有多大；
 - 学「和声进行」，就回到同一首卡农——它整首曲子几乎只用了一条循环；
 - 学「曲式」，就挑一首短曲，看它从哪个动机开始、怎么长大。
 
-**每个概念都要有「耳朵里的证据」**，否则背下来的只是词。
+每个概念都要有「耳朵里的证据」，否则背下来的只是词。
 
 ## 两个常见弯路
 
-- **从符号表开始背**：先学「这是什么符号」是反的；先建立听觉概念，符号只是它的写法。
-- **想「学完乐理」**：乐理没有终点，它更像地图——用的时候展开，不用的时候合上。
+- 从符号表开始背：先学「这是什么符号」是反的；先建立听觉概念，符号只是它的写法。
+- 想「学完乐理」：乐理没有终点，它更像地图——用的时候展开，不用的时候合上。
 
 ## 听一听：大调音阶的配方
 
@@ -89,24 +89,24 @@ The problem is not you. It is the route. **Theory is not a list to memorise; it 
 
 ## Where to start: the scale
 
-If only one starting point could be recommended, it is **the scale**. It stands on floors one and two at once and previews floor three — the best value on the syllabus.
+If only one starting point could be recommended, it is the scale. It stands on floors one and two at once and previews floor three — the best value on the syllabus.
 
-Memorise the one thing worth memorising first — the major scale recipe: **whole, whole, half, whole, whole, whole, half**. Your familiar "do re mi" is exactly that recipe in sound.
+Memorise the one thing worth memorising first — the major scale recipe: whole, whole, half, whole, whole, whole, half. Your familiar "do re mi" is exactly that recipe in sound.
 
 ## The rhythm of study: follow the music
 
-A pace that lasts: **one concept per week, then find it in three pieces you already know.**
+A pace that lasts: one concept per week, then find it in three pieces you already know.
 
 - Learning intervals? Go to the Canon and trace that repeating line — how big are its steps?
 - Learning progressions? Stay in the Canon — almost the whole piece runs on one loop.
 - Learning form? Take a short piece and watch where its motive starts and how it grows.
 
-**Every concept needs evidence in your ears**, or what you memorised is only words.
+Every concept needs evidence in your ears, or what you memorised is only words.
 
 ## Two common detours
 
-- **Starting from a symbol chart**: learning "this sign means that" is backwards; build the audible concept first — symbols are only its spelling.
-- **Trying to "finish" theory**: there is no finish line. Theory is a map: unfold it when you need it, fold it when you do not.
+- Starting from a symbol chart: learning "this sign means that" is backwards; build the audible concept first — symbols are only its spelling.
+- Trying to "finish" theory: there is no finish line. Theory is a map: unfold it when you need it, fold it when you do not.
 
 ## Listen: the major scale recipe
 

@@ -38,7 +38,7 @@ updated: 2026-10-03
 
 ### 路线 B：已经决定学乐器了，卡在"怎么开始练"
 
-**走这条，如果你已经选了乐器或 vocal，但不知道怎么练。**
+走这条，如果你已经选了乐器或 vocal，但不知道怎么练。
 
 - [每天该练多久](../../start/daily-practice-time/) —— 频率比时长重要
 - [先学乐理，还是先练琴](../../start/theory-or-instrument-first/) —— 练琴与乐理可以并行
@@ -47,7 +47,7 @@ updated: 2026-10-03
 
 ### 路线 C：想搞懂"音乐到底是什么"
 
-**走这条，如果你更想"理解"而不是"上手"。**
+走这条，如果你更想"理解"而不是"上手"。
 
 - [音乐产业地图：钱从哪来](../../culture/music-industry-map/) —— 先看音乐怎么被组织起来
 - [大调为什么听起来「快乐」：解释与争议](../../culture/major-happy-why/) —— 从一个最简单的现象开始
@@ -57,10 +57,10 @@ updated: 2026-10-03
 
 诚实说一句，这条路上有两处还是空的：
 
-1. **词典站内容量不足** —— 它本来该是"每个术语随手能查"的地方，现在只有骨架
-2. **没有一条完整的"从零到能弹曲子"路线图** —— 三十篇入门短文覆盖了判断与心态，但**没有覆盖技术训练的那条线**
+1. 词典站内容量不足 —— 它本来该是"每个术语随手能查"的地方，现在只有骨架
+2. 没有一条完整的"从零到能弹曲子"路线图 —— 三十篇入门短文覆盖了判断与心态，但没有覆盖技术训练的那条线
 
-**第二点是真缺口。** 现在你得自己把入门短文和乐器站拼起来读。
+第二点是真缺口。 现在你得自己把入门短文和乐器站拼起来读。
 
 ## 下一步
 
@@ -100,7 +100,7 @@ Answer one question first: **what is actually blocking you?** The three routes m
 
 ### Route C: you want to understand what music is
 
-**Take this if you would rather understand than start playing.**
+Take this if you would rather understand than start playing.
 
 - [The music industry map: where the money is](../../culture/music-industry-map/) — see how music is organised
 - [Why the major scale sounds happy: explanation and dispute](../../culture/major-happy-why/) — start from the simplest phenomenon
@@ -110,10 +110,10 @@ Answer one question first: **what is actually blocking you?** The three routes m
 
 Honestly, two gaps on this path:
 
-1. **The glossary is short of its plan** — it should be the place where any term is one click away, and it is still a skeleton
-2. **There is no complete "zero to playing a piece" roadmap** — the thirty guides cover judgement and mindset, but **they do not cover the technical training track**
+1. The glossary is short of its plan — it should be the place where any term is one click away, and it is still a skeleton
+2. There is no complete "zero to playing a piece" roadmap — the thirty guides cover judgement and mindset, but they do not cover the technical training track
 
-**The second point is a genuine gap.** For now you have to assemble the guides and the instrument site yourself.
+The second point is a genuine gap. For now you have to assemble the guides and the instrument site yourself.
 
 ## Next
 

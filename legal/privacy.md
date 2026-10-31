@@ -13,7 +13,7 @@ alias: [Privacy, 隐私, 数据收集]
 order: 92
 updated: 2026-09-23
 sources:
-  - 本站自订政策，据实描述本站的实际技术行为
+  - 本站自订政策，据实描述这里的实际技术行为
 ---
 
 ::: zh
@@ -41,13 +41,13 @@ sources:
 - **音频引擎**：从 `lib.midicn.com` 加载 Tone.js / Midi.js（用于播放示例）
 - **曲目文件**：点击播放时，从 `lib.midicn.com` 读取对应的 MIDI 文件
 
-这些都是**我们自己的域名**，不涉及任何第三方公司。但作为标准的网络请求，对方服务器（GitHub Pages）会记录请求 IP —— 这与其他任何网站加载图片的行为相同。
+这些都是我们自己的域名，不涉及任何第三方公司。但作为标准的网络请求，对方服务器（GitHub Pages）会记录请求 IP —— 这与其他任何网站加载图片的行为相同。
 
-**本站不含**：Google Analytics、百度统计、任何广告追踪、任何社交插件、任何外部 CDN（字体、图标全部内置）。
+本站不含：Google Analytics、百度统计、任何广告追踪、任何社交插件、任何外部 CDN（字体、图标全部内置）。
 
 ## 广告
 
-**本站目前不投放广告。** 若未来引入广告，本页会**提前更新**，说明广告来源、是否会使用 Cookie，以及如何选择退出。
+本站目前不投放广告。 若未来引入广告，本页会提前更新，说明广告来源、是否会使用 Cookie，以及如何选择退出。
 
 ## 儿童
 
@@ -55,17 +55,17 @@ sources:
 
 ## 你的权利
 
-由于本站不收集个人数据，**不存在需要"删除"或"导出"的数据**。你随时可以通过清除浏览器数据移除本地偏好。
+由于本站不收集个人数据，不存在需要"删除"或"导出"的数据。你随时可以通过清除浏览器数据移除本地偏好。
 
 ## 变更
 
-本政策若更新，会替换本页并注明日期。**我们不会在未更新的情况下改变数据处理方式。**
+本政策若更新，会替换本页并注明日期。我们不会在未更新的情况下改变数据处理方式。
 
 ## 联系
 
 对隐私有疑问：请通过 [GitHub 仓库](https://github.com/midicn) 提交 issue。
 
-> 本页为通俗表述，**不构成法律意见**。
+> 本页为通俗表述，不构成法律意见。
 :::
 
 ::: en
@@ -93,13 +93,13 @@ This is a static site, but two kinds of resource come from another of our own su
 - **Audio engine**: Tone.js / Midi.js loaded from `lib.midicn.com` (used to play examples)
 - **Track files**: when you press play, the corresponding MIDI file is fetched from `lib.midicn.com`
 
-Both are **our own domains** — no third-party companies are involved. As with any web request, the serving host (GitHub Pages) will log the requesting IP address, exactly as any site logs requests for its images.
+Both are our own domains — no third-party companies are involved. As with any web request, the serving host (GitHub Pages) will log the requesting IP address, exactly as any site logs requests for its images.
 
-**This site contains no** Google Analytics, no ad trackers, no social plugins, and no external CDNs (fonts and icons are all bundled locally).
+This site contains no Google Analytics, no ad trackers, no social plugins, and no external CDNs (fonts and icons are all bundled locally).
 
 ## Advertising
 
-**There is no advertising on this site today.** If advertising is ever introduced, **this page will be updated first**, stating the source, whether cookies are used, and how to opt out.
+There is no advertising on this site today. If advertising is ever introduced, this page will be updated first, stating the source, whether cookies are used, and how to opt out.
 
 ## Children
 
@@ -107,15 +107,15 @@ We do not collect information from children — because we collect no informatio
 
 ## Your rights
 
-Since no personal data is collected, there is **nothing to delete or export**. You can remove the local preferences at any time by clearing your browser data.
+Since no personal data is collected, there is nothing to delete or export. You can remove the local preferences at any time by clearing your browser data.
 
 ## Changes
 
-If this policy changes, the revised version replaces this page and is dated. **We will not change our data practices without updating this page.**
+If this policy changes, the revised version replaces this page and is dated. We will not change our data practices without updating this page.
 
 ## Contact
 
 Privacy questions: open an issue on our [GitHub repository](https://github.com/midicn).
 
-> This page is a plain-language summary, **not legal advice**.
+> This page is a plain-language summary, not legal advice.
 :::

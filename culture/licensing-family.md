@@ -19,7 +19,7 @@ instances:
   - m21-000005 | 一首几百年前的众赞歌：老作品的新录音仍是「有主」的——授权看的是录音 | A centuries-old chorale — its modern recording still has an owner; licences follow the recording
   - essen-000168 | 民歌的记录：谁记录的、以什么条款共享，决定了它能不能被使用 | A folk-song record — who recorded it and on what terms decides whether you can use it
 sources:
-  - 本文为授权通道的通识性描述，不构成法律意见；具体授权请咨询专业机构
+  - 授权通道的通识性描述，不构成法律意见；具体授权请咨询专业机构
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---
@@ -40,26 +40,26 @@ updated: 2026-09-28
 ## 两条捷径，各自的条件
 
 - **一揽子授权平台**：一些平台提供了预清权的音乐库——付费订阅，随取随用，不用逐首谈判。代价是曲目是「库里的」，不是「你想的那首」。
-- **公共版权与开放许可**：公版作品（保护期届满）与开放许可作品（如 CC 系）不必走完整授权链——但要**看清具体条款**（署名、署名方式、是否可商用，见[知识共享许可家族](../cc-license-family/)）。
+- **公共版权与开放许可**：公版作品（保护期届满）与开放许可作品（如 CC 系）不必走完整授权链——但要看清具体条款（署名、署名方式、是否可商用，见[知识共享许可家族](../cc-license-family/)）。
 
 ## 预算不足时的三条正路
 
-1. **用开放许可的音乐**（核对条款）；
-2. **委托创作**（一次性买断或定制授权——往往比想象中便宜）；
-3. **自己制作**（哪怕是合成器做一段氛围）。
+1. 用开放许可的音乐（核对条款）；
+2. 委托创作（一次性买断或定制授权——往往比想象中便宜）；
+3. 自己制作（哪怕是合成器做一段氛围）。
 
-**三条都不是「绕过许可」**——绕过的代价，是下架、索赔与信誉损失。
+三条都不是「绕过许可」——绕过的代价，是下架、索赔与信誉损失。
 
 ## 一个实用检查清单
 
-- [ ] 用的是什么：**词曲**？**录音**？还是两者？
+- [ ] 用的是什么：词曲？录音？还是两者？
 - [ ] 用途是什么：商用/非商用？线上/线下？期限与地域？
 - [ ] 权利干净吗：公版？开放许可？一揽子库？需要逐首谈？
-- [ ] 留痕了吗：**把每一份许可与条款存档**——这是最省事的保命动作。
+- [ ] 留痕了吗：把每一份许可与条款存档——这是最省事的保命动作。
 
 ## 听一听：一段旋律的两种命运
 
-同一段旋律：如果它是**公版**，你改编它是自由；如果它**仍在保护期内**，改编与使用要先打招呼。听一段五声旋律——它简单得像民歌，但「像民歌」不等于「是公版」。
+同一段旋律：如果它是公版，你改编它是自由；如果它仍在保护期内，改编与使用要先打招呼。听一段五声旋律——它简单得像民歌，但「像民歌」不等于「是公版」。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","G4","A4","C5"],"label":"一段简单旋律：它有没有主人，与「听起来简单」无关","label_en":"A simple melody — being simple tells you nothing about who owns it","hint":"先听上行，再听下行","hint_en":"Up first, then down"}
@@ -67,8 +67,8 @@ updated: 2026-09-28
 
 ## 下一步
 
-- 权利为什么是「两层」：本站 [一首歌上有几层权利](../copyright-composition/)。
-- 开放许可怎么读：本站 [知识共享许可家族](../cc-license-family/)。
+- 权利为什么是「两层」：[一首歌上有几层权利](../copyright-composition/)。
+- 开放许可怎么读：[知识共享许可家族](../cc-license-family/)。
 - 想彻底回避授权？课程与练习曲多属传统素材：[[concept:melody|旋律]] 的构成从不属于任何人。
 :::
 
@@ -87,26 +87,26 @@ Want to use a piece of music in your video, game or ad? **Finding the music is s
 
 ## Two shortcuts, each with conditions
 
-- **Pre-cleared libraries**: some platforms offer cleared music — subscription, use at will, no per-song negotiation. The price: you get **their** catalogue, not **that** song.
-- **Public domain and open licences**: public-domain works and openly licensed music skip the full chain — but **read the fine print** (attribution, commercial use — see [the CC licence family](../cc-license-family/)).
+- **Pre-cleared libraries**: some platforms offer cleared music — subscription, use at will, no per-song negotiation. The price: you get **their** catalogue, not that song.
+- Public domain and open licences: public-domain works and openly licensed music skip the full chain — but read the fine print (attribution, commercial use — see [the CC licence family](../cc-license-family/)).
 
 ## Three legitimate paths on a small budget
 
-1. **Use openly licensed music** (check the terms);
-2. **Commission a work** (a buyout or bespoke licence — often cheaper than expected);
-3. **Make it yourself** (even a synth pad counts).
+1. Use openly licensed music (check the terms);
+2. Commission a work (a buyout or bespoke licence — often cheaper than expected);
+3. Make it yourself (even a synth pad counts).
 
-**None of these is "bypassing a licence"** — bypassing costs takedowns, claims and reputation.
+None of these is "bypassing a licence" — bypassing costs takedowns, claims and reputation.
 
 ## A practical checklist
-- [ ] What are you using: **song**, **recording**, or both?
+- [ ] What are you using: song, recording, or both?
 - [ ] What for: commercial/non-commercial? Online/offline? Term and territory?
 - [ ] Is it clean: public domain? Open licence? Library? Needs negotiation?
-- [ ] Did you keep records: **archive every licence and term** — the cheapest insurance there is.
+- [ ] Did you keep records: archive every licence and term — the cheapest insurance there is.
 
 ## Listen: two fates for one melody
 
-The same melody: if it is **public domain**, you may adapt it freely; if it is **still protected**, adaptation and use ask permission first. Hear a pentatonic line — it sounds like a folk tune, but "sounds folk" never means "is public domain".
+The same melody: if it is public domain, you may adapt it freely; if it is still protected, adaptation and use ask permission first. Hear a pentatonic line — it sounds like a folk tune, but "sounds folk" never means "is public domain".
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","G4","A4","C5"],"label":"一段简单旋律：它有没有主人，与「听起来简单」无关","label_en":"A simple melody — being simple tells you nothing about who owns it","hint":"先听上行，再听下行","hint_en":"Up first, then down"}

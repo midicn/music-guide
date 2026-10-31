@@ -31,16 +31,16 @@ updated: 2026-09-28
 ## 先定方向：你要的是哪一种
 
 - **想「听懂」**：第一步不是背知识，是**带问题地听**。挑一首熟悉的曲子，连听三遍，每遍只关注一件事——旋律往哪里走、节奏怎么动、情绪在哪里变。零成本、零设备，现在就能开始。
-- **想「上手弹唱」**：第一步是**碰一次真乐器**——借的、租的、琴行里试的，都比先下单买一台靠谱。先确认手碰到它的感觉，再谈买。
-- **想「写歌/做音乐」**：第一步是**拆一首歌**。找一首结构简单的曲子，数清楚它用了几个和弦、段落怎么分。
+- **想「上手弹唱」**：第一步是碰一次真乐器——借的、租的、琴行里试的，都比先下单买一台靠谱。先确认手碰到它的感觉，再谈买。
+- 想「写歌/做音乐」：第一步是拆一首歌。找一首结构简单的曲子，数清楚它用了几个和弦、段落怎么分。
 
-方向定不下来？**先用两周只听。** 听是三条路共用的地基，而且它不要求你任何投入。
+方向定不下来？先用两周只听。 听是三条路共用的地基，而且它不要求你任何投入。
 
 ## 第一条起跑线：今天就能做的三件事
 
-1. **带问题听一首曲子**（用上面的三遍法）。听完能说出「哪里变了」，就算合格。
-2. **碰一次乐器**：琴行、朋友的吉他、手机里的键盘应用都行。目标是消除「乐器很陌生」的感觉。
-3. **把十分钟写进日历**：不是「以后每天练」，而是今天几点到几点，写死。
+1. 带问题听一首曲子（用上面的三遍法）。听完能说出「哪里变了」，就算合格。
+2. 碰一次乐器：琴行、朋友的吉他、手机里的键盘应用都行。目标是消除「乐器很陌生」的感觉。
+3. 把十分钟写进日历：不是「以后每天练」，而是今天几点到几点，写死。
 
 起步阶段最大的敌人不是难度，是「再说吧」。
 
@@ -48,13 +48,13 @@ updated: 2026-09-28
 
 买装备是最像努力的一种准备工作：挑选、比较、下单，每一步都有进度感。但它和「会音乐」之间隔着的，是练习。
 
-更实际的问题是——第一件装备往往不是最后一件：手感、音色、方向，都会在三个月内改变你的偏好。**先用最小的设备开始**：身边的、借来的、租来的。让「什么值得买」这个问题晚一点回答，由真实的练习来回答。
+更实际的问题是——第一件装备往往不是最后一件：手感、音色、方向，都会在三个月内改变你的偏好。先用最小的设备开始：身边的、借来的、租来的。让「什么值得买」这个问题晚一点回答，由真实的练习来回答。
 
 ## 常见的第一步错误
 
-- **一上来报一个很大的课包**：先上一两节试课，确认老师和你说的是同一种语言。
-- **同时铺开三件事**（乐理、乐器、编曲）：选一个做主项，其余先当爱好。
-- **等「准备好了」再开始**：没有那一天。用手边已有的东西开始，就是最好的准备。
+- 一上来报一个很大的课包：先上一两节试课，确认老师和你说的是同一种语言。
+- 同时铺开三件事（乐理、乐器、编曲）：选一个做主项，其余先当爱好。
+- 等「准备好了」再开始：没有那一天。用手边已有的东西开始，就是最好的准备。
 
 ## 听一听：一条音阶
 
@@ -77,16 +77,16 @@ You want to learn music and have no idea where to start. That is not a personal 
 ## Pick a door first
 
 - **To understand what you hear**: your first step is not knowledge, it is **listening with questions**. Take a piece you know and play it three times, each time watching one thing only — where the melody moves, how the rhythm drives, where the mood shifts. No cost, no gear, start tonight.
-- **To play or sing**: your first step is to **touch a real instrument** — borrowed, rented, or tried at a shop — before ordering one. Test how it feels in your hands, then talk about buying.
-- **To write or produce**: your first step is to **take one song apart** — pick something simple and count its chords and sections.
+- **To play or sing**: your first step is to touch a real instrument — borrowed, rented, or tried at a shop — before ordering one. Test how it feels in your hands, then talk about buying.
+- To write or produce: your first step is to take one song apart — pick something simple and count its chords and sections.
 
-Can't choose? **Spend two weeks just listening.** Listening is the shared foundation of all three paths, and it asks nothing of your wallet.
+Can't choose? Spend two weeks just listening. Listening is the shared foundation of all three paths, and it asks nothing of your wallet.
 
 ## Your first starting line: three things for today
 
-1. **Listen to one piece with questions** (the three-pass method above). If you can say "this is where it changed", you have done it right.
-2. **Touch an instrument once** — a shop, a friend's guitar, a keyboard app on your phone. The goal is to remove the strangeness.
-3. **Put ten minutes in your calendar** — not "I will practise daily someday", but a specific slot today.
+1. Listen to one piece with questions (the three-pass method above). If you can say "this is where it changed", you have done it right.
+2. Touch an instrument once — a shop, a friend's guitar, a keyboard app on your phone. The goal is to remove the strangeness.
+3. Put ten minutes in your calendar — not "I will practise daily someday", but a specific slot today.
 
 The biggest obstacle at the start is not difficulty. It is "later".
 
@@ -94,13 +94,13 @@ The biggest obstacle at the start is not difficulty. It is "later".
 
 Shopping for gear feels like effort: comparing, choosing, ordering — every click feels like progress. But between the gear and the music lies practice.
 
-The practical problem is that your first instrument is rarely your last: your hands, ears and direction all change within three months. **Start with the smallest setup** — what you already own, what you can borrow, what you can rent. Let real practice answer the question of what to buy.
+The practical problem is that your first instrument is rarely your last: your hands, ears and direction all change within three months. Start with the smallest setup — what you already own, what you can borrow, what you can rent. Let real practice answer the question of what to buy.
 
 ## Common first-step mistakes
 
-- **Buying a big lesson package up front** — take one or two trial lessons first and check that you and the teacher speak the same language.
-- **Opening three fronts at once** (theory, instrument, production) — pick one as the main project and keep the rest as hobbies.
-- **Waiting to be "ready"** — that day never comes. Starting with what you already have **is** the preparation.
+- Buying a big lesson package up front — take one or two trial lessons first and check that you and the teacher speak the same language.
+- Opening three fronts at once (theory, instrument, production) — pick one as the main project and keep the rest as hobbies.
+- Waiting to be "ready" — that day never comes. Starting with what you already have is the preparation.
 
 ## Listen: one scale
 

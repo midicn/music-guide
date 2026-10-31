@@ -45,12 +45,12 @@ updated: 2026-09-28
 
 ## 工具替代不了的两件事
 
-- **老师的诊断**：工具能告诉你「这个音低了」，只有人能告诉你「因为你的手腕紧了」；
-- **你自己的注意力**：工具报「对」的时候，还要问自己——**我听出来为什么对了吗？** 工具是拐杖，最终要扔。
+- 老师的诊断：工具能告诉你「这个音低了」，只有人能告诉你「因为你的手腕紧了」；
+- 你自己的注意力：工具报「对」的时候，还要问自己——我听出来为什么对了吗？ 工具是拐杖，最终要扔。
 
 ## 一个时代的注脚
 
-两百年前，「练习应用」是一本印好的曲集——给初学者编的简易曲目集，从那时起就是出版界的常青品类。工具在换代，**「为练习设计的内容」这件事没有变过。**
+两百年前，「练习应用」是一本印好的曲集——给初学者编的简易曲目集，从那时起就是出版界的常青品类。工具在换代，「为练习设计的内容」这件事没有变过。
 
 ## 听一听：节拍器的一个日常刻度
 
@@ -87,12 +87,12 @@ Practice tools — metronome, tuner, ear-training, play-along — raise practice
 
 ## Two things tools cannot replace
 
-- **A teacher's diagnosis**: a tool tells you "this note is flat"; only a person tells you "because your wrist is tense";
-- **Your own attention**: when the tool says "correct", still ask — **can I hear why it is correct?** Tools are crutches; the goal is walking.
+- A teacher's diagnosis: a tool tells you "this note is flat"; only a person tells you "because your wrist is tense";
+- Your own attention: when the tool says "correct", still ask — can I hear why it is correct? Tools are crutches; the goal is walking.
 
 ## A footnote from history
 
-Two centuries ago, the "practice app" was a printed book of easy pieces compiled for beginners — an evergreen genre in publishing ever since. The containers change; **content designed for practice never does.**
+Two centuries ago, the "practice app" was a printed book of easy pieces compiled for beginners — an evergreen genre in publishing ever since. The containers change; content designed for practice never does.
 
 ## Listen: an everyday metronome setting
 

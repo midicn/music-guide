@@ -35,21 +35,21 @@ updated: 2026-09-28
 - **古典吉他**（尼龙弦）：独奏与系统学习。尼龙弦对手指友好，姿势与技法有一整套成熟体系——想「正经学一件乐器」而不是只扫弦，它是更正统的入口。
 - **电吉他**：乐队与音色。需要搭配音箱或耳机方案，弹起来"轻"（弦软、好按），但音色学问另算。
 
-**选哪把，取决于你要用它做什么**——弹唱选民谣，独奏/系统学习选古典，组乐队选电。
+选哪把，取决于你要用它做什么——弹唱选民谣，独奏/系统学习选古典，组乐队选电。
 
 ## 第一把琴的三个标准
 
-1. **手感第一**：按一个 F 和弦。如果吃力到"手指要断"，换一把——不是换你。
-2. **音准第二**：请店家调好弦后弹第 12 品——泛音与实音应该一致。
-3. **别买"练习琴"**：弦距过高、音准跑偏的琴会把「难」伪装成「你不适合」。
+1. 手感第一：按一个 F 和弦。如果吃力到"手指要断"，换一把——不是换你。
+2. 音准第二：请店家调好弦后弹第 12 品——泛音与实音应该一致。
+3. 别买"练习琴"：弦距过高、音准跑偏的琴会把「难」伪装成「你不适合」。
 
 ## 关于手疼：第一个月的真相
 
-起茧是必经之路，但**疼到无法按弦通常说明琴或方法有问题**（弦距太高、按的位置太靠后、练太久）。对策：
+起茧是必经之路，但疼到无法按弦通常说明琴或方法有问题（弦距太高、按的位置太靠后、练太久）。对策：
 
-- **短时多次**：每天两次 15 分钟，胜过一口气 40 分钟；
-- **按品丝旁**：手指按在品丝（金属条）左侧，省力一半；
-- **听手机的"咔"声**：拨响且干净 = 按对了。
+- 短时多次：每天两次 15 分钟，胜过一口气 40 分钟；
+- 按品丝旁：手指按在品丝（金属条）左侧，省力一半；
+- 听手机的"咔"声：拨响且干净 = 按对了。
 
 ## 听一听：一个和弦就能开始
 
@@ -76,21 +76,21 @@ The guitar has three siblings that look alike and differ widely in use. **Meet t
 - **Classical (nylon)**: solo playing and systematic study. Nylon is kind to fingers, and there is a complete, mature method — the more formal doorway if you want to "properly learn an instrument", not just strum.
 - **Electric**: bands and tone. Needs an amp or a headphone plan; strings are soft and easy, but tone study is a whole second subject.
 
-**Which one? Whatever the job is** — sing-along takes the acoustic, solo and method take the classical, band life takes the electric.
+Which one? Whatever the job is — sing-along takes the acoustic, solo and method take the classical, band life takes the electric.
 
 ## Three standards for the first guitar
 
-1. **Feel first**: press an F chord. If it is so hard that "fingers will snap", change the guitar — not yourself.
-2. **Intonation second**: ask the shop to tune it, then play at the 12th fret — harmonic and fingered note should match.
-3. **Do not buy a "practice guitar"**: high action and drifting intonation disguise "hard" as "you are not cut out for it".
+1. Feel first: press an F chord. If it is so hard that "fingers will snap", change the guitar — not yourself.
+2. Intonation second: ask the shop to tune it, then play at the 12th fret — harmonic and fingered note should match.
+3. Do not buy a "practice guitar": high action and drifting intonation disguise "hard" as "you are not cut out for it".
 
 ## About the pain: the truth of month one
 
-Calluses are part of the road, but **pain that stops you pressing usually means the guitar or the method is off** (action too high, pressing too far back, sessions too long). Try:
+Calluses are part of the road, but pain that stops you pressing usually means the guitar or the method is off (action too high, pressing too far back, sessions too long). Try:
 
-- **Short and often**: two fifteen-minute sessions beat one forty-minute grind;
-- **Press by the fret**: just behind the metal fret wire halves the effort;
-- **Listen for the clean "click"**: a sounding, buzz-free note means you pressed right.
+- Short and often: two fifteen-minute sessions beat one forty-minute grind;
+- Press by the fret: just behind the metal fret wire halves the effort;
+- Listen for the clean "click": a sounding, buzz-free note means you pressed right.
 
 ## Listen: one chord is enough
 

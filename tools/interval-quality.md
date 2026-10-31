@@ -16,7 +16,7 @@ instances:
   - giantmidi-002964 | 格里格十九首挪威民歌 —— 挪威民歌里大三度与小三度的交替出现本身就是一种方法 | Grieg's Nineteen Norwegian Folk Tunes — alternation between major and minor thirds is itself a compositional device there
   - essen-004468 | 一首德国传统酒馆歌 —— 民歌调子常用小三度下移到低音区 | A German traditional tavern song — folk melodies often drop a minor third into the low register
 sources:
-  - 本页为大小三度对照练习的说明；三度性质依据通用乐理记法
+  - 这一条为大小三度对照练习的说明；三度性质依据通用乐理记法
   - 实例均标注来源与许可档位，可在线试听；练习用的合成音由浏览器实时生成，非录音
 updated: 2026-10-03
 ---
@@ -44,45 +44,45 @@ updated: 2026-10-03
 
 ### 1. 缺少参照物
 
-**你从来没有被告知大三度「应该」是什么样子。** 绝对音高有绝对音高的参照（钢琴键），**音程没有**。
+**你从来没有被告知大三度「应该」是什么样子。** 绝对音高有绝对音高的参照（钢琴键），音程没有。
 
 - 音高你可以对比键盘；
-- 音程只能对比**别的音程**，或者对比**你自己唱出来的**。
+- 音程只能对比别的音程，或者对比你自己唱出来的。
 
-**这就是本站反复说「先唱出来再判断」的原因。**
+这就是反复强调「先唱出来再判断」的原因。
 
 ### 2. 只听不做
 
 听三遍和唱三遍的差别，比想象中大得多：
 
-- 听的时候，你在**比较两个外部声音**；
-- 唱的时候，你在**建立一个内部参照**。
+- 听的时候，你在比较两个外部声音；
+- 唱的时候，你在建立一个内部参照。
 
 前者每次都依赖输入，后者一旦建成就永久可用。
 
 ### 3. 它们出现得太频繁
 
-大三度和小三度在音乐里出现得**太多了**——多到大脑会启动"自动处理"，于是细节被跳过。
+大三度和小三度在音乐里出现得太多了——多到大脑会启动"自动处理"，于是细节被跳过。
 
-**一个解决办法是把它们从语境里拿出来单独练。** 下面那两个按钮就是为此存在的。
+一个解决办法是把它们从语境里拿出来单独练。 下面那两个按钮就是为此存在的。
 
 ## 一个具体可操作的练法
 
-1. **只听大三度**，在心里唱出来，记住这个"距离的形状"；
-2. **只听小三度**，同样唱出来；
-3. **交替快速听**——练的是"切换"这个动作，而不是记住任何一个；
+1. 只听大三度，在心里唱出来，记住这个"距离的形状"；
+2. 只听小三度，同样唱出来；
+3. 交替快速听——练的是"切换"这个动作，而不是记住任何一个；
 4. 最后再去听有音乐的地方，找出来。
 
-**第3 步是关键。** 单独听大小三度不难，难的是**在两者之间快速切换而不混淆**——那才是真实场景里的要求。
+第3 步是关键。 单独听大小三度不难，难的是在两者之间快速切换而不混淆——那才是真实场景里的要求。
 
 ## 顺便说清一件事
 
-如果你长期分不出这一对，**问题多半不在听力，在方法**。具体说：
+如果你长期分不出这一对，问题多半不在听力，在方法。具体说：
 
 - 你可能一直在"听"，从来没在"唱"；
 - 或者你在用排除法猜（"应该是大一点的那个吧"），而不是在重建。
 
-**换一个动作就能解决**：强制自己先唱，再听。
+换一个动作就能解决：强制自己先唱，再听。
 
 ## 下一步
 
@@ -115,19 +115,19 @@ Three real reasons, in order of importance.
 
 ### 1. You have no reference
 
-**Nobody ever told you what a major third is supposed to sound like.** Pitch has a reference — the piano keyboard. **Intervals do not.**
+**Nobody ever told you what a major third is supposed to sound like.** Pitch has a reference — the piano keyboard. Intervals do not.
 
 - pitch can be checked against keys;
-- an interval can only be checked against **another interval**, or against **what you sing yourself**.
+- an interval can only be checked against another interval, or against what you sing yourself.
 
-**That is why this site keeps saying "sing it first, then judge it".**
+That is why this site keeps saying "sing it first, then judge it".
 
 ### 2. Listening without doing
 
 Hearing something three times and singing it three times differ far more than intuition suggests:
 
-- when you listen, you are **comparing two outside sounds**;
-- when you sing, you are **building an internal reference**.
+- when you listen, you are comparing two outside sounds;
+- when you sing, you are building an internal reference.
 
 The first depends on input every time. The second, once built, stays available.
 
@@ -135,25 +135,25 @@ The first depends on input every time. The second, once built, stays available.
 
 Major and minor thirds appear in music so constantly that the brain switches to automatic processing and skips the detail.
 
-**One remedy is to pull them out of context and drill them alone.** The two buttons below exist for exactly that.
+One remedy is to pull them out of context and drill them alone. The two buttons below exist for exactly that.
 
 ## A procedure that actually works
 
-1. **Listen to the major third alone**, sing it internally, and remember the shape of that distance;
-2. **Listen to the minor third alone** and do the same;
-3. **Alternate between them quickly** — you are now training the **switch**, not memorising either one;
+1. Listen to the major third alone, sing it internally, and remember the shape of that distance;
+2. Listen to the minor third alone and do the same;
+3. Alternate between them quickly — you are now training the switch, not memorising either one;
 4. Only then go back to real music and spot them.
 
-**Step 3 is the point.** Hearing either one alone is easy; what is hard — and what real performance demands — is **switching between them quickly without confusion**.
+Step 3 is the point. Hearing either one alone is easy; what is hard — and what real performance demands — is switching between them quickly without confusion.
 
 ## One thing worth saying plainly
 
-If you have never managed to tell these apart, **the problem is usually method, not hearing.** Specifically:
+If you have never managed to tell these apart, the problem is usually method, not hearing. Specifically:
 
 - you may have been listening the whole time without ever singing;
 - or you have been guessing by elimination ("it should be the bigger one") instead of reconstructing.
 
-**Changing one action fixes it**: force yourself to sing before you listen.
+Changing one action fixes it: force yourself to sing before you listen.
 
 ## Next
 

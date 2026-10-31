@@ -32,19 +32,19 @@ updated: 2026-09-28
 
 - **0–3 岁：环境与回应。** 音乐当背景放（各种风格都放）；孩子发出声音时回应他——他敲一下桌子，你敲两下，这是最早的「合奏」。
 - **3–6 岁：游戏与歌唱。** 节奏游戏（拍手、走步、模仿）、唱儿歌、给故事配声音。这个阶段不需要「上课」，需要玩耍。
-- **6 岁以后：可以引入乐器。** 关键是**让孩子参与选择**——他选的乐器，他才练得下去。试学期留足半年。
+- **6 岁以后：可以引入乐器。** 关键是让孩子参与选择——他选的乐器，他才练得下去。试学期留足半年。
 
 ## 家长不懂音乐，怎么办
 
-- **你不需要会。** 一起听、一起唱、一起拍手就够了。孩子在意的是「我们一起做这件事」，不是你唱得准不准。
-- **示范交给录音。** 想给更准的范本时，放录音就好——这不是偷懒，是分工。
-- **别当监工。** 「练了没有」的质问，比任何技术问题都更快地消耗兴趣。
+- 你不需要会。 一起听、一起唱、一起拍手就够了。孩子在意的是「我们一起做这件事」，不是你唱得准不准。
+- 示范交给录音。 想给更准的范本时，放录音就好——这不是偷懒，是分工。
+- 别当监工。 「练了没有」的质问，比任何技术问题都更快地消耗兴趣。
 
 ## 三个「不要」
 
-1. **不要提前起跑**：学龄前拼考级、拼进度，代价常常是之后十年的抵触；
-2. **不要把孩子当表演道具**：为面子表演，孩子会把「音乐」和「紧张」连在一起；
-3. **不要和别人家孩子比**：音乐启蒙没有统一的进度表，只有你自己的孩子的节奏。
+1. 不要提前起跑：学龄前拼考级、拼进度，代价常常是之后十年的抵触；
+2. 不要把孩子当表演道具：为面子表演，孩子会把「音乐」和「紧张」连在一起；
+3. 不要和别人家孩子比：音乐启蒙没有统一的进度表，只有你自己的孩子的节奏。
 
 ## 听一听：声音可以往上走，也可以往下走
 
@@ -68,19 +68,19 @@ The easiest way to get music education wrong is to treat it as "learning early".
 
 - **Ages 0–3: environment and response.** Play music in the background (all styles); answer the sounds your child makes — they tap once, you tap twice. That is the earliest "ensemble".
 - **Ages 3–6: games and singing.** Rhythm games (clapping, walking, copying), singing, giving stories sound effects. This stage needs play, not lessons.
-- **After six: instruments can enter.** The key is **letting the child take part in choosing** — an instrument they chose is one they will keep. Give the trial at least half a year.
+- **After six: instruments can enter.** The key is letting the child take part in choosing — an instrument they chose is one they will keep. Give the trial at least half a year.
 
 ## The parent "cannot do music" problem
 
-- **You do not need to.** Listening, singing and clapping together is enough. What the child remembers is "we did this together", not your tuning.
-- **Let recordings demonstrate.** When a cleaner model is needed, play a recording — that is division of labour, not laziness.
-- **Do not become the inspector.** "Have you practised yet?" burns interest faster than any technical problem.
+- You do not need to. Listening, singing and clapping together is enough. What the child remembers is "we did this together", not your tuning.
+- Let recordings demonstrate. When a cleaner model is needed, play a recording — that is division of labour, not laziness.
+- Do not become the inspector. "Have you practised yet?" burns interest faster than any technical problem.
 
 ## Three "do nots"
 
-1. **Do not start early for its own sake**: exam races before school age are often paid for with ten years of resistance afterwards;
-2. **Do not make the child a stage prop**: performing for face teaches the child to link music with nerves;
-3. **Do not compare with other children**: there is no universal timetable in music — only your child's own pace.
+1. Do not start early for its own sake: exam races before school age are often paid for with ten years of resistance afterwards;
+2. Do not make the child a stage prop: performing for face teaches the child to link music with nerves;
+3. Do not compare with other children: there is no universal timetable in music — only your child's own pace.
 
 ## Listen: up and down
 

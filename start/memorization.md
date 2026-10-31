@@ -46,21 +46,21 @@ updated: 2026-09-28
 - **听觉线**：合上琴，看着谱唱一遍；再合上谱，凭记忆唱一遍；
 - **结构线**：分析走向——这一段的和声往哪里去、下一段从哪里开始；
 - **视觉线**：在谱上标记「地标」（分段点、特殊和声），记住它们的位置；
-- **动作线**：慢速「空弹」（手指做动作不出声），检查每个移动都有依据。
+- 动作线：慢速「空弹」（手指做动作不出声），检查每个移动都有依据。
 
 ## 一个最重要的测验：从任意小节开始
 
-问朋友：**「随机指一个小节，从这里开始弹。」**
+问朋友：「随机指一个小节，从这里开始弹。」
 
-- 从头能弹完 → 你有的是一条**链**，第一环掉了，全断；
-- 任意点能进入 → 你有的是一张**网**，哪断了都能绕回来。
+- 从头能弹完 → 你有的是一条链，第一环掉了，全断；
+- 任意点能进入 → 你有的是一张网，哪断了都能绕回来。
 
-**把「链」练成「网」，是背谱的全部工程。**
+把「链」练成「网」，是背谱的全部工程。
 
 ## 两个补充事实
 
-- **出口处最容易断**：从「发展段」回「主题」的接口，往往是记忆的薄弱点——单独标记、单独练；
-- **紧张会关闭听觉线**：这也是为什么舞台上「靠耳朵」的人更稳——听觉线是最抗紧张的线，值得优先喂。
+- 出口处最容易断：从「发展段」回「主题」的接口，往往是记忆的薄弱点——单独标记、单独练；
+- 紧张会关闭听觉线：这也是为什么舞台上「靠耳朵」的人更稳——听觉线是最抗紧张的线，值得优先喂。
 
 ## 听一听：一个「路标」音程
 
@@ -98,21 +98,21 @@ Normal practice feeds all four; but most people's "memorising" feeds only the mo
 - **Aural**: sing it from the page, then from memory;
 - **Structural**: map the path — where the harmony goes, where the next section begins;
 - **Visual**: mark "landmarks" on the page (section points, odd harmonies) and learn their positions;
-- **Motor**: slow "air-playing" (move without sounding), checking every shift has a reason.
+- Motor: slow "air-playing" (move without sounding), checking every shift has a reason.
 
 ## The most important test: start anywhere
 
-Ask a friend: **"Point at a random bar and I will start there."**
+Ask a friend: "Point at a random bar and I will start there."
 
-- Can only play from the top → you own a **chain**: one link drops, everything drops;
-- Can enter at any point → you own a **net**: cut anywhere and you climb back in.
+- Can only play from the top → you own a chain: one link drops, everything drops;
+- Can enter at any point → you own a net: cut anywhere and you climb back in.
 
-**Turning the chain into a net is the entire engineering of memorising.**
+Turning the chain into a net is the entire engineering of memorising.
 
 ## Two extra facts
 
-- **Exits break first**: the seam from development back to theme is often the weakest joint — mark it, drill it alone;
-- **Nerves shut the aural line**: which is why performers who "play by ear" feel steadier — the aural thread resists tension best, so feed it first.
+- Exits break first: the seam from development back to theme is often the weakest joint — mark it, drill it alone;
+- Nerves shut the aural line: which is why performers who "play by ear" feel steadier — the aural thread resists tension best, so feed it first.
 
 ## Listen: a signpost interval
 

@@ -27,7 +27,7 @@ updated: 2026-10-03
 |---|---|---|
 | 「谱子上这个记号是什么」 | **记号层** | 站外 theo + 词典 |
 | 「为什么这里是升号不是降号」 | **原理层** | theo 的调号与和声部分 |
-| 「我知道了，然后呢」 | **用法层** | 本站的通识与工具 |
+| 「我知道了，然后呢」 | **用法层** | 这里的通识与工具 |
 
 ## 去哪读：按三层分
 
@@ -58,17 +58,17 @@ updated: 2026-10-03
 
 ### 一条贯穿三层的线
 
-如果你想一次看到"记号 → 原理 → 用法"是怎么连起来的，**从[大调为什么听起来快乐](../../culture/major-happy-why/)开始**——它从最简单的问题出发，一层层往上走，而且**连解释的争议都写了**。
+如果你想一次看到"记号 → 原理 → 用法"是怎么连起来的，从[大调为什么听起来快乐](../../culture/major-happy-why/)开始——它从最简单的问题出发，一层层往上走，而且连解释的争议都写了。
 
 ## 还没建好的
 
 诚实说三处：
 
-1. **词典站内容量不足** —— 记号层最需要"随手查"，而它还是骨架。**这是本条路线最实际的障碍**
-2. **theo 站的乐理部分没有"学习路径"** —— 它是 150 条并列的条目，没有标出"先读哪十条"
-3. **缺一个"术语之间怎么互相推导"的入口** —— 目前每条都讲自己，不讲邻居
+1. 词典站内容量不足 —— 记号层最需要"随手查"，而它还是骨架。这是本条路线最实际的障碍
+2. theo 站的乐理部分没有"学习路径" —— 它是 150 条并列的条目，没有标出"先读哪十条"
+3. 缺一个"术语之间怎么互相推导"的入口 —— 目前每条都讲自己，不讲邻居
 
-**第 2 点我认为是真缺口**：150 条并列的知识站，对已经懂的人很好，对新手等于没有顺序。
+第 2 点我认为是真缺口：150 条并列的知识站，对已经懂的人很好，对新手等于没有顺序。
 
 ## 下一步
 
@@ -119,17 +119,17 @@ This layer is what turns knowledge into music.
 
 ### One line through all three layers
 
-If you want to see notation → principle → usage connected in one place, **start with [why the major scale sounds happy](../../culture/major-happy-why/)**. It starts from the simplest question, climbs one layer at a time, and **includes the dispute about its explanation**.
+If you want to see notation → principle → usage connected in one place, **start with [why the major scale sounds happy](../../culture/major-happy-why/)**. It starts from the simplest question, climbs one layer at a time, and includes the dispute about its explanation.
 
 ## What is not built yet
 
 Honestly, three gaps:
 
-1. **The glossary is short of its plan** — lookup is what this layer needs most, and it is still a skeleton. **This is the most practical obstacle on this route**
-2. **The theory site has no learning path** — it is 150 parallel entries with no indication of "read these ten first"
-3. **No entry point showing how the terms derive from each other** — each entry explains itself and not its neighbours
+1. The glossary is short of its plan — lookup is what this layer needs most, and it is still a skeleton. This is the most practical obstacle on this route
+2. The theory site has no learning path — it is 150 parallel entries with no indication of "read these ten first"
+3. No entry point showing how the terms derive from each other — each entry explains itself and not its neighbours
 
-**I consider point two a genuine gap**: a 150-entry parallel knowledge site is fine for those who already understand the subject, and equivalent to no order at all for a beginner.
+I consider point two a genuine gap: a 150-entry parallel knowledge site is fine for those who already understand the subject, and equivalent to no order at all for a beginner.
 
 ## Next
 

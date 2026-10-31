@@ -19,7 +19,7 @@ instances:
   - pdmx-000020 | 交响曲曾靠电台走进千家万户——古典音乐的第一次「大众分发」 | A symphony reaching millions through radio — classical music's first mass distribution
   - abcmisc-000242 | 一支犹太舞曲：世界音乐节目让此类曲目跨过国界——电台时代的「算法」 | A hora — world-music programming carried such tunes across borders; radio's own algorithm
 sources:
-  - 本文为音乐分发渠道的通识性描述，不涉及具体平台数据
+  - 音乐分发渠道的通识性描述，不涉及具体平台数据
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---
@@ -33,7 +33,7 @@ updated: 2026-09-28
 
 - **前奏要短**（听众随时会转台）；
 - **记忆点要早**（副歌、钩子越早出现越好）；
-- **长度要克制**（「电台版」是流行歌历史上的重要规格）。
+- 长度要克制（「电台版」是流行歌历史上的重要规格）。
 
 ## 电视与影像时代：多了一条腿
 
@@ -45,19 +45,19 @@ updated: 2026-09-28
 
 ## 算法时代：守门人是一套系统
 
-今天的推荐系统在做的，本质上是当年电台 DJ 的判断的**自动化**：
+今天的推荐系统在做的，本质上是当年电台 DJ 的判断的自动化：
 
-- **协同过滤**：和你相似的人还喜欢什么；
-- **内容特征**：这首歌的音频特征像什么；
-- **行为反馈**：你跳过什么、循环什么、什么时候切歌。
+- 协同过滤：和你相似的人还喜欢什么；
+- 内容特征：这首歌的音频特征像什么；
+- 行为反馈：你跳过什么、循环什么、什么时候切歌。
 
-它的新规律同样有效：**开头 30 秒定生死、副歌要前置、循环要顺滑**——不是为了讨好某个人，而是为了通过一次「行为评分」。
+它的新规律同样有效：开头 30 秒定生死、副歌要前置、循环要顺滑——不是为了讨好某个人，而是为了通过一次「行为评分」。
 
 ## 不变的是什么
 
 守门人从「一小群人」变成「一套系统」，但创作者面对的问题古老而相同：
 
-**怎么让作品被一个陌生的耳朵听见，并且被记住。**
+怎么让作品被一个陌生的耳朵听见，并且被记住。
 
 区别在于：电台时代你要说服一个 DJ；算法时代你要说服的是——所有数据的平均。
 
@@ -72,7 +72,7 @@ updated: 2026-09-28
 ## 下一步
 
 - 作品要靠什么被记住：[[concept:melody|旋律]]。
-- 「钩子」怎么写才有效：本站 [耳虫](../earworms/) 里有答案。
+- 「钩子」怎么写才有效：[耳虫](../earworms/) 里有答案。
 - 算法时代最稳的声音载体：[[instrument:piano|钢琴]]。
 :::
 
@@ -85,11 +85,11 @@ In the first half of the twentieth century, radio became music's primary distrib
 
 - **Short intros** (listeners switch at any moment);
 - **Early hooks** (chorus and hook as soon as possible);
-- **Controlled length** (the "radio edit" is a load-bearing format in pop history).
+- Controlled length (the "radio edit" is a load-bearing format in pop history).
 
 ## The visual age: a second leg
 
-Television and music video made **seeing** a variable — a song's spread began to depend on visual memory points. From here on, a "song" was an audiovisual product.
+Television and music video made seeing a variable — a song's spread began to depend on visual memory points. From here on, a "song" was an audiovisual product.
 
 ## The internet eve: on-demand and chaos
 
@@ -97,19 +97,19 @@ Downloads and file-sharing shattered distribution: no common schedule, only infi
 
 ## The algorithm age: the gatekeeper is a system
 
-Today's recommenders essentially **automate what a radio DJ judged**:
+Today's recommenders essentially automate what a radio DJ judged:
 
-- **Collaborative filtering**: what similar listeners liked;
-- **Content features**: what this track's audio resembles;
-- **Behaviour feedback**: what you skip, loop, and when you switch away.
+- Collaborative filtering: what similar listeners liked;
+- Content features: what this track's audio resembles;
+- Behaviour feedback: what you skip, loop, and when you switch away.
 
-Its new rules bite just as hard: **the first thirty seconds decide; put the chorus early; keep loops smooth** — not to please a person, but to pass a behavioural score.
+Its new rules bite just as hard: the first thirty seconds decide; put the chorus early; keep loops smooth — not to please a person, but to pass a behavioural score.
 
 ## What never changes
 
 The gatekeeper went from "a small group" to "a system", but the creator's problem is old and identical:
 
-**How does a work get heard by a stranger's ear — and remembered.**
+How does a work get heard by a stranger's ear — and remembered.
 
 The difference: in the radio age you convinced a DJ; in the algorithm age you convince the average of all data.
 

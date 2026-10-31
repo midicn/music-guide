@@ -57,44 +57,44 @@ sources:
 
 ### 2. 剔除疑似现代版权作品
 
-对某个来源中**疑似现代流行/商业作品**的部分，我们做了专门审查并**下架**，留存了逐条台账（来源、曲名、剔除理由）。这类内容的判定依赖目录名与文件路径特征 —— 详见数据集内部的审查记录。
+对某个来源中**疑似现代流行/商业作品**的部分，我们做了专门审查并下架，留存了逐条台账（来源、曲名、剔除理由）。这类内容的判定依赖目录名与文件路径特征 —— 详见数据集内部的审查记录。
 
 ### 3. 逐曲标注与可追溯
 
-- 每一条记录都带**来源标识**与**许可标识**
-- 数据集的**来源与变更过程**留有记录
-- 元数据"**留空不猜**" —— 不确定的信息宁可空着，不写猜测值
+- 每一条记录都带来源标识与许可标识
+- 数据集的来源与变更过程留有记录
+- 元数据"留空不猜" —— 不确定的信息宁可空着，不写猜测值
 
 ### 4. 不改变原许可
 
-我们**不重新授权**这些作品，**不添加**额外限制，也**不声称**整理工作产生了新权利。
+我们不重新授权这些作品，不添加额外限制，也不声称整理工作产生了新权利。
 
 ## 四、如果你认为某首作品的权利被侵犯
 
-**我们愿意且会迅速处理。** 这类主张对数据集尤其重要 —— 因为我们无法为每一首作品担保来源合法性。
+我们愿意且会迅速处理。 这类主张对数据集尤其重要 —— 因为我们无法为每一首作品担保来源合法性。
 
 请提供：
 
-1. **具体的曲目**（页面 URL 或数据集内的标识）
-2. **你主张权利的作品**及你在其中的权利性质
-3. **你的联系方式**
+1. 具体的曲目（页面 URL 或数据集内的标识）
+2. 你主张权利的作品及你在其中的权利性质
+3. 你的联系方式
 4. 一段说明：为什么你认为收录超出了其许可范围
 
 提交渠道：[GitHub 仓库](https://github.com/midicn) 提交 issue。
 
-**处理承诺**：
+处理承诺：
 
-- 收到有效通知后，**先下架、后核实**
+- 收到有效通知后，先下架、后核实
 - 若核实为误判，说明原因并恢复
 - 不要求超出必要范围的信息
 
 ## 五、关于整理工作本身
 
-虽然我们不主张作品的著作权，但**数据集的整理成果**（结构化元数据、去重归并、来源标注、分区体系）是我们投入的工作。
+虽然我们不主张作品的著作权，但数据集的整理成果（结构化元数据、去重归并、来源标注、分区体系）是我们投入的工作。
 
-我们**不为此设置额外限制** —— 你可以自由使用与再分发这套结构化数据，只需在适当处注明它来自 midicn-lib。这是请求，不是条件。
+我们不为此设置额外限制 —— 你可以自由使用与再分发这套结构化数据，只需在适当处注明它来自 midicn-lib。这是请求，不是条件。
 
-> 本页为通俗表述，**不构成法律意见**。
+> 本页为通俗表述，不构成法律意见。
 :::
 
 ::: en
@@ -141,38 +141,38 @@ For material in one source that appeared to be **modern popular/commercial music
 
 ### 3. Per-track labelling and traceability
 
-- Every record carries a **source marker** and a **licence marker**
-- The dataset's **sources and changes** are recorded
-- Metadata follows "**leave blank rather than guess**" — uncertain values stay empty
+- Every record carries a **source marker** and a licence marker
+- The dataset's sources and changes are recorded
+- Metadata follows "leave blank rather than guess" — uncertain values stay empty
 
 ### 4. Original licences unchanged
 
-We **do not relicense** these works, **add no** extra restrictions, and **claim no** new rights arising from the curation.
+We do not relicense these works, add no extra restrictions, and claim no new rights arising from the curation.
 
 ## 4. If you believe a work's rights are infringed
 
-**We will act promptly.** Such claims matter especially here, because we cannot vouch for the provenance of every work.
+We will act promptly. Such claims matter especially here, because we cannot vouch for the provenance of every work.
 
 Please provide:
 
-1. **The specific work** (page URL or dataset identifier)
-2. **The work you claim**, and the nature of your rights in it
-3. **How to reach you**
+1. The specific work (page URL or dataset identifier)
+2. The work you claim, and the nature of your rights in it
+3. How to reach you
 4. A short explanation of why inclusion exceeds its licence
 
 Submit via an issue on our [GitHub repository](https://github.com/midicn).
 
-**Our commitments:**
+Our commitments:
 
-- On a valid notice, we **take it down first and verify after**
+- On a valid notice, we take it down first and verify after
 - If the claim proves mistaken, we explain why and restore it
 - We will not ask for more information than necessary
 
 ## 5. About the curation itself
 
-While we claim no copyright in the works, the **curation** (structured metadata, de-duplication, source labelling, the zoning system) is work we put in.
+While we claim no copyright in the works, the curation (structured metadata, de-duplication, source labelling, the zoning system) is work we put in.
 
-We place **no extra restrictions** on it — you may use and redistribute the structured data freely, and we ask only that you note it came from midicn-lib. That is a request, not a condition.
+We place no extra restrictions on it — you may use and redistribute the structured data freely, and we ask only that you note it came from midicn-lib. That is a request, not a condition.
 
-> This page is a plain-language summary, **not legal advice**.
+> This page is a plain-language summary, not legal advice.
 :::

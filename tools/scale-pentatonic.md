@@ -16,7 +16,7 @@ instances:
   - giantmidi-003907 | 一首题名即为「五声前奏曲」的曲子 —— 二十世纪作曲家把它当作独立素材 | A prelude titled "pentatonic" — a twentieth-century composer treats it as independent material
   - essen-004468 | 一首德国传统酒馆歌 —— 民歌调子里的五声骨架不带任何变化音 | A German traditional tavern song — the pentatonic frame in folk melody carries no accidentals
 sources:
-  - 本页为五声音阶的对比练习说明；音阶结构依据通用乐理记法
+  - 这一条为五声音阶的对比练习说明；音阶结构依据通用乐理记法
   - 实例均标注来源与许可档位，可在线试听；练习用的合成音由浏览器实时生成，非录音
 updated: 2026-10-03
 ---
@@ -46,14 +46,14 @@ updated: 2026-10-03
 
 ## 真正的原因：不是简单，是「没有要回避的东西」
 
-这是本页最想让你记住的一句。
+这是最想让你记住的一句。
 
-**七声音阶里必须有一个半音**（在某些位置），而**半音是"摩擦"**：
+七声音阶里必须有一个半音（在某些位置），而半音是"摩擦"：
 
 - 大二度（两个全音）听起来是「开阔、平顺」；
 - 半音听起来是「挤、撞」。
 
-**七声音阶必须在某处接受这个摩擦，五声音阶则完全不必。**
+七声音阶必须在某处接受这个摩擦，五声音阶则完全不必。
 
 所以：
 
@@ -64,25 +64,25 @@ updated: 2026-10-03
 | 听感 | 平顺、疏 | 有张力、有方向 |
 | 旋律可用的表达 | 有限（缺一个小二度） | 完整（含小二度） |
 
-**五声音阶的"简单"是结果，不是原因。** 它的真正优势是**彻底规避了摩擦**——在一个不需要摩擦的地方，不存在需要解决的问题。
+五声音阶的"简单"是结果，不是原因。 它的真正优势是彻底规避了摩擦——在一个不需要摩擦的地方，不存在需要解决的问题。
 
 ## 但它也真的缺东西
 
-**缺的是小二度。** 而小二度恰好是最有表现力的音程之一：
+缺的是小二度。 而小二度恰好是最有表现力的音程之一：
 
-- **惊讶**：C 与 D♭
-- **不安**：降二级
-- **经过性紧张**：它制造"要往上走"的推动力
+- 惊讶：C 与 D♭
+- 不安：降二级
+- 经过性紧张：它制造"要往上走"的推动力
 
-**所以五声音阶的旋律听起来"稳"，但也常听起来"平"。** 这不是缺陷，是取舍——用表现力换稳定。
+所以五声音阶的旋律听起来"稳"，但也常听起来"平"。 这不是缺陷，是取舍——用表现力换稳定。
 
-**下面第三组那个亮，是因为它的缝隙全是全音；如果你给它加上一个半音（比如把 B♭ 变成 B），它立刻就不一样了。**
+下面第三组那个亮，是因为它的缝隙全是全音；如果你给它加上一个半音（比如把 B♭ 变成 B），它立刻就不一样了。
 
 ## 一个能自己验证的做法
 
-**把第二组（都节）的 Db 改成 D**，其余不动。
+把第二组（都节）的 Db 改成 D，其余不动。
 
-**只改一个音，五声的性格就变了。** 这说明五声的关键不在"五个音"，而在**音与音之间的缝隙是什么**。
+只改一个音，五声的性格就变了。 这说明五声的关键不在"五个音"，而在音与音之间的缝隙是什么。
 
 ## 下一步
 
@@ -119,7 +119,7 @@ Pentatonic scales turn up everywhere — Chinese folk song, Scottish jigs, the J
 
 This is the one sentence worth taking away.
 
-**A seven-note scale must contain a semitone**, and **a semitone is friction**:
+**A seven-note scale must contain a semitone**, and a semitone is friction:
 
 - a major whole tone (two whole tones apart) sounds open and smooth;
 - a semitone sounds cramped, like a clash.
@@ -135,25 +135,25 @@ So:
 | Sound | smooth, sparse | tension, direction |
 | Range of expression available | limited (no minor second) | complete (includes the minor second) |
 
-**The pentatonic's "simplicity" is a result, not a cause.** Its real advantage is that it **sidesteps friction entirely** — where there is no friction, there is no problem to solve.
+The pentatonic's "simplicity" is a result, not a cause. Its real advantage is that it sidesteps friction entirely — where there is no friction, there is no problem to solve.
 
 ## But it really is missing something
 
-**What is missing is the minor second.** And the minor second happens to be one of the most expressive intervals:
+What is missing is the minor second. And the minor second happens to be one of the most expressive intervals:
 
-- **surprise**: C against D♭
-- **unease**: the lowered second
-- **passing tension**: it creates the push "upwards"
+- surprise: C against D♭
+- unease: the lowered second
+- passing tension: it creates the push "upwards"
 
-**So pentatonic melodies sound stable — and often sound flat.** That is not a flaw but a trade: expressiveness exchanged for stability.
+So pentatonic melodies sound stable — and often sound flat. That is not a flaw but a trade: expressiveness exchanged for stability.
 
-**The third group below sounds bright because every gap is a whole tone; add a semitone to it** (turn that B♭ into B) **and it immediately stops sounding the same.**
+**The third group below sounds bright because every gap is a whole tone; add a semitone to it (turn that B♭ into B) and it immediately stops sounding the same.**
 
 ## A check you can run yourself
 
-**Change the D♭ in the second group to D**, leaving everything else alone.
+Change the D♭ in the second group to D, leaving everything else alone.
 
-**Change one note and the character of the pentatonic changes.** That is the point: the key to a pentatonic is not "five notes" but **what the gaps between the notes are**.
+Change one note and the character of the pentatonic changes. That is the point: the key to a pentatonic is not "five notes" but what the gaps between the notes are.
 
 ## Next
 

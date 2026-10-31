@@ -12,7 +12,7 @@ tags_en: [beginners, index]
 alias: [新手入门, 入门引导, 从零开始, start here, beginners guide]
 order: 0
 sources:
-  - 本页为入门引导的目录页，正文为原创撰写
+  - 入门引导的目录页：按阶段和问题分组，各条目均可在站内继续读
 updated: 2026-09-28
 ---
 

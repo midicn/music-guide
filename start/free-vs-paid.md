@@ -36,24 +36,24 @@ updated: 2026-09-28
 
 ## 付费买到的三样东西
 
-- **结构**：成体系的课程帮你省掉"自己拼图"，把路径直接摆出来；
-- **诊断**：老师的眼睛和耳朵——**这是音乐学习里最值得付的一笔钱**，因为机器与教程都做不到"看你个人的问题";
-- **承诺**：付了钱，你更不容易放弃。这不是伟光正的话术，是行为规律——沉没成本会替你做一部分坚持。
+- 结构：成体系的课程帮你省掉"自己拼图"，把路径直接摆出来；
+- 诊断：老师的眼睛和耳朵——这是音乐学习里最值得付的一笔钱，因为机器与教程都做不到"看你个人的问题";
+- 承诺：付了钱，你更不容易放弃。这不是伟光正的话术，是行为规律——沉没成本会替你做一部分坚持。
 
 ## 花钱的优先级（一份参考）
 
-1. **一件可靠的乐器**（见「买什么乐器」——不必贵的，但不能差）；
-2. **一段时间的好老师**（哪怕一个月一次）；
-3. **工具与软件**（按需，见「音乐软件怎么选」）；
+1. 一件可靠的乐器（见「买什么乐器」——不必贵的，但不能差）；
+2. 一段时间的好老师（哪怕一个月一次）；
+3. 工具与软件（按需，见「音乐软件怎么选」）；
 4. 其余的一切，几乎都可以后置。
 
 ## 关于"白嫖"的几句实话
 
-完全免费的路径真实存在——公共版权乐谱、开放数据集、公共课、开源软件。它们**足以支撑一个自律的初学者走很远**。付费解决的从来不是"能不能"，而是"快不快、稳不稳、少不少绕路"。
+完全免费的路径真实存在——公共版权乐谱、开放数据集、公共课、开源软件。它们足以支撑一个自律的初学者走很远。付费解决的从来不是"能不能"，而是"快不快、稳不稳、少不少绕路"。
 
 ## 听一听：免费曲库里的名家手笔
 
-这首《西西里舞曲》出自一位法国名家之手——它就在免费、可核的曲库中等你。**价值不在标价上，在作品里。**
+这首《西西里舞曲》出自一位法国名家之手——它就在免费、可核的曲库中等你。价值不在标价上，在作品里。
 
 ```audiolab
 {"type":"interval","a":"E4","b":"G#4","label":"大三度：一段常见的美——耳朵先于价格发现它","label_en":"A major third — beauty the ear finds before the price tag does","hint":"两个音先分开听，再听合起来","hint_en":"Hear each note alone, then both together"}
@@ -77,15 +77,15 @@ updated: 2026-09-28
 
 ## What paying actually buys
 
-- **Structure**: a systematic course removes the assembly work and lays the path out;
-- **Diagnosis**: a teacher's eyes and ears — **the single most worthwhile purchase in music**, because no machine or tutorial can see **your** specific problem;
-- **Commitment**: money makes quitting harder. Not a slogan — sunk cost quietly does part of the persisting for you.
+- Structure: a systematic course removes the assembly work and lays the path out;
+- Diagnosis: a teacher's eyes and ears — the single most worthwhile purchase in music, because no machine or tutorial can see your specific problem;
+- Commitment: money makes quitting harder. Not a slogan — sunk cost quietly does part of the persisting for you.
 
 ## A priority order for spending
 
-1. **One reliable instrument** (see "What Instrument Does My Budget Buy" — not expensive, but not bad);
-2. **A stretch with a good teacher** (even monthly);
-3. **Tools and software** (as needed, see "Choosing Music Software");
+1. One reliable instrument (see "What Instrument Does My Budget Buy" — not expensive, but not bad);
+2. A stretch with a good teacher (even monthly);
+3. Tools and software (as needed, see "Choosing Music Software");
 4. Everything else can wait.
 
 ## A few honest words about "free-riding"
@@ -94,7 +94,7 @@ A fully free path really exists — public-domain scores, open datasets, open co
 
 ## Listen: a master's hand inside a free library
 
-This Sicilienne comes from a French master — and it waits in a free, verifiable library. **Value lives in the work, not on the price tag.**
+This Sicilienne comes from a French master — and it waits in a free, verifiable library. Value lives in the work, not on the price tag.
 
 ```audiolab
 {"type":"interval","a":"E4","b":"G#4","label":"大三度：一段常见的美——耳朵先于价格发现它","label_en":"A major third — beauty the ear finds before the price tag does","hint":"两个音先分开听，再听合起来","hint_en":"Hear each note alone, then both together"}

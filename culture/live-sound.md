@@ -37,9 +37,9 @@ updated: 2026-10-03
 
 ### 2. 覆盖均匀
 
-自然声有个硬伤：**离声源近的人听得太响，远的人听得太小**。
+自然声有个硬伤：离声源近的人听得太响，远的人听得太小。
 
-上面第一例那种婚礼进行曲就说明了反例：如果乐队现场够响，电声往往**只会破坏它** —— 加上电声之后近处更炸、远处照样听不清。**很多场合的正确决定是不加。**
+上面第一例那种婚礼进行曲就说明了反例：如果乐队现场够响，电声往往只会破坏它 —— 加上电声之后近处更炸、远处照样听不清。很多场合的正确决定是不加。
 
 ### 3. 补齐平衡
 
@@ -49,7 +49,7 @@ updated: 2026-10-03
 - 人声被乐队盖住；
 - 某些乐器在扩声系统里几乎听不见。
 
-**扩声在这里做的是"调音"而不是"放大"** —— 压掉抢的，抬起弱的。
+扩声在这里做的是"调音"而不是"放大" —— 压掉抢的，抬起弱的。
 
 ### 4. 处理"听不到的部分"
 
@@ -61,29 +61,29 @@ updated: 2026-10-03
 
 ## 一个反直觉的原则：少即是多
 
-现场扩声最常见的失败**不是不够响，是加太多**。
+现场扩声最常见的失败不是不够响，是加太多。
 
-理由是可测的：**每增加一路扬声器，就往空间里多注入一份声压和混响激励。**
+理由是可测的：每增加一路扬声器，就往空间里多注入一份声压和混响激励。
 
 - 一支麦 + 两只音箱 + 房间混响 → 清楚；
-- 四支定向麦 + 十二只音箱 → **每个听众听到的是四条不同声音的叠加，混响被重复激励**，听起来更浑。
+- 四支定向麦 + 十二只音箱 → 每个听众听到的是四条不同声音的叠加，混响被重复激励，听起来更浑。
 
-**声学上"多点覆盖"听着更稳，实际会更糊。** 这是很多人直觉会搞反的地方。
+声学上"多点覆盖"听着更稳，实际会更糊。 这是很多人直觉会搞反的地方。
 
 ## 台上台下是两个系统
 
 这一点是现场工程的核心，也是最容易被观众误解的：
 
-- **观众听到的**（front of house）—— 目标是所有人听得舒服；
-- **台上听到的**（stage / monitors）—— 目标是表演者听到**自己该听的**。
+- 观众听到的（front of house）—— 目标是所有人听得舒服；
+- 台上听到的（stage / monitors）—— 目标是表演者听到自己该听的。
 
-**这两个信号经常是相反的。** 一个音量很大的贝斯手在台上需要监听里把他的低频**压小**，否则他听不清自己唱的旋律；而前区观众可能需要低频被**抬起来**才能感受到节奏。
+这两个信号经常是相反的。 一个音量很大的贝斯手在台上需要监听里把他的低频压小，否则他听不清自己唱的旋律；而前区观众可能需要低频被抬起来才能感受到节奏。
 
-**所以现场调音不是"把声音调好"，是"把两个不同的听觉现实都安排好"。**
+所以现场调音不是"把声音调好"，是"把两个不同的听觉现实都安排好"。
 
 ## 听一听：同一个信号覆盖变化的听感
 
-下面这段音阶是同一个东西，但它同时被想象成两种情况：一次只送到你耳朵（清晰），一次通过多条路径叠加（变糊）。**这就是"多点覆盖"的代价。**
+下面这段音阶是同一个东西，但它同时被想象成两种情况：一次只送到你耳朵（清晰），一次通过多条路径叠加（变糊）。这就是"多点覆盖"的代价。
 
 ```audiolab
 {"type":"scale","notes":["A4","B4","C5","B4","A4","G4","A4"],"label":"同一条声路，两种覆盖方式","label_en":"One signal, two ways of covering a room","hint":"想象它只走一条路径到你耳朵，再想象四条路径叠加——后者会变糊","hint_en":"Imagine it arriving by one path, then by four paths at once — the second is muddier"}
@@ -110,9 +110,9 @@ Voices and dense textures can be **unintelligible** in a small hall. The oratori
 
 ### 2. Even coverage
 
-Natural sound has a hard flaw: **people near the source get too much, people far away get too little.**
+Natural sound has a hard flaw: people near the source get too much, people far away get too little.
 
-The wedding march in the first example shows the converse: if a live band is already loud enough, electronics usually **only make it worse** — the front gets more blown out while the back is still unintelligible. **The correct decision in many rooms is to add nothing.**
+The wedding march in the first example shows the converse: if a live band is already loud enough, electronics usually only make it worse — the front gets more blown out while the back is still unintelligible. The correct decision in many rooms is to add nothing.
 
 ### 3. Filling in the balance
 
@@ -122,7 +122,7 @@ Live music has inherent balance problems:
 - voices are buried by the band;
 - some instruments are nearly inaudible through the system.
 
-**Here reinforcement is "mixing", not "amplifying"** — pulling back what dominates, lifting what is missing.
+Here reinforcement is "mixing", not "amplifying" — pulling back what dominates, lifting what is missing.
 
 ### 4. Handling what cannot be heard
 
@@ -134,29 +134,29 @@ Some elements barely carry in a hall and need the system specifically:
 
 ## A counter-intuitive principle: less is more
 
-The most common failure of live reinforcement **is not insufficient level, it is too much of it.**
+The most common failure of live reinforcement is not insufficient level, it is too much of it.
 
 The reason is measurable: **every extra loudspeaker injects another dose of sound pressure and reverberant excitation into the space.**
 
 - One mic, two speakers, room reverb → clear;
 - four directional mics, twelve speakers → **each listener hears four overlapping versions and the reverb is driven repeatedly**, which is muddier.
 
-**Acoustically, "more coverage" sounds safer but is actually worse.** This is where intuition tends to get it backwards.
+Acoustically, "more coverage" sounds safer but is actually worse. This is where intuition tends to get it backwards.
 
 ## Front of house and stage are two different systems
 
 This is the core of live engineering and the thing audiences most often misunderstand:
 
-- **Front of house** — what the audience hears, optimised for everyone being comfortable;
-- **Stage / monitors** — what the performers hear, optimised for **hearing what they need to hear**.
+- Front of house — what the audience hears, optimised for everyone being comfortable;
+- Stage / monitors — what the performers hear, optimised for hearing what they need to hear.
 
-**The two signals are often opposite.** A loud bassist may need their low frequencies **reduced** in the monitors, or they cannot hear the melody they are singing over it; the front-of-house audience may need the bass **lifted** to feel the pulse.
+The two signals are often opposite. A loud bassist may need their low frequencies reduced in the monitors, or they cannot hear the melody they are singing over it; the front-of-house audience may need the bass lifted to feel the pulse.
 
 **So live mixing is not "making the sound good" — it is arranging two different listening realities at once.**
 
 ## Listen: the same signal, two coverages
 
-Below is one scale, but it invites you to imagine two situations: arriving at your ears along a single path (clear), versus arriving as four overlapping paths (muddier). **That is the cost of "more coverage".**
+Below is one scale, but it invites you to imagine two situations: arriving at your ears along a single path (clear), versus arriving as four overlapping paths (muddier). That is the cost of "more coverage".
 
 ```audiolab
 {"type":"scale","notes":["A4","B4","C5","B4","A4","G4","A4"],"label":"One signal, two ways of covering a room","label_en":"One signal, two ways of covering a room","hint":"Imagine it arriving by one path, then by four paths at once — the second is muddier","hint_en":"Imagine it arriving by one path, then by four paths at once — the second is muddier"}

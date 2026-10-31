@@ -42,16 +42,16 @@ updated: 2026-09-28
 
 - **每类只留一件主力**，其余的卸载或冷藏；
 - **先让免费/试用版跑通全流程**（从做到导出），再决定是否升级——很多需求的答案其实是「不需要付费版」；
-- **定了就不换至少三个月**。软件之间的差距，远小于熟练度带来的差距。
+- 定了就不换至少三个月。软件之间的差距，远小于熟练度带来的差距。
 
 ## 别忘了「零软件」选项
 
-如果你只需要节拍器、音程听辨、和弦演示这类轻量功能——**不必为此装一个完整软件**。本站的互动工具正在陆续上线，就是为了这种「打开页面就能用」的场景。轻量需求用轻量工具，桌面留给真正的重活。
+如果你只需要节拍器、音程听辨、和弦演示这类轻量功能——不必为此装一个完整软件。这里的互动工具正在陆续上线，就是为了这种「打开页面就能用」的场景。轻量需求用轻量工具，桌面留给真正的重活。
 
 ## 两个常见误解
 
-- **「专业软件更专业」**：匹配度远比「专业度」重要。用顶配 DAW 记谱，是拿卡车送一封信；
-- **「换个软件就能突破瓶颈」**：瓶颈通常在人的能力上，不在软件的功能表里。
+- 「专业软件更专业」：匹配度远比「专业度」重要。用顶配 DAW 记谱，是拿卡车送一封信；
+- 「换个软件就能突破瓶颈」：瓶颈通常在人的能力上，不在软件的功能表里。
 
 ## 听一听：软件里的第一个动作
 
@@ -85,16 +85,16 @@ Music software hides one counter-intuitive truth: **most people's problem is not
 
 - **Keep one workhorse per kind**; shelve or uninstall the rest;
 - **Run the whole flow on the free or trial version first** (make, then export) before paying — many needs turn out not to need the paid tier;
-- **Once chosen, change nothing for three months**; the gap between apps is far smaller than the gap made by fluency.
+- Once chosen, change nothing for three months; the gap between apps is far smaller than the gap made by fluency.
 
 ## Do not forget the "zero software" option
 
-If you only need a metronome, interval drills or chord demos — **do not install a full application for them**. This site's interactive tools are arriving precisely for the "open a page and use it" case. Light needs deserve light tools; leave the desktop for heavy work.
+If you only need a metronome, interval drills or chord demos — do not install a full application for them. This site's interactive tools are arriving precisely for the "open a page and use it" case. Light needs deserve light tools; leave the desktop for heavy work.
 
 ## Two common misreadings
 
-- **"More professional software makes me more professional"**: fit beats pro. Using a flagship DAW to write notation is delivering one letter by truck;
-- **"A new app will break my plateau"**: plateaus live in the player, not in the feature list.
+- "More professional software makes me more professional": fit beats pro. Using a flagship DAW to write notation is delivering one letter by truck;
+- "A new app will break my plateau": plateaus live in the player, not in the feature list.
 
 ## Listen: the first move in any software
 

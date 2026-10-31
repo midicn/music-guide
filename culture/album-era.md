@@ -35,18 +35,18 @@ updated: 2026-09-28
 
 2000 年代，下载让听众可以只买其中一首；接着流媒体把「歌单」变成新的组织单位。**听歌的单位从『专辑』变回『单』**——甚至更碎：从单曲碎到「副歌」。
 
-一句话概括这三十年的解构：**专辑曾是作品的单位，如今只是发布的形式之一。**
+一句话概括这三十年的解构：专辑曾是作品的单位，如今只是发布的形式之一。
 
 ## 留下来的东西
 
-奇怪的是，专辑没有死——它退回到「正式的发表形式」这个位置：重要作品还是以专辑为单位被讨论、被归档、被奖赏。变化的是**听众的主要路径**：多数人通过歌单第一次遇见你，只有少数人会完整坐下来听四十分钟。
+奇怪的是，专辑没有死——它退回到「正式的发表形式」这个位置：重要作品还是以专辑为单位被讨论、被归档、被奖赏。变化的是听众的主要路径：多数人通过歌单第一次遇见你，只有少数人会完整坐下来听四十分钟。
 
 ## 对创作者的实际影响
 
-- **做专辑**：完整、耐听、可被认真评价，但要求听众付出四十分钟；
-- **做单曲**：轻、快、适配算法，但容易被卷进「下一条」的洪流。
+- 做专辑：完整、耐听、可被认真评价，但要求听众付出四十分钟；
+- 做单曲：轻、快、适配算法，但容易被卷进「下一条」的洪流。
 
-两条路不是对错，是**针对不同听众契约**的选择——知道自己在跟听众签哪一种契约，是最重要的事。
+两条路不是对错，是针对不同听众契约的选择——知道自己在跟听众签哪一种契约，是最重要的事。
 
 ## 听一听：同一组和弦，不同的「曲目顺序」
 
@@ -58,7 +58,7 @@ updated: 2026-09-28
 
 ## 下一步
 
-- 播放的单位变成「一次播放」之后：本站 [流媒体的分成机制](../streaming-economics/)。
+- 播放的单位变成「一次播放」之后：[流媒体的分成机制](../streaming-economics/)。
 - 「把作品组织成一个整体」在音乐里叫什么：[[concept:form|曲式]]。
 - 专辑时代的封面主角：[[instrument:piano|钢琴]]。
 :::
@@ -72,20 +72,20 @@ Before the LP, a record side held three minutes; the unit of release was the sin
 
 ## Deconstruction: downloads and streaming broke it back into singles
 
-In the 2000s, downloads let listeners buy one song; then streaming made the **playlist** the new organising unit. **The unit of listening fell from "album" back to "track"** — and further: from track to chorus.
+In the 2000s, downloads let listeners buy one song; then streaming made the **playlist** the new organising unit. The unit of listening fell from "album" back to "track" — and further: from track to chorus.
 
-The last thirty years in one line: **the album was once the unit of work; now it is one release format among many.**
+The last thirty years in one line: the album was once the unit of work; now it is one release format among many.
 
 ## What survives
 
-Curiously, the album is not dead — it has retreated to "the formal statement": major works are still discussed, archived and awarded as albums. What changed is **the audience's main path**: most people meet you first through a playlist; only a minority sit down for the full forty minutes.
+Curiously, the album is not dead — it has retreated to "the formal statement": major works are still discussed, archived and awarded as albums. What changed is the audience's main path: most people meet you first through a playlist; only a minority sit down for the full forty minutes.
 
 ## What it means for makers
 
-- **Make an album**: complete, durable, reviewable — but it asks forty minutes of attention;
-- **Make singles**: light, fast, algorithm-friendly — but easy to be swept into "next".
+- Make an album: complete, durable, reviewable — but it asks forty minutes of attention;
+- Make singles: light, fast, algorithm-friendly — but easy to be swept into "next".
 
-Neither is right or wrong; they are **contracts with different listeners**. Knowing which contract you are signing is the important part.
+Neither is right or wrong; they are contracts with different listeners. Knowing which contract you are signing is the important part.
 
 ## Listen: the same chords, a different "track order"
 

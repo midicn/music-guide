@@ -19,7 +19,7 @@ updated: 2026-10-31
 ::: zh
 demo 阶段最常见的返工，是音乐进引擎时循环点不对、名字对不上。
 
-## 你要交的是什么
+## 这活要交什么
 
 一套能被引擎直接用掉的资产：探索、战斗、菜单各一到两段，外加几个音效。**每一段都要能无缝循环、能被事件打断、能在两秒内淡出。** 不是一首三分钟的作品。
 
@@ -29,7 +29,7 @@ demo 阶段最常见的返工，是音乐进引擎时循环点不对、名字对
 2. 做分层循环：鼓、和声、旋律分开导出，同长度、同起点，程序才能按战斗强度加减层。
 3. 按引擎约定整理命名、采样率与响度余量，让程序不用回来问你。
 
-## 会用到的页面与工具
+## 用到的页面
 
 - [游戏音频导论](https://prod.midicn.com/game-audio-introduction/) —— 先分清"素材系统"和"一首曲子"的区别。
 - [交互与自适应音乐](https://prod.midicn.com/interactive-adaptive-music/) —— 分层、分支与参数化，决定你导几轨。
@@ -47,7 +47,7 @@ demo 阶段最常见的返工，是音乐进引擎时循环点不对、名字对
 ::: en
 The most underrated rework in a demo build happens when the programmer wires your music into the engine and finds broken loop points and mismatched names.
 
-## What you are delivering
+## What this job delivers
 
 A set of assets the engine can consume directly: one or two pieces each for exploration, combat and menus, plus a few sound effects. **Every piece must loop seamlessly, respond to events and fade out within two seconds.** Not a three-minute track.
 
@@ -57,7 +57,7 @@ A set of assets the engine can consume directly: one or two pieces each for expl
 2. Build layered loops: export drums, harmony and melody separately at the same length and start point so the engine can add and remove layers with combat intensity.
 3. Follow the engine's naming, sample rate and headroom conventions so no one has to come back and ask.
 
-## Pages and tools to use
+## Pages you will use
 
 - [Game audio introduction](https://prod.midicn.com/game-audio-introduction/) — start with the difference between an asset system and a track.
 - [Interactive and adaptive music](https://prod.midicn.com/interactive-adaptive-music/) — layers, branches and parameters decide how many files you export.
@@ -65,7 +65,7 @@ A set of assets the engine can consume directly: one or two pieces each for expl
 - [Delivering to the engine](https://ai.midicn.com/delivering-to-engine/) — sample rate, loop points, loudness and naming; one wrong means a redo.
 - [Source separation](https://prod.midicn.com/source-separation/) — if you only have a finished mix, this is a rescue, not a plan.
 
-## Acceptance checks
+## Acceptance criteria
 
 - Each loop plays three times continuously with no click, gap or level jump.
 - All assets are 48 kHz, share a start point, follow the naming convention, and switch within 100 ms.

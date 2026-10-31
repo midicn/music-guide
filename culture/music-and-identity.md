@@ -40,7 +40,7 @@ instances:
 
 sources:
 
-  - 音乐与文化身份的关系为民族音乐学、社会学中的常见研究主题；本文为通识性介绍，不引具体研究数字
+  - 音乐与文化身份的关系为民族音乐学、社会学中的常见研究主题；通识性介绍，不引具体研究数字
 
   - 涉及的曲目均标注来源与许可档位，可在线试听
 
@@ -78,11 +78,11 @@ updated: 2026-09-29
 
 
 
-1. **人生节点**：婚礼、葬礼、毕业典礼——歌被郑重地用在"不可重复"的一刻（见上方实例 1、2）；
+1. 人生节点：婚礼、葬礼、毕业典礼——歌被郑重地用在"不可重复"的一刻（见上方实例 1、2）；
 
-2. **共同历史**：被压制的记忆、迁徙的年代、某段特定经历——歌成为"我们经历过"的证据；
+2. 共同历史：被压制的记忆、迁徙的年代、某段特定经历——歌成为"我们经历过"的证据；
 
-3. **日常陪伴**：不是仪式，只是"这是我们那代人听的"——怀旧即身份（见[音乐与记忆](../music-and-memory/)）。
+3. 日常陪伴：不是仪式，只是"这是我们那代人听的"——怀旧即身份（见[音乐与记忆](../music-and-memory/)）。
 
 
 
@@ -94,11 +94,11 @@ updated: 2026-09-29
 
 
 
-**这不必然是争夺——它可以是一种健康的并存**：认同不是"只有一份归属"，而是**"这个旋律在我这里有家"**。
+这不必然是争夺——它可以是一种健康的并存：认同不是"只有一份归属"，而是"这个旋律在我这里有家"。
 
 
 
-反面是**用歌划敌我边界**——当一首歌被用来"证明谁不进我们群"，身份就不再是归属，而是排斥。这个区别在现实里往往不够清晰，这正是相关讨论复杂的原因。
+反面是用歌划敌我边界——当一首歌被用来"证明谁不进我们群"，身份就不再是归属，而是排斥。这个区别在现实里往往不够清晰，这正是相关讨论复杂的原因。
 
 
 
@@ -106,11 +106,11 @@ updated: 2026-09-29
 
 
 
-- **不替别人发言**：任何群体的"我们的歌"都有内部差异——不要以为一首歌、一个版本代表所有人；
+- 不替别人发言：任何群体的"我们的歌"都有内部差异——不要以为一首歌、一个版本代表所有人；
 
-- **尊重不参与的权利**：对某些传统来说，"不唱"是自由选择（见[田野录音的伦理](../fieldwork-ethics/)）；
+- 尊重不参与的权利：对某些传统来说，"不唱"是自由选择（见[田野录音的伦理](../fieldwork-ethics/)）；
 
-- **警惕"传统纯洁"的想象**：许多"古老的歌"本身就是几百年的混血与外借（见[乐器的旅行](../instrument-migration/)）。
+- 警惕"传统纯洁"的想象：许多"古老的歌"本身就是几百年的混血与外借（见[乐器的旅行](../instrument-migration/)）。
 
 
 
@@ -118,7 +118,7 @@ updated: 2026-09-29
 
 
 
-一首歌能把人聚起来，也能把人推开。这不是歌的缺点，是**任何强符号的必然两面**。成熟的用法是：拿它来连接，而不是划界。
+一首歌能把人聚起来，也能把人推开。这不是歌的缺点，是任何强符号的必然两面。成熟的用法是：拿它来连接，而不是划界。
 
 
 
@@ -126,7 +126,7 @@ updated: 2026-09-29
 
 
 
-听一段级进为主、开口好唱的旋律——**不需要歌词，几十个人也能同时唱出来**。这正是身份形成时的那种声音。
+听一段级进为主、开口好唱的旋律——不需要歌词，几十个人也能同时唱出来。这正是身份形成时的那种声音。
 
 
 
@@ -146,7 +146,7 @@ updated: 2026-09-29
 
 - 身份与陪伴的另一种形态：[[instrument:guqin|古琴]]——器乐如何承载文人身份。
 
-- 记忆的底座：本站 [音乐与记忆](../music-and-memory/)。
+- 记忆的底座：[音乐与记忆](../music-and-memory/)。
 
 - 归属与伦理：[[concept:improvisation|即兴]]在共同体里的位置。
 
@@ -184,9 +184,9 @@ Because they provide **belonging and distinction at once**:
 
 1. **Life thresholds** — weddings, funerals, graduations: songs used solemnly at the unrepeatable moment (examples 1 and 2 above);
 
-2. **Shared history** — suppressed memories, years of migration, a particular experience: the song as evidence of "we lived through it";
+2. Shared history — suppressed memories, years of migration, a particular experience: the song as evidence of "we lived through it";
 
-3. **Daily company** — not ritual, just "that's what our generation listened to"; nostalgia as identity (see [music and memory](../music-and-memory/)).
+3. Daily company — not ritual, just "that's what our generation listened to"; nostalgia as identity (see [music and memory](../music-and-memory/)).
 
 
 
@@ -194,15 +194,15 @@ Because they provide **belonging and distinction at once**:
 
 
 
-One melody can be claimed by several groups at once. **Molihua** is typical: sung differently in different places and contexts, each treating it as "ours".
+One melody can be claimed by several groups at once. Molihua is typical: sung differently in different places and contexts, each treating it as "ours".
 
 
 
-**This need not be a contest — it can be healthy coexistence**: identity is not "one single rightful owner" but "**this tune has a home in me**".
+This need not be a contest — it can be healthy coexistence: identity is not "one single rightful owner" but "this tune has a home in me".
 
 
 
-The flip side is **using song to draw an enemy line** — when a song is used to prove who does not belong, identity stops being belonging and becomes exclusion. Reality rarely draws that line cleanly, which is why the discussion is complicated.
+The flip side is using song to draw an enemy line — when a song is used to prove who does not belong, identity stops being belonging and becomes exclusion. Reality rarely draws that line cleanly, which is why the discussion is complicated.
 
 
 
@@ -210,11 +210,11 @@ The flip side is **using song to draw an enemy line** — when a song is used to
 
 
 
-- **Do not speak for others**: every group's "our songs" contain internal variation — no single song or version stands for everyone;
+- Do not speak for others: every group's "our songs" contain internal variation — no single song or version stands for everyone;
 
-- **Respect the right not to join**: in some traditions, "not singing" is a free choice (see [fieldwork ethics](../fieldwork-ethics/));
+- Respect the right not to join: in some traditions, "not singing" is a free choice (see [fieldwork ethics](../fieldwork-ethics/));
 
-- **Distrust the fantasy of "pure tradition"**: many "ancient songs" are centuries of borrowing and mixing (see [the journeys of instruments](../instrument-migration/)).
+- Distrust the fantasy of "pure tradition": many "ancient songs" are centuries of borrowing and mixing (see [the journeys of instruments](../instrument-migration/)).
 
 
 
@@ -222,7 +222,7 @@ The flip side is **using song to draw an enemy line** — when a song is used to
 
 
 
-A song can gather people and push them apart. That is not a flaw of music — it is **the necessary two faces of any strong symbol**. Mature use: to connect, not to fence.
+A song can gather people and push them apart. That is not a flaw of music — it is the necessary two faces of any strong symbol. Mature use: to connect, not to fence.
 
 
 
@@ -230,7 +230,7 @@ A song can gather people and push them apart. That is not a flaw of music — it
 
 
 
-Hear a mostly stepwise, easy-to-open line — **no lyrics, yet dozens can sing it at once**. That is the sound of identity forming.
+Hear a mostly stepwise, easy-to-open line — no lyrics, yet dozens can sing it at once. That is the sound of identity forming.
 
 
 

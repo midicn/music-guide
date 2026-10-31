@@ -46,11 +46,11 @@ updated: 2026-09-28
 
 ## 一个务实的建议
 
-预算有限、方向未定：**先买电钢**。它的手感足以支撑到中高级的绝大部分内容，还附带静音与便携。等你确定「这辈子要跟古典钢琴死磕」或者「家里有稳定的空间」，再考虑声学钢琴——那时你会买得更准。
+预算有限、方向未定：先买电钢。它的手感足以支撑到中高级的绝大部分内容，还附带静音与便携。等你确定「这辈子要跟古典钢琴死磕」或者「家里有稳定的空间」，再考虑声学钢琴——那时你会买得更准。
 
 ## 关于「手感」的一个实话
 
-手感是键盘乐器的核心参数，而它**只能用手测，不能看参数**。去琴行，弹三种：配重的电钢、真钢琴、无配重的键盘——五分钟你就有答案。
+手感是键盘乐器的核心参数，而它只能用手测，不能看参数。去琴行，弹三种：配重的电钢、真钢琴、无配重的键盘——五分钟你就有答案。
 
 ## 听一听：相邻的两个键，是音乐最小的距离
 
@@ -88,11 +88,11 @@ updated: 2026-09-28
 
 ## One pragmatic suggestion
 
-Limited budget, undecided direction: **start with a digital piano**. Its action carries you through the vast majority of intermediate material, with silence and portability included. Once you are sure "I will wrestle classical piano for life" or "I have a stable room", consider an acoustic — you will buy more accurately then.
+Limited budget, undecided direction: start with a digital piano. Its action carries you through the vast majority of intermediate material, with silence and portability included. Once you are sure "I will wrestle classical piano for life" or "I have a stable room", consider an acoustic — you will buy more accurately then.
 
 ## One truth about "action"
 
-Action is the core spec of any keyboard instrument, and it **can only be measured by hand, not read from a spec sheet**. Go to a shop and play three: a weighted digital, an acoustic, an unweighted keyboard — five minutes gives you your answer.
+Action is the core spec of any keyboard instrument, and it can only be measured by hand, not read from a spec sheet. Go to a shop and play three: a weighted digital, an acoustic, an unweighted keyboard — five minutes gives you your answer.
 
 ## Listen: two neighbouring keys, music's smallest distance
 

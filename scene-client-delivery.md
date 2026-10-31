@@ -19,7 +19,7 @@ updated: 2026-10-31
 ::: zh
 交付不是发一个文件。**客户要的是"拿来就能用"**，以及出问题时能自己找到答案。
 
-## 你要交的是什么
+## 这活要交什么
 
 一个交付包：主文件、分轨、版本矩阵（主版、无人声、短版、纯音乐）、一页说明与归档工程。范围以合同为准，别默认送。
 
@@ -29,7 +29,7 @@ updated: 2026-10-31
 2. 做版本矩阵，每个版本单独成文件，命名带版本号与日期，别靠文件夹解释。
 3. 写一页说明（改动、许可与署名），工程与素材归档到能重开的位置。
 
-## 会用到的页面与工具
+## 用到的页面
 
 - [母带交付格式](https://prod.midicn.com/master-delivery-formats/) —— 格式、采样率、位深与真峰值余量一次写清。
 - [分轨交付](https://prod.midicn.com/stems-delivery/) —— 分轨是给下游用的，命名与分组要能直接开工。
@@ -47,7 +47,7 @@ updated: 2026-10-31
 ::: en
 Delivery is not sending an audio file. **The client wants something usable immediately**, and answers they can find without calling you.
 
-## What you are delivering
+## What this job delivers
 
 A package: master, stems, a version matrix (main, instrumental, short cut, bed), a one-page note, and an archived session. Scope follows the contract; nothing extra is implied.
 
@@ -57,7 +57,7 @@ A package: master, stems, a version matrix (main, instrumental, short cut, bed),
 2. Build the version matrix with one file per version, names carrying version and date instead of relying on folder structure.
 3. Write the one-page note (tools, changes, licence and credit) and archive the session where it can be reopened.
 
-## Pages and tools to use
+## Pages you will use
 
 - [Master delivery formats](https://prod.midicn.com/master-delivery-formats/) — format, sample rate, bit depth and true-peak margin stated once.
 - [Stems delivery](https://prod.midicn.com/stems-delivery/) — stems are for downstream work; naming and grouping must be usable as-is.
@@ -65,7 +65,7 @@ A package: master, stems, a version matrix (main, instrumental, short cut, bed),
 - [Client review workflow](https://ai.midicn.com/client-review-workflow/) — three options at a time, staged feedback, revisions with a boundary.
 - [Documentation of process](https://ai.midicn.com/documentation-of-process/) — tools, versions, prompts, seeds and edits written down.
 
-## Acceptance checks
+## Acceptance criteria
 
 - Every checklist item matches: format, sample rate, bit depth, duration, version count, with no assumed gaps.
 - Loudness meets the agreement (e.g. −14 LUFS, true peak ≤ −1 dBTP) and stays consistent across versions.

@@ -58,21 +58,21 @@ updated: 2026-09-28
 
 ## 一个可以照抄的循环：「三遍法」
 
-1. 从头过一遍，**只标记一个「最刺眼的问题」**；
+1. 从头过一遍，只标记一个「最刺眼的问题」；
 2. 拆开它、慢速解决它（见「为什么要慢练」）；
 3. 合回去再走一遍——然后开始下一个问题。
 
-**每次只抓一个**，因为抓三个等于没抓。
+每次只抓一个，因为抓三个等于没抓。
 
 ## 三个常见误解
 
-- **「练得久 = 练得好」**：时间只是容器，装进去的必须是「问题与解决」；
-- **「多弹几遍自然就会了」**：重复会固化「你实际弹出来的东西」——包括错的；
-- **「错了也接着弹」**：每一次「错着弹完」，都在给错误投票。
+- 「练得久 = 练得好」：时间只是容器，装进去的必须是「问题与解决」；
+- 「多弹几遍自然就会了」：重复会固化「你实际弹出来的东西」——包括错的；
+- 「错了也接着弹」：每一次「错着弹完」，都在给错误投票。
 
 ## 听一听：同一段音型的两种速度
 
-同一串音，60 与 132——刻意练习默认从 60 开始：**在能全神贯注的速度上，练习才算数。**
+同一串音，60 与 132——刻意练习默认从 60 开始：在能全神贯注的速度上，练习才算数。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":60,"label":"60 BPM：能全程思考的速度","label_en":"60 BPM — slow enough to think","hint":"先听节拍器，再听节奏型","hint_en":"The click first, then the pattern"}
@@ -107,7 +107,7 @@ A usable self-check: **if you told this problem to someone else, would they get 
 
 Once found, squeeze the practice down to **where the error actually happens** — often not the whole bar, but the move between two notes, one shift, one fingering.
 
-Narrow until ten tries ten successes, then widen by one circle (add the bar before and after). **Narrow range is what makes repetition count.**
+Narrow until ten tries ten successes, then widen by one circle (add the bar before and after). Narrow range is what makes repetition count.
 
 ## Move three: instant feedback
 
@@ -122,17 +122,17 @@ Practice is "deliberate" when every step can be judged immediately:
 
 ## A loop you can copy: three passes
 
-1. Play through once and **mark one single sorest spot**;
+1. Play through once and mark one single sorest spot;
 2. Take it apart and fix it slowly (see "Why Practise Slowly");
 3. Put it back and run through again — then take the next problem.
 
-**One at a time**: catching three is catching none.
+One at a time: catching three is catching none.
 
 ## Three common misreadings
 
-- **"Long practice is good practice"**: time is only a container — what matters is what gets put in it;
-- **"Enough repetitions and it will come"**: repetition engraves what you actually play — errors included;
-- **"Keep going through the mistake"**: every run-through with the error is a vote for the error.
+- "Long practice is good practice": time is only a container — what matters is what gets put in it;
+- "Enough repetitions and it will come": repetition engraves what you actually play — errors included;
+- "Keep going through the mistake": every run-through with the error is a vote for the error.
 
 ## Listen: one figure at two speeds
 

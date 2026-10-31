@@ -38,20 +38,20 @@ updated: 2026-09-28
 
 ## 三个习惯（按重要性排序）
 
-1. **眼睛走在手前面。** 演奏这一小节的时候，视线已经在扫描下一小节的「形状」（跳进还是级进、有没有临时记号）。训练法：把节拍器开慢，**要求自己在每个小节的第一拍之前，先看一眼下一个小节**。
-2. **节奏优先于音符。** 视奏的心理纪律是：宁可漏音、错音，不可断流。断了流，音乐的信息就断链；错一个音，只是数据噪声。
-3. **每天一小段「新材料」。** 视奏靠的是「第一次见面」的经验总量。**每天 5 分钟读昨天没读过的材料**，胜过每周一次读一小时。关键在「新」——回头复习不给视奏加分。
+1. 眼睛走在手前面。 演奏这一小节的时候，视线已经在扫描下一小节的「形状」（跳进还是级进、有没有临时记号）。训练法：把节拍器开慢，要求自己在每个小节的第一拍之前，先看一眼下一个小节。
+2. 节奏优先于音符。 视奏的心理纪律是：宁可漏音、错音，不可断流。断了流，音乐的信息就断链；错一个音，只是数据噪声。
+3. 每天一小段「新材料」。 视奏靠的是「第一次见面」的经验总量。每天 5 分钟读昨天没读过的材料，胜过每周一次读一小时。关键在「新」——回头复习不给视奏加分。
 
 ## 材料怎么选：降两级
 
-选**比你现有熟练水平低两级**的材料。标准只有一个：**第一次读，能顺畅走下来 90%。** 太难的谱子会逼你「背」下来，那就不是视奏了。
+选比你现有熟练水平低两级的材料。标准只有一个：第一次读，能顺畅走下来 90%。 太难的谱子会逼你「背」下来，那就不是视奏了。
 
 合唱谱、圣咏、简单的器乐小品都是好材料——它们声部清晰、密度适中。
 
 ## 两个常见误解
 
-- **「视奏 = 读得快」**：更准确的是**不中断地读**。速度是副产品；
-- **「视奏好就不用背谱」**：两者是不同能力——视奏用眼睛开路，背谱用记忆开路，都要单独练。
+- 「视奏 = 读得快」：更准确的是不中断地读。速度是副产品；
+- 「视奏好就不用背谱」：两者是不同能力——视奏用眼睛开路，背谱用记忆开路，都要单独练。
 
 ## 听一听：一条最朴素的视奏材料形状
 
@@ -81,20 +81,20 @@ Of the three, the second is hardest — it runs against everything normal practi
 
 ## Three habits, in order
 
-1. **Eyes ahead of hands.** While playing this bar, your eyes are already scanning the **shape** of the next (leaps or steps, accidentals). Drill: slow click, and **make yourself look at the coming bar before each downbeat**.
-2. **Rhythm before notes.** The discipline of sight-reading: drop or miss a note if you must, never break the flow. A break cuts the information chain; a wrong note is just noise in the data.
-3. **A little new material daily.** Sight-reading runs on the total number of **first meetings**. **Five minutes of yesterday-untouched material daily** beats one hour a week — the key is "new"; revisiting adds nothing.
+1. Eyes ahead of hands. While playing this bar, your eyes are already scanning the shape of the next (leaps or steps, accidentals). Drill: slow click, and make yourself look at the coming bar before each downbeat.
+2. Rhythm before notes. The discipline of sight-reading: drop or miss a note if you must, never break the flow. A break cuts the information chain; a wrong note is just noise in the data.
+3. A little new material daily. Sight-reading runs on the total number of first meetings. Five minutes of yesterday-untouched material daily beats one hour a week — the key is "new"; revisiting adds nothing.
 
 ## Choosing material: two grades down
 
-Pick material **two grades below your comfortable level**. One standard only: **a first read that flows 90% clean.** Material that is too hard forces you to memorise it — that is no longer sight-reading.
+Pick material two grades below your comfortable level. One standard only: a first read that flows 90% clean. Material that is too hard forces you to memorise it — that is no longer sight-reading.
 
 Chorale scores, hymns and simple instrumental miniatures are ideal — clear voices, moderate density.
 
 ## Two common misreadings
 
-- **"Sight-reading means reading fast"**: it means **reading without stopping**. Speed is a by-product;
-- **"A good sight-reader needs no memorising"**: different skills — sight-reading opens the road with the eyes, memorising with memory. Train them separately.
+- "Sight-reading means reading fast": it means reading without stopping. Speed is a by-product;
+- "A good sight-reader needs no memorising": different skills — sight-reading opens the road with the eyes, memorising with memory. Train them separately.
 
 ## Listen: the plainest shape of sight-reading material
 

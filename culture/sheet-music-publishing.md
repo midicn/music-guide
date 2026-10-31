@@ -41,25 +41,25 @@ updated: 2026-09-28
 
 早期的出版收益大多归印刷商；作曲家靠题献获得赞助。几个世纪里，作者与出版方的分成拉锯，逐渐演化出了今天的一套结构（它至今仍是产业合同的核心）：
 
-- 作者保留**作品**的权利，出版方获得**复制与传播**的经营权；
+- 作者保留作品的权利，出版方获得复制与传播的经营权；
 - 「版税」（royalty）按册数、按使用、按渠道分成；
 - 「常青曲目」（evergreen）——能卖几十年的曲子——成为出版社最值钱的资产。
 
-这就是为什么今天的产业里，**「出版权」（publishing）常被形容成年金**：录制版本会过时，歌本身不会。
+这就是为什么今天的产业里，「出版权」（publishing）常被形容成年金：录制版本会过时，歌本身不会。
 
 ## 从纸到数字：乐谱今天在哪里流通
 
-今天乐谱有三个主要水系：**商业出版的纸质/数字谱**、**公共版权乐谱库**（如各类开放乐谱档案）、以及**教学与内部流传的手稿**。有趣的是，几百年前印的曲子，如今常以「扫描件 + 数字乐谱」的形式继续流通——印刷时代与数字时代在同一张纸上握手。
+今天乐谱有三个主要水系：商业出版的纸质/数字谱、公共版权乐谱库（如各类开放乐谱档案）、以及教学与内部流传的手稿。有趣的是，几百年前印的曲子，如今常以「扫描件 + 数字乐谱」的形式继续流通——印刷时代与数字时代在同一张纸上握手。
 
 ## 看一行谱，听两个音
 
-下面这行乐谱，展示的正是印刷术自 1501 年起批量复制的东西：**音高被写成位置，作品因此可以离开作者、独自旅行。**
+下面这行乐谱，展示的正是印刷术自 1501 年起批量复制的东西：音高被写成位置，作品因此可以离开作者、独自旅行。
 
 ```notation
 {"clef":"treble","notes":["G4","A4","B4","C5","D5"],"caption":"一行五线谱：位置即音高","caption_en":"One line of staff notation — position is pitch"}
 ```
 
-再听一组两个音：**纸面上它们是两个位置，耳朵里它们是两个声音。** 五百年来，出版业复制的就是这种「位置与声音的对应」。
+再听一组两个音：纸面上它们是两个位置，耳朵里它们是两个声音。 五百年来，出版业复制的就是这种「位置与声音的对应」。
 
 ```audiolab
 {"type":"interval","a":"A4","b":"C5","label":"纸面上的两个位置，耳朵里的两个音","label_en":"Two positions on paper, two notes in the ear","hint":"两个音先分开听，再听合起来","hint_en":"Hear each note alone, then both together"}
@@ -67,7 +67,7 @@ updated: 2026-09-28
 
 ## 下一步
 
-- 「作品什么时候不再属于任何人」：本站 [公有领域判定](../public-domain/)。
+- 「作品什么时候不再属于任何人」：[公有领域判定](../public-domain/)。
 - 纸上的五个位置怎么读：[[concept:staff|五线谱]]。
 - 乐谱最主要的消费场景仍是键盘前：[[instrument:piano|钢琴]]。
 :::
@@ -89,25 +89,25 @@ Printing did two things: it **let music be copied exactly**, and it made "who ow
 
 Early presses kept most of the money; composers lived on dedications and patronage. Over the centuries the tug-of-war produced a structure still at the core of today's contracts:
 
-- authors keep the rights in the **work**; publishers hold the **right to reproduce and distribute**;
-- **royalties** split by copies, uses and channels;
-- **evergreens** — pieces that keep selling for decades — became a publisher's most valuable asset.
+- authors keep the rights in the **work**; publishers hold the right to reproduce and distribute;
+- royalties split by copies, uses and channels;
+- evergreens — pieces that keep selling for decades — became a publisher's most valuable asset.
 
-This is why, in today's industry, **publishing is described as an annuity**: recordings age; songs do not.
+This is why, in today's industry, publishing is described as an annuity: recordings age; songs do not.
 
 ## From paper to pixels: where scores travel now
 
-Scores run through three systems today: **commercial print and digital scores**, **public-domain score libraries** (open archives of all kinds), and **teaching manuscripts passed hand to hand**. Curiously, music printed centuries ago keeps circulating as "scan plus digital score" — the print age and the digital age shaking hands on the same page.
+Scores run through three systems today: commercial print and digital scores, public-domain score libraries (open archives of all kinds), and teaching manuscripts passed hand to hand. Curiously, music printed centuries ago keeps circulating as "scan plus digital score" — the print age and the digital age shaking hands on the same page.
 
 ## See one line, hear two notes
 
-The line below is exactly what printing has been mass-producing since 1501: **pitch written as position** — which lets a work leave its author and travel alone.
+The line below is exactly what printing has been mass-producing since 1501: pitch written as position — which lets a work leave its author and travel alone.
 
 ```notation
 {"clef":"treble","notes":["G4","A4","B4","C5","D5"],"caption":"一行五线谱：位置即音高","caption_en":"One line of staff notation — position is pitch"}
 ```
 
-Now hear two notes: **on paper they are two positions; in the ear they are two sounds.** For five centuries, this is the correspondence publishing has been copying.
+Now hear two notes: on paper they are two positions; in the ear they are two sounds. For five centuries, this is the correspondence publishing has been copying.
 
 ```audiolab
 {"type":"interval","a":"A4","b":"C5","label":"纸面上的两个位置，耳朵里的两个音","label_en":"Two positions on paper, two notes in the ear","hint":"两个音先分开听，再听合起来","hint_en":"Hear each note alone, then both together"}

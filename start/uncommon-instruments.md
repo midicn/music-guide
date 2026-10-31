@@ -40,19 +40,19 @@ updated: 2026-09-28
 
 想学一件冷门乐器，先过这三关：
 
-- **老师关**：你能接触到合格的教学资源吗（线下老师、线上课程、社群）？
-- **曲目关**：你喜欢的曲目里有它的位置吗？——每件乐器都有属于自己的曲目库，先翻一翻。
-- **场合关**：你希望它出现在哪些场合（自娱、合奏、演出）？这些场合存在吗？
+- 老师关：你能接触到合格的教学资源吗（线下老师、线上课程、社群）？
+- 曲目关：你喜欢的曲目里有它的位置吗？——每件乐器都有属于自己的曲目库，先翻一翻。
+- 场合关：你希望它出现在哪些场合（自娱、合奏、演出）？这些场合存在吗？
 
 三关都过，冷门就是优势；有一关过不去，先用「租借 + 体验课」验证，再决定。
 
 ## 一个视角的转换
 
-不少「冷门」乐器只是**暂时没被流行的聚光灯照到**：手碟、尤克里里、卡林巴（拇指琴）在十年前都算小众，如今都有自己的社群与教材。而另一些「冷门」其实是**文化的常态**——爱沙尼亚的坎内尔、爱尔兰的风笛、中国的笙——在它们的土壤里，一点都不冷。
+不少「冷门」乐器只是暂时没被流行的聚光灯照到：手碟、尤克里里、卡林巴（拇指琴）在十年前都算小众，如今都有自己的社群与教材。而另一些「冷门」其实是文化的常态——爱沙尼亚的坎内尔、爱尔兰的风笛、中国的笙——在它们的土壤里，一点都不冷。
 
 ## 听一听：每个调都有自己的「口音」
 
-冷门乐器常常是**某种音乐语言的极端代言人**——它把某个调的性格、某种腔调放大到极致。点一点这个圈子，听听不同调的「口音」。
+冷门乐器常常是某种音乐语言的极端代言人——它把某个调的性格、某种腔调放大到极致。点一点这个圈子，听听不同调的「口音」。
 
 ```audiolab
 {"type":"circle","label":"点任意一格，听这个调的主三和弦","label_en":"Tap any segment to hear that key's home chord","hint":"每个调都有自己的性格——乐器把它们放大","hint_en":"Every key has a character — instruments amplify it"}
@@ -80,19 +80,19 @@ Worth it? Settle three things first.
 
 Before committing to an uncommon instrument:
 
-- **Teacher**: can you reach qualified instruction (offline, online, community)?
-- **Repertoire**: do the pieces you love have a place for it? Every instrument owns a repertoire — flip through it first.
-- **Occasions**: where do you want it to appear (solo, ensemble, stage)? Do those occasions exist?
+- Teacher: can you reach qualified instruction (offline, online, community)?
+- Repertoire: do the pieces you love have a place for it? Every instrument owns a repertoire — flip through it first.
+- Occasions: where do you want it to appear (solo, ensemble, stage)? Do those occasions exist?
 
 Pass all three and "uncommon" is an advantage; fail one and verify with a rental plus trial lessons before deciding.
 
 ## A change of viewpoint
 
-Many "uncommon" instruments are simply **waiting off-stage**: the handpan, the ukulele, the kalimba were niche a decade ago and now have their own communities and methods. Others are **cultural norms** — the Estonian kannel, the Irish pipes, the Chinese sheng — and nothing about them is uncommon at home.
+Many "uncommon" instruments are simply waiting off-stage: the handpan, the ukulele, the kalimba were niche a decade ago and now have their own communities and methods. Others are cultural norms — the Estonian kannel, the Irish pipes, the Chinese sheng — and nothing about them is uncommon at home.
 
 ## Listen: every key has an accent
 
-Uncommon instruments are often **extreme spokespeople for a musical language** — they amplify one key's character or one dialect to its limit. Tap around this circle and hear each key's accent.
+Uncommon instruments are often extreme spokespeople for a musical language — they amplify one key's character or one dialect to its limit. Tap around this circle and hear each key's accent.
 
 ```audiolab
 {"type":"circle","label":"点任意一格，听这个调的主三和弦","label_en":"Tap any segment to hear that key's home chord","hint":"每个调都有自己的性格——乐器把它们放大","hint_en":"Every key has a character — instruments amplify it"}

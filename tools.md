@@ -25,9 +25,9 @@ updated: 2026-10-03
 
 每件工具都是**同一件事的可交互版本**，不是独立的软件。三条实用建议：
 
-1. **先做、再看**。每页底部的「下一步」通向相关的通识篇 —— 工具负责让你听见，那批文章负责解释为什么。
-2. **卡在哪里就练哪一组**。比如分不清大小三度，就不要从头练，只练那一对。
-3. **每次十分钟**。听辨的进展靠频次，不靠单次时长。
+1. 先做、再看。每页底部的「下一步」通向相关的通识篇 —— 工具负责让你听见，那批文章负责解释为什么。
+2. 卡在哪里就练哪一组。比如分不清大小三度，就不要从头练，只练那一对。
+3. 每次十分钟。听辨的进展靠频次，不靠单次时长。
 
 ## 音程（4 件）
 
@@ -80,9 +80,9 @@ updated: 2026-10-03
 
 ## 关于这些工具的边界
 
-**它们是听辨工具，不是学习教材。** 每件工具能告诉你「听出来是这样」，但「为什么是这样」在通识那批文章里。
+它们是听辨工具，不是学习教材。 每件工具能告诉你「听出来是这样」，但「为什么是这样」在通识那批文章里。
 
-**它们也不能替代真人指导。** 练耳卡在平台期时，需要的是有人指出你卡在哪——**那件事机器做不了**（详见[怎么判断一个好老师](../culture/finding-a-teacher/)）。
+它们也不能替代真人指导。 练耳卡在平台期时，需要的是有人指出你卡在哪——那件事机器做不了（详见[怎么判断一个好老师](../culture/finding-a-teacher/)）。
 
 ## 下一步
 
@@ -100,9 +100,9 @@ Sound is produced in two ways — **synthesis** (no assets, generated in real ti
 
 Each tool is **an interactive version of one idea**, not a standalone app. Three practical suggestions:
 
-1. **Do it before reading it.** The "Next" link at the bottom of each page leads to the related general-knowledge piece — the tools make you hear it, those articles explain why.
-2. **Practise the pair you cannot do.** If you cannot tell a major third from a minor one, do not start at the beginning; work only on that pair.
-3. **Ten minutes at a time.** Progress in ear training comes from frequency, not from session length.
+1. Do it before reading it. The "Next" link at the bottom of each page leads to the related general-knowledge piece — the tools make you hear it, those articles explain why.
+2. Practise the pair you cannot do. If you cannot tell a major third from a minor one, do not start at the beginning; work only on that pair.
+3. Ten minutes at a time. Progress in ear training comes from frequency, not from session length.
 
 ## Intervals (4)
 
@@ -155,9 +155,9 @@ Metre and pattern are two different things:
 
 ## The limits of these tools
 
-**They are ear-training tools, not a textbook.** Each one can tell you "this is what it sounds like", but "why it sounds like that" lives in the general-knowledge articles.
+They are ear-training tools, not a textbook. Each one can tell you "this is what it sounds like", but "why it sounds like that" lives in the general-knowledge articles.
 
-**They do not replace a human teacher.** When ear training hits a plateau, what you need is someone to point out where you are stuck — **and no machine can do that** (see [judging a good teacher](../culture/finding-a-teacher/)).
+They do not replace a human teacher. When ear training hits a plateau, what you need is someone to point out where you are stuck — and no machine can do that (see [judging a good teacher](../culture/finding-a-teacher/)).
 
 ## Next
 

@@ -33,49 +33,49 @@ updated: 2026-09-29
 仪式由一连串规定好的动作组成：起身、行走、转身、停下、开口。每一步都对应一段音乐。
 
 - 音乐**变了但动作没变** → 参与者不知道什么时候该走；
-- 动作**乱了** → 仪式的公共性就断了——它之所以是仪式，正因为**所有人按同一套程序同时行动**。
+- 动作**乱了** → 仪式的公共性就断了——它之所以是仪式，正因为所有人按同一套程序同时行动。
 
-所以仪式音乐的第一属性不是好听，是**稳定到可以被预期**。
+所以仪式音乐的第一属性不是好听，是稳定到可以被预期。
 
 ## 为什么"不能随便改"和"必须被记住"是一回事
 
-仪式音乐几乎总是**背下来的**，理由很实际：
+仪式音乐几乎总是背下来的，理由很实际：
 
 - 弹错一个音，全场人都听得见；
-- 谱在那儿也不一定有用——**仪式场合没有看谱的习惯，也没有看谱的位置**。
+- 谱在那儿也不一定有用——仪式场合没有看谱的习惯，也没有看谱的位置。
 
-于是它必须**可靠地存在于人身上**。这是[[concept:memorization|记忆]]在仪式里的功能，和演奏时的作用不同：不是记技巧，是记程序。
+于是它必须可靠地存在于人身上。这是[[concept:memorization|记忆]]在仪式里的功能，和演奏时的作用不同：不是记技巧，是记程序。
 
 ## 音乐在仪式里做的三件事
 
-1. **划界**：把"仪式内"和"仪式外"分开。进场的前奏、退场的尾声不是装饰，是**门**。
-2. **同步**：把一群人的行动对齐。领唱者的节拍是全场的公共时钟。
-3. **授权**：某些段落只有特定身份的人能唱、只有特定乐器能奏。**乐器的分工因此常常不是音色的，是职位的。**
+1. 划界：把"仪式内"和"仪式外"分开。进场的前奏、退场的尾声不是装饰，是门。
+2. 同步：把一群人的行动对齐。领唱者的节拍是全场的公共时钟。
+3. 授权：某些段落只有特定身份的人能唱、只有特定乐器能奏。乐器的分工因此常常不是音色的，是职位的。
 
 ## 变体在仪式里怎么办
 
 仪式音乐也多变体，但它处理变体的方式和民歌相反：
 
-- **民歌**：变化是核心机制，每次不同（见[民歌的变体](../folk-variants/)）；
-- **仪式**：变化要**受控**——允许某些乐句的即兴或替换，不允许动到承担程序功能的那几段。
+- 民歌：变化是核心机制，每次不同（见[民歌的变体](../folk-variants/)）；
+- 仪式：变化要受控——允许某些乐句的即兴或替换，不允许动到承担程序功能的那几段。
 
-一句话：**可以变花，不能变门。**
+一句话：可以变花，不能变门。
 
 ## 一个可以自己检验的现象
 
-上面四个实例里，第一个有四个转录版本。你会发现**四个版本之间变的是调（很小的差别），不变的是段落顺序和句法**。
+上面四个实例里，第一个有四个转录版本。你会发现四个版本之间变的是调（很小的差别），不变的是段落顺序和句法。
 
-这正是仪式音乐的分层：**外观可动，骨架不可动。**
+这正是仪式音乐的分层：外观可动，骨架不可动。
 
 ## 一个伦理提醒
 
-「忠于传统」在仪式音乐上是个特别重的说法，因为这里的"传统"里**往往嵌着不属于执行者的规定**——谁可以唱、谁不能唱，本身就是权力关系。
+「忠于传统」在仪式音乐上是个特别重的说法，因为这里的"传统"里往往嵌着不属于执行者的规定——谁可以唱、谁不能唱，本身就是权力关系。
 
-听辨仪式音乐时，值得同时问两个问题：**这段音乐在做什么？在做什么的同时，它在允许谁参与？**
+听辨仪式音乐时，值得同时问两个问题：这段音乐在做什么？在做什么的同时，它在允许谁参与？
 
 ## 听一听：一个"可变花、不可变门"的对比
 
-下面两句走的是同一个骨架，但第二句多了一次装饰——**类似仪式里的即兴段落**：底层的落点不变，上面可以加东西。
+下面两句走的是同一个骨架，但第二句多了一次装饰——类似仪式里的即兴段落：底层的落点不变，上面可以加东西。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","G4","E4","D4","C4","D4","E4","G4","A4","G4","E4","D4","C4"],"label":"骨架不变，花样可变","label_en":"Fixed skeleton, free ornament","hint":"听两遍——第一遍只记落点，第二遍听多出来的那一下","hint_en":"Listen twice — first only the landing points, then the extra turn"}
@@ -97,49 +97,49 @@ In ordinary music, "shifting it a bit" is composing. **In ceremony, "shifting it
 A rite is a chain of prescribed actions — rise, walk, turn, stop, speak. Each step maps to a piece of music.
 
 - Music **changes but the actions do not** → participants no longer know when to move;
-- Actions **fall out of line** → the rite loses its public quality — it is a rite precisely because **everyone acts at once from one shared procedure**.
+- Actions **fall out of line** → the rite loses its public quality — it is a rite precisely because everyone acts at once from one shared procedure.
 
-So the first property of ceremonial music is not beauty. It is **stability to the point of being predictable**.
+So the first property of ceremonial music is not beauty. It is stability to the point of being predictable.
 
 ## "Cannot be changed casually" and "must be known by heart" are the same fact
 
-Ceremonial music is almost always **memorised**, for a practical reason:
+Ceremonial music is almost always memorised, for a practical reason:
 
 - A wrong note is heard by the whole room;
-- Having the score does not necessarily help — **rites have no habit of reading from music, and no place to put it**.
+- Having the score does not necessarily help — rites have no habit of reading from music, and no place to put it.
 
-So it must **reliably live inside people**. That is what [[concept:memorization|memorisation]] is for here — not storing technique, storing procedure.
+So it must reliably live inside people. That is what [[concept:memorization|memorisation]] is for here — not storing technique, storing procedure.
 
 ## Three jobs ceremonial music does
 
-1. **Marking the boundary** between inside and outside the rite. The prelude and the exit are not decoration; they are **doors**.
-2. **Synchronising** a group. The leader's beat is the public clock for everyone present.
-3. **Authorising** which segments a given person may sing and which instruments may play them. **Instrument division is therefore often not about timbre but about office.**
+1. Marking the boundary between inside and outside the rite. The prelude and the exit are not decoration; they are doors.
+2. Synchronising a group. The leader's beat is the public clock for everyone present.
+3. Authorising which segments a given person may sing and which instruments may play them. Instrument division is therefore often not about timbre but about office.
 
 ## How variants are handled in ceremony
 
 Ceremonial music also varies — but it handles variation in the opposite way to folk song:
 
-- **Folk song**: variation is the core mechanism, different every time (see [folk variants](../folk-variants/));
-- **Ceremony**: variation must be **controlled** — improvised or replaced phrasing is allowed in some segments, never in the ones carrying the procedural weight.
+- Folk song: variation is the core mechanism, different every time (see [folk variants](../folk-variants/));
+- Ceremony: variation must be controlled — improvised or replaced phrasing is allowed in some segments, never in the ones carrying the procedural weight.
 
-One line: **you may vary the flowers, never the door.**
+One line: you may vary the flowers, never the door.
 
 ## A phenomenon you can check yourself
 
 Of the four examples above, the first exists in four transcriptions. You will notice that **what differs between them is mode (a small difference); what does not differ is paragraph order and phrasing**.
 
-That is the layering: **the surface moves, the skeleton does not.**
+That is the layering: the surface moves, the skeleton does not.
 
 ## An ethical reminder
 
-"Loyalty to tradition" is a heavy phrase for ceremonial music, because the tradition here **usually contains rules not belonging to the people carrying it out** — who may sing and who may not is itself a relation of power.
+"Loyalty to tradition" is a heavy phrase for ceremonial music, because the tradition here usually contains rules not belonging to the people carrying it out — who may sing and who may not is itself a relation of power.
 
-When listening to ceremonial music it is worth asking two questions at once: **what is this music doing? and in doing it, who is it admitting?**
+When listening to ceremonial music it is worth asking two questions at once: what is this music doing? and in doing it, who is it admitting?
 
 ## Listen: fixed skeleton, free ornament
 
-Below, two lines share one skeleton, but the second adds a turn — **like an improvised segment in a rite**: the landing points stay, something is added above them.
+Below, two lines share one skeleton, but the second adds a turn — like an improvised segment in a rite: the landing points stay, something is added above them.
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","G4","E4","D4","C4","D4","E4","G4","A4","G4","E4","D4","C4"],"label":"Fixed skeleton, free ornament","label_en":"Fixed skeleton, free ornament","hint":"Listen twice — first only the landing points, then the extra turn","hint_en":"Listen twice — first only the landing points, then the extra turn"}

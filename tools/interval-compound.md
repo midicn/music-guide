@@ -42,41 +42,41 @@ updated: 2026-10-03
 
 一个复合音程**同时携带两件事**：
 
-- **音高类**（同度关系 / 八度关系）—— 决定"像不像同一个东西"；
-- **音程类**（二度、三度……）—— 决定"往前还是往后"。
+- 音高类（同度关系 / 八度关系）—— 决定"像不像同一个东西"；
+- 音程类（二度、三度……）—— 决定"往前还是往后"。
 
-**问题在于这两件事会互相干扰。** 一个大九度听起来既像"很远的同一个音"（八度部分），又像"上行二度"（音程部分）。**于是大脑常常只抓到其中一半。**
+问题在于这两件事会互相干扰。 一个大九度听起来既像"很远的同一个音"（八度部分），又像"上行二度"（音程部分）。于是大脑常常只抓到其中一半。
 
 ## 一个可验证的做法
 
-**把复合音程拆成两步听。**
+把复合音程拆成两步听。
 
 比如大九度：
 
 1. 先只听 C4；
-2. 再听 C5（**停下来**）；
+2. 再听 C5（停下来）；
 3. 然后听 D5；
-4. 最后听 C4 和 D5 **一起**。
+4. 最后听 C4 和 D5 一起。
 
-**第 2 步的停顿是关键。** 它让八度关系先单独建立起来，然后再叠加音程部分。
+第 2 步的停顿是关键。 它让八度关系先单独建立起来，然后再叠加音程部分。
 
-**如果跳完第 4 步你只感觉到"很高"，那说明你听到的是八度，没听到音程。**
+如果跳完第 4 步你只感觉到"很高"，那说明你听到的是八度，没听到音程。
 
 ## 实际用在哪里
 
 复合音程不是学术内容，它出现在这些地方：
 
-- **旋律的跳进** —— 大跳需要落点，中间隔的音就是复合音程；
-- **扒谱** —— 听到一个宽音程，要能拆成"八度+几度"；
-- **移调** —— 大跳跨八度时，转调后要重新确认落点。
+- 旋律的跳进 —— 大跳需要落点，中间隔的音就是复合音程；
+- 扒谱 —— 听到一个宽音程，要能拆成"八度+几度"；
+- 移调 —— 大跳跨八度时，转调后要重新确认落点。
 
-**一个具体的例子**：你在 C 调听到一个宽音程，换到 G 调之后同一个位置会是六度。**如果不拆开看，很容易弹错。**
+一个具体的例子：你在 C 调听到一个宽音程，换到 G 调之后同一个位置会是六度。如果不拆开看，很容易弹错。
 
 ## 一个提醒
 
-**不要一上来就练十几度。** 超过十度的音程（也就是超过纯八度 + 三度）多数人听不清是因为它们在真实音乐里也极少出现。
+不要一上来就练十几度。 超过十度的音程（也就是超过纯八度 + 三度）多数人听不清是因为它们在真实音乐里也极少出现。
 
-**先把八度、九度、十度练稳**，再考虑更大的。练耳的进展靠深度，不靠跨度。
+先把八度、九度、十度练稳，再考虑更大的。练耳的进展靠深度，不靠跨度。
 
 ## 下一步
 
@@ -107,23 +107,23 @@ Once an interval spans more than an octave, it **stops being "one distance" and 
 
 A compound interval **carries two things at once**:
 
-- a **pitch-class relation** (unison or octave) — deciding whether it feels like "the same thing";
-- an **interval relation** (second, third…) — deciding whether it goes up or down.
+- a pitch-class relation (unison or octave) — deciding whether it feels like "the same thing";
+- an interval relation (second, third…) — deciding whether it goes up or down.
 
-**The trouble is that the two interfere.** A major ninth sounds both like "the same note, very far away" (the octave part) and like "a rising second" (the interval part). **The brain often catches only one half.**
+The trouble is that the two interfere. A major ninth sounds both like "the same note, very far away" (the octave part) and like "a rising second" (the interval part). The brain often catches only one half.
 
 ## A verifiable method
 
-**Hear the compound interval in two steps.**
+Hear the compound interval in two steps.
 
 For a major ninth:
 
 1. Listen to C4 alone;
-2. then C5 (**and pause**);
+2. then C5 (and pause);
 3. then D5;
-4. finally C4 and D5 **together**.
+4. finally C4 and D5 together.
 
-**The pause in step 2 is the point.** It lets you build the octave relation first, then layer the interval on top.
+The pause in step 2 is the point. It lets you build the octave relation first, then layer the interval on top.
 
 **If after step 4 you only feel "that's high", you have heard the octave and missed the interval.**
 
@@ -131,17 +131,17 @@ For a major ninth:
 
 Compound intervals are not academic trivia. They show up here:
 
-- **Leaps in a melody** — a leap needs a landing point, and the intermediate note is a compound interval;
-- **Transcription by ear** — hearing a wide interval, you must decompose it as "octave plus something";
-- **Transposition** — when a wide leap crosses the octave, the landing point must be re-established after transposition.
+- Leaps in a melody — a leap needs a landing point, and the intermediate note is a compound interval;
+- Transcription by ear — hearing a wide interval, you must decompose it as "octave plus something";
+- Transposition — when a wide leap crosses the octave, the landing point must be re-established after transposition.
 
-**A concrete case**: hearing a wide interval in C, the same position in G is a sixth. **Without decomposing it you will easily play the wrong note.**
+A concrete case: hearing a wide interval in C, the same position in G is a sixth. Without decomposing it you will easily play the wrong note.
 
 ## One caution
 
-**Do not start with anything past a tenth.** Most people cannot distinguish intervals beyond a tenth (an octave plus a third) because they barely occur in real music.
+Do not start with anything past a tenth. Most people cannot distinguish intervals beyond a tenth (an octave plus a third) because they barely occur in real music.
 
-**Steady the octave, the ninth and the tenth first**, then consider anything wider. Progress in ear training comes from depth, not from span.
+Steady the octave, the ninth and the tenth first, then consider anything wider. Progress in ear training comes from depth, not from span.
 
 ## Next
 

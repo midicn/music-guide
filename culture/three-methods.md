@@ -45,48 +45,48 @@ updated: 2026-09-29
 - 大量做"移调"练习：同一段音高换调唱，听起来的关系不变；
 - 节奏用身体拍出来，音高用动作表示。
 
-它最反对的是**先背音名再唱歌**。
+它最反对的是先背音名再唱歌。
 
 ## 奥尔夫：音乐是说话、走路、玩的方式
 
 它把音乐拉回日常动作：
 
-- **声势**：拍手、跺脚、弹舌——用身体发声代替唱；
-- **念白**：把语言本身的节奏（音节重音）当节奏素材；
-- **打击乐组**：教室里的桶、盆、拍手都是乐器；
-- 作品常常是**可朗诵的**：先念白，再唱，再奏。
+- 声势：拍手、跺脚、弹舌——用身体发声代替唱；
+- 念白：把语言本身的节奏（音节重音）当节奏素材；
+- 打击乐组：教室里的桶、盆、拍手都是乐器；
+- 作品常常是可朗诵的：先念白，再唱，再奏。
 
 它的教学法里几乎没有"错的音"，只有"有没有接住"。
 
 ## 柯达伊：把音乐当成一门需要读写的语言
 
-它最强的地方是**首调唱名体系**：
+它最强的地方是首调唱名体系：
 
-- 用**相对音高**（do re mi）而不是音名（C D E），因为唱歌时人感知的是**级数**不是字母；
+- 用相对音高（do re mi）而不是音名（C D E），因为唱歌时人感知的是级数不是字母；
 - 建立"唱名—手号—谱"三者对应的完整链路；
-- 大量**合唱与轮唱**，因为音准问题在群体里自己会暴露。
+- 大量合唱与轮唱，因为音准问题在群体里自己会暴露。
 
-它把视唱练耳变成**每天可做的日常功**，而不是考试前的突击。
+它把视唱练耳变成每天可做的日常功，而不是考试前的突击。
 
 ## 三个体系加起来覆盖了什么
 
 有意思的是，把三者并排看，会发现它们几乎把音乐教育的三个入口各占了一个：
 
-- **达尔克罗兹 = 听觉与身体**
-- **奥尔夫 = 语言与动作**
-- **柯达伊 = 符号与读写**
+- 达尔克罗兹 = 听觉与身体
+- 奥尔夫 = 语言与动作
+- 柯达伊 = 符号与读写
 
-**现实中的好老师通常不选边**，而是按需要从不同体系取工具。
+现实中的好老师通常不选边，而是按需要从不同体系取工具。
 
 ## 一个共同点值得单独说
 
-三家都强调**先唱后弹、先听后看谱**。原因类似：
+三家都强调先唱后弹、先听后看谱。原因类似：
 
-**符号是索引，不是内容。** 如果先学会了看谱，孩子可能很久都听不出音乐里发生了什么。
+符号是索引，不是内容。 如果先学会了看谱，孩子可能很久都听不出音乐里发生了什么。
 
 ## 听一听：一个三种体系都能用的骨架
 
-下面这段是级进的，很适合用身体感受（达尔克罗兹）、用声势配（奥尔夫）、用首调唱名唱（柯达伊）。**同一段材料，三条路。**
+下面这段是级进的，很适合用身体感受（达尔克罗兹）、用声势配（奥尔夫）、用首调唱名唱（柯达伊）。同一段材料，三条路。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","G4","F4","E4","D4","E4","F4","G4"],"label":"三种体系都能用的级进骨架","label_en":"A stepwise skeleton all three methods can use","hint":"先跟着哼一遍，再试着拍手，最后唱唱名","hint_en":"Hum it first, then clap it, then sing the syllables"}
@@ -127,42 +127,42 @@ What it opposes most is **learning note names before you can sing**.
 
 It pulls music back to everyday action:
 
-- **Speech-chant**: clapping, stamping, tongue clicks — the body as the sound source;
-- **Rhythmic speech**: the rhythm of language (syllable stress) as raw material;
-- **Percussion ensembles**: bins, basins and hands are the instruments;
-- Works are often **recitable**: speak it, then sing it, then play it.
+- Speech-chant: clapping, stamping, tongue clicks — the body as the sound source;
+- Rhythmic speech: the rhythm of language (syllable stress) as raw material;
+- Percussion ensembles: bins, basins and hands are the instruments;
+- Works are often recitable: speak it, then sing it, then play it.
 
 There is almost no "wrong note" in its classroom — only "did you catch it".
 
 ## Kodály: music as a subject to be read and written
 
-Its strength is the **movable-do system**:
+Its strength is the movable-do system:
 
-- **Relative pitch** (do re mi) rather than note names, because singers perceive **scale degree**, not letters;
-- A full chain linking **solfège — hand signs — staff**;
-- Heavy use of **choral and round singing**, because intonation problems expose themselves in a group.
+- Relative pitch (do re mi) rather than note names, because singers perceive scale degree, not letters;
+- A full chain linking solfège — hand signs — staff;
+- Heavy use of choral and round singing, because intonation problems expose themselves in a group.
 
-It turns ear training into **daily routine** rather than pre-exam cramming.
+It turns ear training into daily routine rather than pre-exam cramming.
 
 ## What the three together cover
 
 Side by side, the systems turn out to occupy three different entry points to music education:
 
-- **Dalcroze = hearing and body**
-- **Orff = language and movement**
-- **Kodály = symbol and literacy**
+- Dalcroze = hearing and body
+- Orff = language and movement
+- Kodály = symbol and literacy
 
-**In practice good teachers do not pick a side** — they take tools from different systems as needed.
+In practice good teachers do not pick a side — they take tools from different systems as needed.
 
 ## One thing they all share
 
-All three insist on **sing before playing, hear before reading the score**. The reason is similar:
+All three insist on sing before playing, hear before reading the score. The reason is similar:
 
-**Symbols are an index, not the content.** If you learn to read first, a child may go a long time without hearing anything happening in the music.
+Symbols are an index, not the content. If you learn to read first, a child may go a long time without hearing anything happening in the music.
 
 ## Listen: a skeleton all three systems can use
 
-Below is stepwise — good for feeling in the body (Dalcroze), for clapping (Orff), for singing syllables (Kodály). **One piece of material, three routes.**
+Below is stepwise — good for feeling in the body (Dalcroze), for clapping (Orff), for singing syllables (Kodály). One piece of material, three routes.
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","G4","F4","E4","D4","E4","F4","G4"],"label":"A stepwise skeleton all three methods can use","label_en":"A stepwise skeleton all three methods can use","hint":"Hum it first, then clap it, then sing the syllables","hint_en":"Hum it first, then clap it, then sing the syllables"}

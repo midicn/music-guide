@@ -37,11 +37,11 @@ updated: 2026-09-28
 - **编曲**：给一段已有的旋律配乐器与织体；
 - **纯器乐制作**：做一段情绪或场景（不需要歌）。
 
-三条路的第一步都是同一个动作：**把一段材料组织出一个「开始—发展—结束」。**
+三条路的第一步都是同一个动作：把一段材料组织出一个「开始—发展—结束」。
 
 ## 第一步：用最小工具做一段「能循环」的东西
 
-不需要等 DAW 装好。先用最简单的循环起步：**四小节的和弦 + 一个节奏型**。重复，就是最小的「曲式」。
+不需要等 DAW 装好。先用最简单的循环起步：四小节的和弦 + 一个节奏型。重复，就是最小的「曲式」。
 
 比如「I–V–vi–IV」这条进行——流行音乐里最常见的骨架之一，先听听它：
 
@@ -51,22 +51,22 @@ updated: 2026-09-28
 
 ## 第二步：完成，然后才谈完美
 
-- 给自己一个**很低的成品标准**：60 秒、一个开头一个结尾，就算完成；
-- 把它**发给一个朋友听**（哪怕只说「这是我做的第一个东西」）；
-- 记一条规则：**没完成的「杰作」等于零；完成了的「烂作品」是第一次迭代。**
+- 给自己一个很低的成品标准：60 秒、一个开头一个结尾，就算完成；
+- 把它发给一个朋友听（哪怕只说「这是我做的第一个东西」）；
+- 记一条规则：没完成的「杰作」等于零；完成了的「烂作品」是第一次迭代。
 
 做音乐的能力，是在「完成—发布—听到反馈—做下一个」的循环里长出来的，不是在「准备」里。
 
 ## 第三步：工具与理论，够用就学
 
-- **工具（DAW）**：它是音乐的文字处理器——**选定一个，用满三个月**，不要收藏十个教程。编曲需要的核心操作其实很少：放片段、叠音色、调节奏。
-- **理论**：学到哪用到哪。最优先的两块是**和弦**（纵向的材料）与**节奏型**（横向的动力）。
+- 工具（DAW）：它是音乐的文字处理器——选定一个，用满三个月，不要收藏十个教程。编曲需要的核心操作其实很少：放片段、叠音色、调节奏。
+- 理论：学到哪用到哪。最优先的两块是和弦（纵向的材料）与节奏型（横向的动力）。
 
 ## 常见误解
 
-- **「要先学完乐理才能写」** → 反了：**写得越多，乐理越活**。先写，卡住的地方再查。
-- **「灵感来了才能做」** → 职业创作者从不等灵感，他们按日程开始工作。灵感是开始之后的常客，不是门前的访客。
-- **「设备不够好」** → 你缺的不是设备，是**第 10 个完成品**。
+- 「要先学完乐理才能写」 → 反了：写得越多，乐理越活。先写，卡住的地方再查。
+- 「灵感来了才能做」 → 职业创作者从不等灵感，他们按日程开始工作。灵感是开始之后的常客，不是门前的访客。
+- 「设备不够好」 → 你缺的不是设备，是第 10 个完成品。
 
 ## 下一步
 
@@ -87,11 +87,11 @@ People who want to make music fall into the same three pits: collecting gear, le
 - **Arranging**: dressing an existing melody with instruments and texture;
 - **Instrumental production**: building a mood or a scene (no song needed).
 
-All three start with the same move: **shape some material into a beginning, a middle and an end.**
+All three start with the same move: shape some material into a beginning, a middle and an end.
 
 ## Step one: loop something with the smallest possible tool
 
-Do not wait for your DAW. Start with a loop: **four bars of chords + one rhythmic pattern**. Repetition is the smallest possible form.
+Do not wait for your DAW. Start with a loop: four bars of chords + one rhythmic pattern. Repetition is the smallest possible form.
 
 Take the I–V–vi–IV progression — one of pop's most common skeletons. Hear it first:
 
@@ -101,22 +101,22 @@ Take the I–V–vi–IV progression — one of pop's most common skeletons. Hea
 
 ## Step two: finish, then talk about perfect
 
-- Set a **deliberately low bar for done**: sixty seconds, a beginning and an end, counts;
-- **Send it to one friend** — even if all you say is "this is my first thing";
-- One rule to keep: **an unfinished masterpiece equals zero; a finished bad piece is iteration one.**
+- Set a deliberately low bar for done: sixty seconds, a beginning and an end, counts;
+- Send it to one friend — even if all you say is "this is my first thing";
+- One rule to keep: an unfinished masterpiece equals zero; a finished bad piece is iteration one.
 
 The ability to make music grows inside the loop of finish, share, hear a reaction, make the next one — never inside "preparing".
 
 ## Step three: learn tools and theory just-in-time
 
-- **The DAW** is a word processor for music — **pick one and stay for three months**; do not hoard ten tutorials. Arranging needs very few core moves: place clips, stack timbres, adjust rhythm.
-- **Theory**: learn at the point of use. The two highest-value blocks are **chords** (vertical material) and **rhythmic patterns** (horizontal drive).
+- The DAW is a word processor for music — pick one and stay for three months; do not hoard ten tutorials. Arranging needs very few core moves: place clips, stack timbres, adjust rhythm.
+- Theory: learn at the point of use. The two highest-value blocks are chords (vertical material) and rhythmic patterns (horizontal drive).
 
 ## Common misreadings
 
-- **"Finish theory first, then write."** Backwards — **the more you write, the more alive theory becomes**. Write, and look things up only where you are stuck.
-- **"I create when inspiration strikes."** Professionals never wait for it; they keep working hours. Inspiration is a regular guest after you start, not a visitor at the door.
-- **"My gear is not good enough."** What you lack is not gear — it is **finished piece number ten**.
+- "Finish theory first, then write." Backwards — the more you write, the more alive theory becomes. Write, and look things up only where you are stuck.
+- "I create when inspiration strikes." Professionals never wait for it; they keep working hours. Inspiration is a regular guest after you start, not a visitor at the door.
+- "My gear is not good enough." What you lack is not gear — it is finished piece number ten.
 
 ## Next
 

@@ -52,49 +52,49 @@ updated: 2026-10-03
 
 ## 录音师：把物理现实转成信号
 
-录音师的工作是**在物理世界里做减法**：
+录音师的工作是在物理世界里做减法：
 
 - 麦克风的位置、角度、距离；
 - 房间的混响用多少（多还是少都是选择）；
 - 是否用吸音、隔声、改变乐器位置。
 
-**这一层决定"它听起来在哪里"。** 上面第三例说得很准：录音里的"位置"是虚拟的，**不对应任何真实空间** —— 它可以是"就在你耳边"或"隔着三十米"，而两者都不真实。
+这一层决定"它听起来在哪里"。 上面第三例说得很准：录音里的"位置"是虚拟的，不对应任何真实空间 —— 它可以是"就在你耳边"或"隔着三十米"，而两者都不真实。
 
 ## 混音师：在没有房间的地方造房间
 
-混音师做的事最反直觉：**他是在一个完全没有空间的地方工作**（耳机与近场监听没有真实混响）。
+混音师做的事最反直觉：他是在一个完全没有空间的地方工作（耳机与近场监听没有真实混响）。
 
-所以他要**手工造出空间感**：
+所以他要手工造出空间感：
 
 - 用混响量暗示"这是大厅还是小房间"；
 - 用频段吸收暗示"隔着墙还是敞着"；
 - 用动态范围暗示"远近"。
 
-**这是整个行业里最接近"凭空创造"的工作。**
+这是整个行业里最接近"凭空创造"的工作。
 
 ## 母带工程师：为别人的设备负责
 
-母带是唯一一环**目标听众不是制作团队**的工序。做母带时想的不是"我认为好听"，而是：
+母带是唯一一环目标听众不是制作团队的工序。做母带时想的不是"我认为好听"，而是：
 
 - 在手机外放上能听清吗；
 - 在耳塞里低音糊了怎么办；
 - 在蓝牙音箱上还剩什么。
 
-上面第一例那个十九世纪的钢琴录音值得听一下：**母带的痕迹在老录音里也能听出来** —— 通常表现为高频被"修"得干净了一点。
+上面第一例那个十九世纪的钢琴录音值得听一下：母带的痕迹在老录音里也能听出来 —— 通常表现为高频被"修"得干净了一点。
 
 ## 一个常见误解：这些活儿可以合并
 
-在小型项目里确实一个人全做。**但角色拆分的意义不在于人多，而在于判断标准不同。**
+在小型项目里确实一个人全做。但角色拆分的意义不在于人多，而在于判断标准不同。
 
 - "好不好听"（审美判断）；
 - "对不对"（技术正确性）；
 - "在别人设备上能不能听清"（传播约束）。
 
-**这三套标准会互相冲突。** 拆开角色的意义是：**让冲突显性化，而不是让一个人事后自责。**
+这三套标准会互相冲突。 拆开角色的意义是：让冲突显性化，而不是让一个人事后自责。
 
 ## 听一听：一个「位置」带来的差别
 
-下面这段和前面几篇共用同一素材。**但你可以想象两次混音**：一次把它放在「贴着你耳边」的位置，一次放在「隔着距离」的位置。**混响量和高频多少是那两个判断的直接后果。**
+下面这段和前面几篇共用同一素材。但你可以想象两次混音：一次把它放在「贴着你耳边」的位置，一次放在「隔着距离」的位置。混响量和高频多少是那两个判断的直接后果。
 
 ```audiolab
 {"type":"scale","notes":["C4","E4","G4","B4","A4","G4","E4"],"label":"同一个信号，两种「位置」","label_en":"One signal, two positions","hint":"想象一次贴耳、一次拉远——差别来自混响量和高频，不是来自音符本身","hint_en":"Imagine one mix close to the ear and one far away — the difference is reverb amount and high end, not the notes"}
@@ -136,49 +136,49 @@ The second example is the clearest case: **the same Debussy under a different mi
 
 ## The recording engineer: turning physical reality into signal
 
-This job is **subtraction in the physical world**:
+This job is subtraction in the physical world:
 
 - microphone position, angle, distance;
 - how much of the room's reverb to keep (more and less are both choices);
 - whether to absorb, isolate, or move the instrument.
 
-**This layer decides "where it sounds like it is".** The third example puts it precisely: pan position in a recording is virtual and **maps to no real space** — it can be "right at your ear" or "thirty metres away", and neither is real.
+This layer decides "where it sounds like it is". The third example puts it precisely: pan position in a recording is virtual and maps to no real space — it can be "right at your ear" or "thirty metres away", and neither is real.
 
 ## The mixer: building a room where none exists
 
-Mixing is the most counter-intuitive job: **it happens in a place with no space at all** (headphones and nearfield monitors have no real reverb).
+Mixing is the most counter-intuitive job: it happens in a place with no space at all (headphones and nearfield monitors have no real reverb).
 
-So the mixer **fabricates the sense of space by hand**:
+So the mixer fabricates the sense of space by hand:
 
 - reverb amount suggests hall versus small room;
 - frequency absorption suggests "through a wall" or "wide open";
 - dynamic range suggests near versus far.
 
-**It is the closest thing in the industry to creating something out of nothing.**
+It is the closest thing in the industry to creating something out of nothing.
 
 ## The mastering engineer: responsible for other people's devices
 
-Mastering is the only stage whose **target listener is not the production team**. When mastering, the question is not "I think this sounds good" but:
+Mastering is the only stage whose target listener is not the production team. When mastering, the question is not "I think this sounds good" but:
 
 - is it intelligible on a phone speaker outdoors;
 - do the lows turn to mush in earbuds;
 - what survives on a Bluetooth speaker?
 
-Worth listening to the 19th-century piano recording in the first example: **the trace of mastering is audible in old recordings too**, usually as a top end slightly "cleaned up".
+Worth listening to the 19th-century piano recording in the first example: the trace of mastering is audible in old recordings too, usually as a top end slightly "cleaned up".
 
 ## A common misreading: these jobs can be merged
 
-On small projects one person does all of it. **But splitting roles is not about headcount — it is about differing standards.**
+On small projects one person does all of it. But splitting roles is not about headcount — it is about differing standards.
 
 - "is it good" (aesthetic judgement);
 - "is it right" (technical correctness);
 - "will it be intelligible on someone else's gear" (a delivery constraint).
 
-**Those three standards genuinely conflict.** The value of separate roles is that **the conflict becomes explicit, instead of one person blaming themselves afterwards.**
+Those three standards genuinely conflict. The value of separate roles is that **the conflict becomes explicit, instead of one person blaming themselves afterwards.**
 
 ## Listen: what a position changes
 
-Below shares material with the previous pages. **But imagine two mixes:** one placing it "right at your ear", one placing it "at a distance". **Reverb amount and high end are the direct consequences of those two decisions.**
+Below shares material with the previous pages. But imagine two mixes: one placing it "right at your ear", one placing it "at a distance". Reverb amount and high end are the direct consequences of those two decisions.
 
 ```audiolab
 {"type":"scale","notes":["C4","E4","G4","B4","A4","G4","E4"],"label":"One signal, two positions","label_en":"One signal, two positions","hint":"Imagine one mix close to the ear and one far away — the difference is reverb amount and high end, not the notes","hint_en":"Imagine one mix close to the ear and one far away — the difference is reverb amount and high end, not the notes"}

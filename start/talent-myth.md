@@ -45,19 +45,19 @@ updated: 2026-09-28
 
 再假设答案是「没有」——如果你喜欢音乐，你今天要做什么？还是练。
 
-**一个不影响任何行动的答案，问它的主要代价是消耗掉「开始」的时间。** 这就是它被称为陷阱的原因：它伪装成谨慎，其实是一种拖延。
+一个不影响任何行动的答案，问它的主要代价是消耗掉「开始」的时间。 这就是它被称为陷阱的原因：它伪装成谨慎，其实是一种拖延。
 
 ## 起步快不等于天赋，走得远也不等于天赋
 
-你去观察「学得快」的人，会发现一个规律：起步快常常来自**经历**——听得多、家里有人玩乐器、小时候摸过琴。这些是经验优势，不是天赋优势。而走得远的人，共同点更朴素——**他们停不下来**：练习被安排进了生活，进步本身成了奖励。
+你去观察「学得快」的人，会发现一个规律：起步快常常来自经历——听得多、家里有人玩乐器、小时候摸过琴。这些是经验优势，不是天赋优势。而走得远的人，共同点更朴素——他们停不下来：练习被安排进了生活，进步本身成了奖励。
 
 而且音乐能力本来就是多维的：听觉、动作、记忆、审美、表达，各有各的发展节奏。一个人在一个维度上平平，可能在另一个维度上很有起点——「测试天赋」这件事本身，也就测不出什么。
 
 ## 该问的三个替代问题
 
-1. **「我每天能稳定拿出二十分钟吗？」** —— 能，你就具备学音乐的充分条件。
-2. **「我想从音乐里得到什么？」** —— 答案会告诉你选哪条路。
-3. **「怎么让第十次练习跟第一次不一样？」** —— 好学生的真正秘密都藏在这里。
+1. 「我每天能稳定拿出二十分钟吗？」 —— 能，你就具备学音乐的充分条件。
+2. 「我想从音乐里得到什么？」 —— 答案会告诉你选哪条路。
+3. 「怎么让第十次练习跟第一次不一样？」 —— 好学生的真正秘密都藏在这里。
 
 ## 听一听：一个可练的证据
 
@@ -94,19 +94,19 @@ Suppose someone could tell you reliably: "You have talent." What do you do today
 
 Suppose the answer were "none". If you love music, what do you do today? Practise.
 
-**An answer that changes no action costs you mainly the time spent asking.** That is the trap: it disguises itself as caution, but it works like procrastination.
+An answer that changes no action costs you mainly the time spent asking. That is the trap: it disguises itself as caution, but it works like procrastination.
 
 ## Early speed is not talent; endurance is not talent either
 
-Look closely at "fast learners" and a pattern appears: early speed usually comes from **exposure** — lots of listening, an instrument at home, a childhood of touching keys. That is an experience advantage, not a talent advantage. And those who last share something plainer — **they cannot stop**: practice is wired into their week, and progress itself becomes the reward.
+Look closely at "fast learners" and a pattern appears: early speed usually comes from exposure — lots of listening, an instrument at home, a childhood of touching keys. That is an experience advantage, not a talent advantage. And those who last share something plainer — they cannot stop: practice is wired into their week, and progress itself becomes the reward.
 
 Musical ability is also multidimensional: ear, motion, memory, taste, expression each develop on their own schedule. Being average in one place often means a fresh start in another — which is another reason "talent tests" measure very little.
 
 ## Three replacement questions
 
-1. **"Can I reliably give this twenty minutes a day?"** If yes, you have everything needed to learn music.
-2. **"What do I want music to give me?"** The answer picks your path.
-3. **"How do I make the tenth session different from the first?"** This is where the real secret of good students lives.
+1. "Can I reliably give this twenty minutes a day?" If yes, you have everything needed to learn music.
+2. "What do I want music to give me?" The answer picks your path.
+3. "How do I make the tenth session different from the first?" This is where the real secret of good students lives.
 
 ## Listen: evidence that it can be trained
 

@@ -40,26 +40,26 @@ updated: 2026-09-28
 
 ## 第二步：核对三个硬条件
 
-- **预算**：别只算买价。琴弦会断、弓毛会换、钢琴要调律——把「养它的钱」也算进来。
-- **场地与邻居**：钢琴、鼓的物理音量无法回避；电钢、电鼓可以戴耳机；口琴、尤克里里几乎不打扰任何人。
-- **时间**：你的最低练习量能有多少？一件「随时能拿起来」的乐器，往往比一件「必须去琴房」的乐器活得久。
+- 预算：别只算买价。琴弦会断、弓毛会换、钢琴要调律——把「养它的钱」也算进来。
+- 场地与邻居：钢琴、鼓的物理音量无法回避；电钢、电鼓可以戴耳机；口琴、尤克里里几乎不打扰任何人。
+- 时间：你的最低练习量能有多少？一件「随时能拿起来」的乐器，往往比一件「必须去琴房」的乐器活得久。
 
 ## 第三步：试用（最重要的一步）
 
-**在决定之前，至少亲手摸过两三种乐器。** 借的、租的、琴行试的、朋友的都算。
+在决定之前，至少亲手摸过两三种乐器。 借的、租的、琴行试的、朋友的都算。
 
 试什么：
 
-1. **手感**：手指够不够用？舒适还是吃力？
-2. **声音**：你喜不喜欢它发出第一个音的样子？喜欢，才练得下去。
-3. **身体**：姿势能不能放松？别扭的姿势迟早会变成放弃的理由。
+1. 手感：手指够不够用？舒适还是吃力？
+2. 声音：你喜不喜欢它发出第一个音的样子？喜欢，才练得下去。
+3. 身体：姿势能不能放松？别扭的姿势迟早会变成放弃的理由。
 
 > 一个常被问到的排序（按「起步友好度」）：口琴、尤克里里、竖笛相对好上手；钢琴、吉他居中；小提琴、双簧管一类门槛较高。门槛高不等于不能选——只是预期要跟着调整。
 
 ## 关于买琴的两句话
 
-- **「先买最便宜的试试」**：容易买到手感糟糕的乐器，把「难」误当成「没天赋」。
-- **「一步到位」**：方向未定时，贵琴是沉没成本。折中——预算内选可靠的入门款，让升级也成为动力。
+- 「先买最便宜的试试」：容易买到手感糟糕的乐器，把「难」误当成「没天赋」。
+- 「一步到位」：方向未定时，贵琴是沉没成本。折中——预算内选可靠的入门款，让升级也成为动力。
 
 ## 听一听：音域——同一串音的高低范围
 
@@ -90,26 +90,26 @@ The same instrument serves different goals with completely different starts. Sor
 
 ## Step two: check three hard conditions
 
-- **Budget**: not just the price. Strings break, bows get re-haired, pianos need tuning — count the cost of keeping it alive.
-- **Space and neighbours**: a piano or drum kit cannot hide its volume; digital pianos and e-drums can wear headphones; harmonica and ukulele disturb almost nobody.
-- **Time**: how much can you give at minimum? An instrument you can pick up any time usually outlives one that lives in a practice room.
+- Budget: not just the price. Strings break, bows get re-haired, pianos need tuning — count the cost of keeping it alive.
+- Space and neighbours: a piano or drum kit cannot hide its volume; digital pianos and e-drums can wear headphones; harmonica and ukulele disturb almost nobody.
+- Time: how much can you give at minimum? An instrument you can pick up any time usually outlives one that lives in a practice room.
 
 ## Step three: test them (the important one)
 
-**Before deciding, hold at least two or three instruments in your own hands.** Borrowed, rented, tried in a shop, borrowed from a friend — all count.
+Before deciding, hold at least two or three instruments in your own hands. Borrowed, rented, tried in a shop, borrowed from a friend — all count.
 
 What to test:
 
-1. **Hands**: do your fingers reach? Comfortable or strained?
-2. **Sound**: do you like the first note it makes? Liking it is what keeps you practising.
-3. **Body**: can you sit or stand relaxed? Awkward posture becomes a reason to quit later.
+1. Hands: do your fingers reach? Comfortable or strained?
+2. Sound: do you like the first note it makes? Liking it is what keeps you practising.
+3. Body: can you sit or stand relaxed? Awkward posture becomes a reason to quit later.
 
 > A frequently asked ranking (by beginner-friendliness): harmonica, ukulele and recorder ease you in; piano and guitar sit in the middle; violin and oboe ask more. "Asks more" is not "forbidden" — only adjust your expectations.
 
 ## Two lines about buying
 
-- **"Just get the cheapest to try"**: cheap instruments often play badly, and you mistake the badness for your own lack of talent.
-- **"Buy the endgame one now"**: before your direction is clear, a costly instrument is sunk cost. The middle way — a reliable starter within budget, with upgrades as future motivation.
+- "Just get the cheapest to try": cheap instruments often play badly, and you mistake the badness for your own lack of talent.
+- "Buy the endgame one now": before your direction is clear, a costly instrument is sunk cost. The middle way — a reliable starter within budget, with upgrades as future motivation.
 
 ## Listen: range — the same notes, higher and lower
 
