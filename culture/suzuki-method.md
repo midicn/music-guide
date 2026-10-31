@@ -19,7 +19,7 @@ instances:
   - giantmidi-007594 | 一份十九世纪的钢琴教本 —— 分级、体量递增、每一步都能完整弹下来 | A 19th-century piano tutor — graded, steadily growing, every stage playable end to end
   - essen-003078 | 一首德语学生歌谣 —— 铃木体系里"母语"不是修辞，学生歌谣是正式教材 | Die Schreiber, a German student song — in the Suzuki system "mother tongue" is not a figure of speech; student songs are formal repertoire
 sources:
-  - 本文为铃木教学法流程的通识性介绍；各乐器分支的具体差异与争议不在本文范围
+  - 铃木教学法流程的通识性介绍；各乐器分支的具体差异与争议不在这里展开
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

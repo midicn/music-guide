@@ -19,7 +19,7 @@ instances:
   - thesession-022046 | 一首瑞典传统的音阶练习曲 —— 音阶本来的身份是"歌唱的顺序"，不是"手指的运动" | Swedish Scales — scales were originally a singing order, not a finger exercise
   - giantmidi-005553 | 一套十九世纪的graded 钢琴教程 —— 分级教程的思路：先给够用的，再给难的 | A 19th-century graded piano method — first enough, then harder
 sources:
-  - 本文为三种教学法取向的通识性介绍；各体系的完整教学大纲与流派内部差异不在本文范围
+  - 三种教学法取向的通识性介绍；各体系的完整教学大纲与流派内部差异不在这里展开
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---
@@ -173,6 +173,6 @@ Below is stepwise — good for feeling in the body (Dalcroze), for clapping (Orf
 - The most basic object in any system: [[concept:rhythm|Rhythm]].
 - The solfège system: [[concept:melody-ear-training|Hearing melody]].
 - The part done every day: [[concept:practice-method|Practice method]].
-- Instrument basics: [[instrument:pipa|Pipa]] in this site's instrument guide.
+- Instrument basics: [[instrument:pipa|Pipa]] in the instrument guide.
 :::
 

@@ -20,7 +20,7 @@ instances:
   - mutopia-001630 | 乐谱的威力：一份印刷的圆舞曲，让全世界能够奏出同一个版本 | The power of notation — one printed waltz, the whole world playing the same version
   - essen-000160 | 民歌有自己的传播路径——不认识五线谱，从来不等于「没有谱」 | Folk songs travelled their own paths — not reading staff never meant having no scores
 sources:
-  - 本文为方法性建议，综合通用音乐教学实践整理，不涉及外部数据引用
+  - 方法性建议，综合通用教学实践整理，不涉及外部数据引用
   - 涉及的旋律均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

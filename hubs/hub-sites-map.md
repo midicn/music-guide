@@ -73,13 +73,13 @@ midicn 拆成了十三个站。**这一页的作用是把它们说清楚，包�
 :::
 
 ::: en
-midicn is split across thirteen sites. **This page explains them, including the ones that are not finished yet.**
+midicn is split across thirteen sites. **The map below explains them, including the ones still being filled in.**
 
 We do not intend to make unfinished things sound better than they are, so the table below has a column called "status".
 
 ## What you are trying to do here
 
-**Browse by site rather than by topic.** If you want to know where to study theory, go straight to [the theory hub](../hub-learn-theory/). This page answers "what is each of the thirteen sites".
+**Browse by site rather than by topic.** If you want to know where to study theory, go straight to [the theory hub](../hub-learn-theory/). The map answers "what is each of the thirteen sites".
 
 ## Where to read: the thirteen sites
 
@@ -93,7 +93,7 @@ Instrument guide ([inst.midicn.com](https://inst.midicn.com/)) — over 140 inst
 
 ### Skeleton sites: content arriving gradually (6)
 
-These already have a home page and a "what this site covers" note, but the entries are not laid out yet:
+These already have a home page and a "what the site covers" note, but the entries are not laid out yet:
 
 - Glossary ([gloss.midicn.com](https://gloss.midicn.com/)) — term lookup, behind its plan
 - Music history ([hist.midicn.com](https://hist.midicn.com/)) — to be built

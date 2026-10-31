@@ -20,7 +20,7 @@ instances:
   - giantmidi-007791 | 无数业余学习者练成过它的著名开头——「有人做到过」比天赋是更可靠的信号 | Countless amateurs have learned its famous opening — "others have done it" is a more reliable signal than talent
   - aria-000657 | 车尔尼为「五个手指」写了整本练习——钢琴教学史本身，就是「把能力拆解、设计成练习」的历史 | Czerny wrote a whole book for "five fingers" — piano teaching history is the story of turning ability into designed exercises
 sources:
-  - 本文为方法性建议，综合通用音乐教育与练习研究常识整理，不涉及外部数据引用
+  - 方法性建议，综合通用音乐教育与练习研究常识整理，不涉及外部数据引用
   - 涉及的旋律均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

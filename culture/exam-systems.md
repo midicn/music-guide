@@ -19,7 +19,7 @@ instances:
   - aria-000485 | 二十五首渐进练习曲 —— 分级材料的典型形态，短、易、每首都成立 | 25 Etudes faciles et progressives — the standard shape of graded material, short and easy with each one a piece in itself
   - aria-045360 | 一份克莱门蒂的前奏曲与练习 —— 十九世纪的教学把「练基础」写成正式曲目 | Preludes and Exercises by Clementi — the 19th century turned "drills" into published repertoire
 sources:
-  - 本文为考级体系功能的通识性说明；不涉及任何具体机构体系的等级数量、通过率或政策细节
+  - 考级体系功能的通识性说明；不涉及任何具体机构体系的等级数量、通过率或政策细节
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

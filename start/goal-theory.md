@@ -21,7 +21,7 @@ instances:
   - mutopia-000522 | 大调与级进的样板：学音阶之前先听熟它 | A model of major key and stepwise motion — hear it before you study scales
   - atepp-000195 | 从一个简短动机长出的氛围名作——「曲式」不是术语，是它生长的方式 | An atmosphere piece grown from one short motive — musical form as a way of growing
 sources:
-  - 本文为方法性建议，综合通用乐理教学顺序整理，不涉及外部数据引用
+  - 方法性建议，综合通用乐理教学顺序整理，不涉及外部数据引用
   - 涉及的旋律均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

@@ -15,11 +15,11 @@ links:
   - "[[concept:performance-anxiety]]"
   - "[[concept:stage-experience]]"
 instances:
-  - atepp-000179 | 德彪西的《快乐岛》（现场标记版） —— 本站数据集里唯一明确标注现场的条目，正好说明"现场"是一种证据声明 | Debussy's L'isle joyeuse, marked as a live take — the only entry in this site's dataset explicitly marked live, which makes the point that "live" is a claim about evidence
+  - atepp-000179 | 德彪西的《快乐岛》（现场标记版） —— 本站数据集里唯一明确标注现场的条目，正好说明"现场"是一种证据声明 | Debussy's L'isle joyeuse, marked as a live take — the only entry in the dataset explicitly marked live, which makes the point that "live" is a claim about evidence
   - atepp-000156 | 德彪西《 Images》第一首 —— 棚录版本更平衡，现场版本更"危险"，两者的差别是可控性 | Debussy's Images, first set — the studio version is more balanced, the live one more risky; the difference is control
   - m21-002673 | 一首苏格兰哑剧 reels —— 现场观众的在场会改变演奏，包括它出错的方式 | A Scottish pantomime reel — the presence of an audience changes the playing, including the way it goes wrong
 sources:
-  - 本文为现场与棚录差异的通识性讨论；不涉及具体唱片版本优劣的评价
+  - 现场与棚录差异的通识性讨论；不涉及具体唱片版本优劣的评价
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-10-03
 ---
@@ -170,7 +170,7 @@ This is not a ranking of quality; the uses differ. A stable, replayable studio r
 
 ## Listen: once, with no second take
 
-Below is the same material as the other audiolabs on this site. But notice: there is one intonation, one tempo, and no second chance. You cannot rehearse it as you listen — **that is the real difference between live and studio, not fidelity but repeatability.**
+Below is the same material as the other audiolabs. But notice: there is one intonation, one tempo, and no second chance. You cannot rehearse it as you listen — **that is the real difference between live and studio, not fidelity but repeatability.**
 
 ```audiolab
 {"type":"scale","notes":["D4","F4","A4","G4","F4","D4","C4"],"label":"Once, with no second take","label_en":"Once, with no second take","hint":"You cannot replay and compare this passage — irreproducibility, not fidelity, is the real difference","hint_en":"You cannot replay and compare this passage — irreproducibility, not fidelity, is the real difference"}

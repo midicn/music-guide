@@ -19,7 +19,7 @@ instances:
   - atepp-000156 | 德彪西《 Images》第一首 —— 同一段音乐在不同麦克风位置下是"两件不同的作品" | Debussy's Images, first set — the same music under two microphone positions is two different pieces
   - giantmidi-000422 | 一首为两架钢琴而写的幻想曲 —— 录音里的"声像位置"是虚拟的，不对应任何真实空间 | Scriabin's Fantasy for two pianos — pan position in a recording is virtual and maps to no real space
 sources:
-  - 本文为录音棚角色分工的通识性介绍；具体工作流程与版权归属因地区与机构而异，不作法律说明
+  - 录音棚角色分工的通识性介绍；具体工作流程与版权归属因地区与机构而异，不作法律说明
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-10-03
 ---

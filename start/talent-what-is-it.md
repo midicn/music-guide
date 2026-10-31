@@ -20,7 +20,7 @@ instances:
   - aria-007583 | 儿童曲集作为教学材料：作曲家们把「怎么长大」写成了曲子 | Children's albums as teaching material — composers turned "growing up" into music
   - giantmidi-001714 | 两百年前的「小小人乐谱本」：教材的意义就是让普通人有路可走 | A two-century-old notebook for little people — method exists so ordinary people have a road
 sources:
-  - 本文为方法性建议，综合通用音乐认知常识整理，不涉及外部数据引用
+  - 方法性建议，综合通用音乐认知常识整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

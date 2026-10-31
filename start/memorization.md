@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-000695 | 圣咏：旋律熟悉之后，你背下来的其实是和声的路线图 | Hymns — once the tune is known, what you memorise is the harmonic map
   - essen-009677 | 短小旋律：背谱从不长的、好听的开始，成功率最高 | Short tunes — memorising works best starting brief and lovely
 sources:
-  - 本文为方法性建议，综合通用演奏记忆研究常识整理，不涉及外部数据引用
+  - 方法性建议，综合通用演奏记忆研究常识整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

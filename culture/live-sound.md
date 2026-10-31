@@ -19,7 +19,7 @@ instances:
   - m21-002673 | 一首苏格兰的哑剧 reels —— 舞台上的喜剧节奏必须让最后一排也听得见清点 | A Scottish pantomime reel — comic rhythm on stage must reach the back row clearly
   - pdmx-000656 | 一部圣诞清唱剧 —— 合唱团的自然音量常常不够，需要声学与电声配合 | A Christmas oratorio — a choir's natural volume often falls short and needs acoustic and electric help together
 sources:
-  - 本文为现场扩声原理的通识性介绍；具体设备型号、场地声学测量与工程规范不在本文范围
+  - 现场扩声原理的通识性介绍；具体设备型号、场地声学测量与工程规范不在这里展开
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-10-03
 ---

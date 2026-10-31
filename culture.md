@@ -257,8 +257,8 @@ How music gets into feeling — emotion, memory, focus, body.
 ## About these guides
 
 - The "Next" link at the end of each one is deliberate: it sends you where you actually need to go, not somewhere arbitrary;
-- each one has listenable examples drawn from this site's dataset, labelled with source and licence tier;
+- each one has listenable examples drawn from the dataset, labelled with source and licence tier;
 - each one is bilingual, with the two versions agreeing on every claim and fact.
 
-If something here reads wrong to you, or you want to offer a counter-example, this site welcomes it — general-audience writing is most at risk when nobody pushes back.
+If something here reads wrong to you, or you want to offer a counter-example, we welcome it — general-audience writing is most at risk when nobody pushes back.
 :::

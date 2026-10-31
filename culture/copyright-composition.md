@@ -78,7 +78,7 @@ updated: 2026-09-28
 ::: en
 "Whose song is this?" is a hard question because **a song is not one thing in law but a stack of things**. Count the stack once, and everything downstream gets easier.
 
-(This article explains structure, not legal advice; consult a professional for specific cases.)
+(An explanation of structure, not legal advice; consult a professional for specific cases.)
 
 ## Layer one: the musical work
 

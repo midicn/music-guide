@@ -92,7 +92,7 @@ updated: 2026-10-03
 :::
 
 ::: en
-"I am slow to progress", "my child will not practise", "I have taught for years with no growth" — **for all three, the answer usually does not lie in technique.** This page reorganises them as design problems.
+"I am slow to progress", "my child will not practise", "I have taught for years with no growth" — **for all three, the answer usually does not lie in technique.** They reorganise as design problems.
 
 ## What you are trying to do here
 

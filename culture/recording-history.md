@@ -160,7 +160,7 @@ The price is that evidence that "it really happened" gets diluted. That is also 
 
 ## Listen: one sound, two levels of evidence
 
-Below uses the same synthetic timbre as other audiolabs on this site. **If one source tells you it is a live recording and another says it is an edited master, your trust in it differs completely — while the audio itself may be byte-identical.**
+Below uses the same synthetic timbre as other audiolabs. **If one source tells you it is a live recording and another says it is an edited master, your trust in it differs completely — while the audio itself may be byte-identical.**
 
 ```audiolab
 {"type":"scale","notes":["E4","G4","B4","G4","E4","D4","C4","D4","E4"],"label":"One sound, two levels of evidence","label_en":"One sound, two levels of evidence","hint":"The audio can be identical — the whole difference is in how it came to exist","hint_en":"The audio can be identical — the whole difference is in how it came to exist"}

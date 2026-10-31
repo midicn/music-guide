@@ -20,7 +20,7 @@ instances:
   - mutopia-001727 | 熟悉的旋律是成人重学音乐的友好起点 | A familiar melody — the friendliest starting point for adult learners
   - thesession-021012 | 民谣类旋律往往更「抗错」，适合业余练习的容错节奏 | Folk melodies are forgiving of small mistakes — kind to off-hours practice
 sources:
-  - 本文为方法性建议，综合通用成人音乐教学经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用成人音乐教学经验整理，不涉及外部数据引用
   - 涉及的旋律均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

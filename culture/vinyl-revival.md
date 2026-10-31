@@ -170,7 +170,7 @@ Below is deliberately shaped with a beginning, a build and a definite ending. **
 
 - How recording technology developed: [a history of recording](../recording-history/).
 - The last two stages: [[concept:dynamics|Dynamics]].
-- How to judge a file and what licence tier it falls under: [open music data and licensing](../open-music-data-license/) on this site.
+- How to judge a file and what licence tier it falls under: [open music data and licensing](../open-music-data-license/).
 - The medium beyond vinyl: [loudness normalisation](../loudness-normalization/).
 :::
 

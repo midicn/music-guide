@@ -112,7 +112,7 @@ The order of the words is the order of the conditions — once fluent, any combi
 2. SA infects your adaptation — if you want your version proprietary, avoid SA material;
 3. ND does not forbid sharing — ND allows verbatim reposting (with credit); it only forbids adaptation.
 
-## A transparent example: this site
+## A transparent example: ourselves
 
 This site's own content is published under CC BY 4.0: copy, adapt, use commercially — just credit. The musical works it links to are not covered by that licence: each carries its own licence tier (three tiers with different bounds — see the [data copyright page](../../legal/data/copyright/)).
 

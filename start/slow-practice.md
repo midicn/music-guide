@@ -20,7 +20,7 @@ instances:
   - aria-000853 | 「渐进」练习曲：速度是加出来的，不是冲出来的 | "Progressive" studies — speed is added, not charged at
   - giantmidi-006222 | 音阶与琶音：慢练的最佳素材——每一格都必须走得干净 | Scales and arpeggios — the best slow-practice material; every step must land clean
 sources:
-  - 本文为方法性建议，综合通用器乐教学经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用器乐教学经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

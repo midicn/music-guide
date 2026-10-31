@@ -20,7 +20,7 @@ instances:
   - mutopia-001330 | 卡农：同一串和声反复出现，「和声进行」这个词最好的听感入口 | Pachelbel's Canon — one progression on repeat, the best doorway into "chord progression"
   - giantmidi-003263 | 萨蒂的和声不在教科书的标准清单里，却照样迷人——耳朵先于术语 | Satie's harmony sits outside the standard lists and still moves everyone — the ear comes first
 sources:
-  - 本文为方法性建议，综合通用音乐教学实践整理，不涉及外部数据引用
+  - 方法性建议，综合通用教学实践整理，不涉及外部数据引用
   - 涉及的旋律均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

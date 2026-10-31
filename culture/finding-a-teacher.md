@@ -19,7 +19,7 @@ instances:
   - giantmidi-004819 | 一首《方法论奏鸣曲》 —— 十八世纪的人就把"方法"当成作品主题来写 | A "Methodical Sonata" — the eighteenth century already wrote method as a subject
   - cyberhymnal-007139 | 一本小学教师手册里的曲子 —— 教师的专业性不是"会弹"，是"知道什么时候不该教" | A piece from a primary-teacher's manual — a teacher's professionalism is not "can play" but "knows when not to teach"
 sources:
-  - 本文为择师与师生关系的通识性讨论；不针对具体教师或机构作评价
+  - 择师与师生关系的通识性讨论；不针对具体教师或机构作评价
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

@@ -107,7 +107,7 @@ Today a whole supply exists made for sampling, with the licensing solved up fron
 
 - Royalty-free / openly licensed sound libraries (clear terms, often CC0);
 - Instrument beds and loop packs built for sampling (buy = licence);
-- Openly licensed datasets and material sources (including the open-licensed audio in this site's library — still check terms before use).
+- Openly licensed datasets and material sources (including the open-licensed audio in the library — still check terms before use).
 
 A plain conclusion: sampling culture flourishes most where licensing is clearest.
 

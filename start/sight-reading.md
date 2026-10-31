@@ -20,7 +20,7 @@ instances:
   - aria-005478 | 旋律优美、难度平缓的曲集：视奏材料的标准样子 | Tuneful, gently graded — what good sight-reading material looks like
   - aria-000485 | 「渐进」练习曲也适合视奏：每一条都只是上一条的下一步 | "Progressive" studies double as sight-reading — each one is one step past the last
 sources:
-  - 本文为方法性建议，综合通用视奏教学经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用视奏教学经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

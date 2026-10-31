@@ -19,7 +19,7 @@ instances:
   - aria-006519 | 十六首儿童歌曲集 —— 学校教材的性质决定了曲目必须短、必须好唱 | A set of sixteen children's songs — because it is a textbook, every piece must be short and readily singable
   - giantmidi-006222 | 一套音阶、琶音与终止式练习 —— 学校课唯一坚持多年的是这类"基础规范化" | Scales, Arpeggios, and Cadences — the only thing a school course keeps up year after year is this sort of basic standardisation
 sources:
-  - 本文为学校音乐教育内容的通识性讨论；不针对任何国家课程标准作评价
+  - 学校音乐教育内容的通识性讨论；不针对任何国家课程标准作评价
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

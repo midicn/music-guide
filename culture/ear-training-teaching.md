@@ -160,7 +160,7 @@ This is not a talent problem; it is a change of training target. Past it, progre
 
 ## Listen: an ear-training exercise you can test yourself
 
-Below are just two notes, a major third apart. First name the interval, then try to sing it in your head. The two tasks differ enormously in difficulty — which is the whole point of this page.
+Below are just two notes, a major third apart. First name the interval, then try to sing it in your head. The two tasks differ enormously in difficulty — which is the point.
 
 ```audiolab
 {"type":"interval","notes":["C4","E4"],"label":"An interval you only truly keep if you can sing it","label_en":"An interval you only truly keep if you can sing it","hint":"First name it as a major third, then try to sing it in your head — the second step is the hard one","hint_en":"First name it as a major third, then try to sing it in your head — the second step is the hard one"}

@@ -20,7 +20,7 @@ instances:
   - atepp-003869 | 慢乐章的共鸣是声学钢琴的看家本领——电钢用采样与建模追赶它 | The resonance of a slow movement is where acoustics shine — and what digitals chase
   - m21-000000 | 众赞歌的键盘化：键盘是学习「多声部」最方便的解释器 | A chorale at the keyboard — the handiest instrument for learning multiple voices
 sources:
-  - 本文为方法性建议，综合通用键盘乐器选购经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用键盘乐器选购经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

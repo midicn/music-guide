@@ -21,7 +21,7 @@ instances:
   - mutopia-001630 | 一百多年前的「流行金曲」：它提醒你古典音乐曾经就是大众音乐 | A pop hit from over a century ago — it reminds you classical was once popular music
   - atepp-000195 | 氛围名作的另一面：朦胧之下藏着清晰的结构 | Behind the famous haze lies a clear structure — the third flight in disguise
 sources:
-  - 本文为方法性建议，综合通用古典音乐听赏导览整理，不涉及外部数据引用
+  - 方法性建议，综合通用古典音乐听赏导览整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

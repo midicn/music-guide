@@ -108,7 +108,7 @@ Before recording existed, a folk song could be fixed in only two ways: **written
 
 ## What recording does first: fix what used to vary
 
-Return to this site's dataset: the first three examples are **one tune recorded in three different sources**. Before recording, they travelled through manuscripts and through people's memories, each unaware of the others.
+Return to the dataset: the first three examples are **one tune recorded in three different sources**. Before recording, they travelled through manuscripts and through people's memories, each unaware of the others.
 
 What recording does is simple: **it freezes one performance into an object that can be replayed without end.**
 

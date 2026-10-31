@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-007138 | 小星星的曲调：只用几个相邻的音构成，适合第一周「听结构」 | The "Twinkle" tune — built from a handful of adjacent notes, ideal for hearing structure in week one
   - pdmx-002163 | 你已经会唱的旋律：把「听—唱—奏」串起来的第一步 | A melody you already know by heart — the first link from listening to singing to playing
 sources:
-  - 本文为方法性建议，综合通用音乐教学实践整理，不涉及外部数据引用
+  - 方法性建议，综合通用教学实践整理，不涉及外部数据引用
   - 涉及的旋律均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

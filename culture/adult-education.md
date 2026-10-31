@@ -20,7 +20,7 @@ instances:
   - aria-000119 | 一组古尔特的小奏鸣曲 —— 分成四首而不是一首长的，成品感来自收尾 | Gurlitt's four sonatinas — four short pieces rather than one long one; the sense of an artefact comes from ending
   - aria-000485 | 二十五首渐进练习曲 —— 成人练琴最缺的不是难度，是能收尾的短材料 | 25 progressive études — what adult practice lacks is not difficulty but short material that can be finished
 sources:
-  - 本文为成人音乐学习特点的通识性讨论；不针对具体课程或教材作评价
+  - 成人音乐学习特点的通识性讨论；不针对具体课程或教材作评价
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

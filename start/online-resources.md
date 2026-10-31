@@ -20,7 +20,7 @@ instances:
   - thesession-013945 | 由全世界乐手共同维护的曲库：活态传统的在线样本 | A tune base kept alive by players worldwide — an online sample of a living tradition
   - openscore-000039 | 开放乐谱库里的一首：可下载、可打印、来源清楚的资源长这样 | A piece from an open score library — downloadable, printable, clearly sourced
 sources:
-  - 本文为方法性建议，综合通用网络资源鉴别经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用网络资源鉴别经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

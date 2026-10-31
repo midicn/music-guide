@@ -21,7 +21,7 @@ instances:
   - giantmidi-008148 | 为吉他写的成套圆舞曲：它是有正经曲目库的乐器，不是伴奏工具 | Complete waltzes written for guitar — a serious repertoire instrument, not just an accompanist
   - aria-059466 | 索尔的练习曲：古典吉他两百年教学体系的证明 | Sor's studies — two centuries of a real classical guitar method
 sources:
-  - 本文为方法性建议，综合通用吉他教学经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用吉他教学经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

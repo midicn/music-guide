@@ -99,7 +99,7 @@ The music-relevant essentials, as a small map:
 
 ## For the everyday reader
 
-- Daily use: run this site's C2 checklist (layer → duration → place → version);
+- Daily use: run the C2 checklist (layer → duration → place → version);
 - Real projects: for money-on-the-table licensing, consulting professionals is always the cheapest step.
 
 ## Listen: a melody that crossed borders

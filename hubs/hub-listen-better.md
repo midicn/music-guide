@@ -93,7 +93,7 @@ updated: 2026-10-03
 
 First work out which kind of "understand" you want:
 
-- **hearing it** (is this a triad) — ear training; there is a full set of tools on this site;
+- **hearing it** (is this a triad) — ear training; there is a full set of tools here;
 - **understanding it** (what is it doing, why is it written this way) — concepts, mostly text;
 - **remembering it** (still recalling it later) — this is memory, not hearing.
 
@@ -141,7 +141,7 @@ Step 1 cannot be skipped. Analysing the score without ever hearing the piece mea
 
 Four honest notes:
 
-1. There is no listening repertoire — this site has plenty of general-knowledge and theory, but no "list of pieces ordered by difficulty". That is the biggest gap on this route.
+1. There is no listening repertoire — there is plenty of general knowledge and theory, but no "list of pieces ordered by difficulty". That is the biggest gap on this route.
 2. The history and genre sites are skeletons — so the "background knowledge" layer is effectively only scattered offsite articles.
 3. The tools have no dictation — all eighteen are "hear it"; none covers "write it down".
 4. The glossary is not enough to look terms up — and looking terms up is the most frequent action at this layer.

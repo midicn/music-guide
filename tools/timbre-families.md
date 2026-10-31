@@ -173,7 +173,7 @@ So "high equals bright" is a regularity, not a definition.
 
 The six groups above are six of the nine models in this site's synthesiser, and they are approximations, not samples of real instruments.
 
-Real instruments are far richer than these — which is why this site's instrument guide (inst) demonstrates with real MIDI sound sources.
+Real instruments are far richer than these — which is why the instrument guide (inst) demonstrates with real MIDI sound sources.
 
 But the principle of listening is the same: watch the four dimensions — how fast the attack is, how clean the edges are, whether there is breath, whether there is vibrato.
 

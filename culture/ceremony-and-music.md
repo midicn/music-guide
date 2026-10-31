@@ -20,7 +20,7 @@ instances:
   - thesession-006723 | 一支林肯郡的守夜哀歌 —— 词、曲、走的路线绑在一起 | Lyke Wake Dirge — words, tune and the route walked are bound together
   - abcmisc-000153 | 一首银婚圆舞曲的一个版本 —— 婚礼上的第一支舞有自己的规矩 | A silver-wedding freilach — the first dance at a wedding has its own rules
 sources:
-  - 本文为仪式音乐功能的通识性介绍；各传统的仪式程序差异很大，不作具体教派或礼制描述
+  - 仪式音乐功能的通识性介绍；各传统的仪式程序差异很大，不作具体教派或礼制描述
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

@@ -20,7 +20,7 @@ instances:
   - aria-000156 | 「流畅练习曲」：考级练习曲的传统来源——方法书比考级历史更久 | "School of Fluency" — the ancestor of exam studies; method books are older than exams
   - aria-007583 | 儿童曲集里藏着一整个曲目世界——比任何一份考级单都宽 | A children's album hides a whole repertoire world — wider than any syllabus
 sources:
-  - 本文为方法性建议，综合通用音乐教育观察整理，不涉及外部数据引用
+  - 方法性建议，综合通用音乐教育观察整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

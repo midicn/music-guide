@@ -104,7 +104,7 @@ This layer is hard; willpower cannot bypass it.
 - Onsite: [four claims to be wary of](../../start/uncommon-instruments/) — errors in common recommendations
 - Offsite: [the instrument guide](https://inst.midicn.com/) — every instrument has a cross-section and a range chart; check first whether your hands cannot do it
 
-On noise, an often-overlooked point on this site: [practice and the brain](../../culture/practice-and-brain/) notes that equipment and environment constraints affect long-term practice more than the choice of instrument itself.
+On noise, an often-overlooked point: [practice and the brain](../../culture/practice-and-brain/) notes that equipment and environment constraints affect long-term practice more than the choice of instrument itself.
 
 ### Layer two: eliminate by your available time
 

@@ -130,7 +130,7 @@ The rules on this route are all in the licences, so read these three first:
 
 Where to get the data:
 
-- [Dataset overview](https://lib.midicn.com/) — per-track licensing; this site does not alter the original terms
+- [Dataset overview](https://lib.midicn.com/) — per-track licensing; we do not alter the original terms
 - [Archives](https://zip.midicn.com/) — packaged downloads
 - [Audio](https://sf.midicn.com/) — audio and sample resources
 
@@ -142,7 +142,7 @@ Where to get the data:
 
 ## The licence tiers: one thing to remember
 
-Everything on this site uses the same four-tier labelling (C1 / C2 / C3 and public domain). The differences:
+Everything here uses the same four-tier labelling (C1 / C2 / C3 and public domain). The differences:
 
 | Tier | What you may do |
 |---|---|
@@ -159,7 +159,7 @@ Everything on this site uses the same four-tier labelling (C1 / C2 / C3 and publ
 
 "I can download it" does not mean "I may use it". Downloading is a technical act; authorisation is a legal fact. They are separate.
 
-A whole section of this site exists for that misconception: [copyright myths: ten claims, ten answers](../../culture/copyright-myths/).
+A whole section exists for that misconception: [copyright myths: ten claims, ten answers](../../culture/copyright-myths/).
 
 ## What is not built yet
 

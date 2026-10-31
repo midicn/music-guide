@@ -20,7 +20,7 @@ instances:
   - pdmx-000629 | 数字乐谱库的条目：音乐软件生态的「原料」长什么样 | An entry from a digital score library — what the software ecosystem feeds on
   - giantmidi-003286 | 数字档案里的经典：软件不生产音乐，它只是新的容器 | A classic inside a digital archive — software is a new container, not a new music
 sources:
-  - 本文为方法性建议，综合通用音乐软件生态观察整理，不涉及外部数据引用
+  - 方法性建议，综合通用音乐软件生态观察整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

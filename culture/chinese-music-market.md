@@ -20,7 +20,7 @@ instances:
   - chinafolk-000000 | 运河号子：中国民歌的数字存档——市场之外的另一条河流（库内此类题材仅见于该档案，学习研究用途） | A canal work song from the folk-song archive — another river outside the market
   - thesession-015836 | 《茉莉花》在另一份曲库里的版本：同一支旋律的跨国流通 | The same melody in a different collection — how one tune travels between cultures
 sources:
-  - 本文为市场结构的通识性描述，不涉及具体平台、公司及数据
+  - 市场结构的通识性描述，不涉及具体平台、公司及数据
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

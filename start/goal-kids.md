@@ -20,7 +20,7 @@ instances:
   - aria-007583 | 作曲家的「儿童曲集」：为孩子写的曲子，一直被当作启蒙材料 | A composer's Children's Album — pieces written for children, used ever since to begin with
   - aria-000036 | 又一部「儿童组曲」——给孩子写作，是一条真实的创作传统 | Another children's suite — writing for the young is a real creative tradition
 sources:
-  - 本文为方法性建议，综合通用儿童音乐教育实践整理，不涉及外部数据引用
+  - 方法性建议，综合通用儿童音乐教育实践整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

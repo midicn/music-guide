@@ -20,7 +20,7 @@ instances:
   - aria-000657 | 「五个手指」：把能力拆到最细，一次只练一双手能握住的东西 | "Five fingers" — ability broken down to one hand's worth at a time
   - giantmidi-006222 | 音阶、琶音与终止式的成套材料：每天用同一套材料，检查不同的细节 | Scales, arpeggios and cadences — the same daily material, new details each time
 sources:
-  - 本文为方法性建议，综合通用练习方法研究常识整理，不涉及外部数据引用
+  - 方法性建议，综合通用练习方法研究常识整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

@@ -19,7 +19,7 @@ instances:
   - giantmidi-001520 | 克莱门蒂的《回旋形大娱乐曲》 —— 炫技的客厅娱乐音乐，靠明亮而不浑的空间撑住 | Czerny's Grand Divertissement — flashy salon entertainment, held up by a bright but not muddy space
   - pdmx-000183 | 一部安魂曲的记录 —— 教堂与音乐厅的差别不是大小，是墙对低频的处理 | A recorded Requiem — the difference between church and hall is not size but how the walls treat low frequencies
 sources:
-  - 本文为音乐厅声学原理的通识性介绍；具体厅堂的实测数据与设计细节不在本文范围
+  - 音乐厅声学原理的通识性介绍；具体厅堂的实测数据与设计细节不在这里展开
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-10-03
 ---

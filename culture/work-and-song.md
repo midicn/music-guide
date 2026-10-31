@@ -113,7 +113,7 @@ Below is a single cycle. Its job is not melody but teaching the body when to pus
 
 ## Next
 
-- The basic idea: [rhythm and body](../rhythm-and-body/) on this site.
+- The basic idea: [rhythm and body](../rhythm-and-body/).
 - How far a melody can travel: [[concept:melody|Melody]].
 - The structural cousin of labour songs: [[concept:song-form|Song form]].
 - How notation preserves such rhythms: [[concept:staff|Staff]].

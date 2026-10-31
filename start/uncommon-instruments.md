@@ -20,7 +20,7 @@ instances:
   - openscore-000039 | 德彪西的《曼陀铃》：连印象派大师也偏爱冷门的音色 | Debussy's Mandoline — even the Impressionists treasured its colour
   - thesession-003379 | 手风琴与风笛的爱尔兰曲目：在它的文化里，这从不是「冷门」 | Irish tunes for box and pipes — in their own culture, never "uncommon" at all
 sources:
-  - 本文为方法性建议，综合通用器乐学习经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用器乐学习经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

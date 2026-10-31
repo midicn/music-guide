@@ -19,7 +19,7 @@ instances:
   - giantmidi-006047 | 一位都铎时期女士的琉特琴歌本 —— 谱传传统里，"读谱"本身就是演奏技能 | A Tudor lady's lute book — in the written tradition, reading the score **is** the performing skill
   - aria-000196 | 一组克莱门蒂小奏鸣曲 —— 分级教材从第一首起就配谱，因为"读得慢"是必须治的问题 | A set of Clementi sonatinas — graded books ship with the score from piece one, because slow reading is a problem to be treated
 sources:
-  - 本文为记谱教学顺序争论的通识性整理；不为任何一方背书，具体顺序应按乐器与目标调整
+  - 记谱教学顺序争论的通识性整理；不为任何一方背书，具体顺序应按乐器与目标调整
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

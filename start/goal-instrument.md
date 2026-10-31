@@ -21,7 +21,7 @@ instances:
   - giantmidi-000246 | 为学习而作的吉他小奏鸣曲：作曲家一直在替初学者铺路 | A guitar sonatina written for learners — composers keep paving the beginner's road
   - aria-001631 | 「渐进练习曲」这个标题就是它的用法：从第一页开始，一天一点 | "Progressive studies" is the whole instruction — start at page one, one step a day
 sources:
-  - 本文为方法性建议，综合通用器乐教学经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用器乐教学经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

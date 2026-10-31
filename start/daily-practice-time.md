@@ -20,7 +20,7 @@ instances:
   - aria-000657 | 车尔尼「五个手指」：短小、明确、适合每日几分钟的经典练习 | Czerny's "Les cinq doigts" — short, clear, made for a few minutes a day
   - aria-000485 | 标题里的「渐进」就是答案：练习的难度如何逐周加码 | "Faciles et progressives" says it all — how difficulty steps up week by week
 sources:
-  - 本文为方法性建议，综合通用器乐教学经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用器乐教学经验整理，不涉及外部数据引用
   - 涉及的练习曲均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

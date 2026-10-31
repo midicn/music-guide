@@ -19,7 +19,7 @@ instances:
   - atepp-000179 | 德彪西的《快乐岛》（现场标记版） —— 现场录音混音时要保住的是"它是一次发生"，不是把它修得完美 | Debussy's L'isle joyeuse, marked as a live take — in live mixing the job is preserving "this happened", not perfecting it
   - pdmx-001370 | 一部康塔塔的记录 —— 早期录音的动态范围很大，母带的第一个决定往往是"让它到处都能放" | A recorded cantata — early recordings have wide dynamics, and the first mastering decision is usually "make it playable anywhere"
 sources:
-  - 本文为混音与母带工序职能的通识性介绍；具体技术标准、交付规格与平台要求不在本文范围
+  - 混音与母带工序职能的通识性介绍；具体技术标准、交付规格与平台要求不在这里展开
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-10-03
 ---

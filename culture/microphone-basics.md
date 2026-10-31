@@ -19,7 +19,7 @@ instances:
   - pdmx-000426 | 一部安魂曲的记录 —— 合唱团录音需要电容，因为气声细节在小动圈上会丢 | A recorded Requiem — choral recording needs condensers, because breath detail disappears on small dynamics
   - giantmidi-003561 | 一首钢琴作品 —— 指向性决定了它会收到房间里的哪一部分 | A piano piece — directionality decides which part of the room it hears
 sources:
-  - 本文为麦克风工作原理的通识性介绍；具体型号参数、测量方法与选购建议不在本文范围
+  - 麦克风工作原理的通识性介绍；具体型号参数、测量方法与选购建议不在这里展开
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-10-03
 ---
@@ -136,7 +136,7 @@ The practical consequence: the performer's facing changes the timbre. Same note,
 
 ## Listen: what distance changes
 
-Below is the same set of notes used in the other audiolabs on this site. **Imagine two takes: one almost touching (full, no space), one several metres off (less detail, obvious room). You will notice that what changes is space**, not pitch.
+Below is the same set of notes used in the other audiolabs. **Imagine two takes: one almost touching (full, no space), one several metres off (less detail, obvious room). You will notice that what changes is space**, not pitch.
 
 ```audiolab
 {"type":"scale","notes":["G3","C4","E4","G4","E4","C4"],"label":"One sound, two distances","label_en":"One sound, two distances","hint":"Imagine once close and once several metres away — what changes is space, not pitch","hint_en":"Imagine once close and once several metres away — what changes is space, not pitch"}

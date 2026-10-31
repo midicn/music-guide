@@ -20,7 +20,7 @@ instances:
   - giantmidi-004416 | 「简易小提琴独奏」：为练习者编的曲集是长青品类 | "Easy Violin Solos" — collections compiled for learners are an evergreen genre
   - giantmidi-005689 | 「简易前奏曲」：标题里的「简易」不是贬义，是精准的难度坐标 | "Easy Prelude" — "easy" is not faint praise but a precise difficulty coordinate
 sources:
-  - 本文为方法性建议，综合通用练琴工具使用经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用练琴工具使用经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

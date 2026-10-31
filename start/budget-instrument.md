@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-007138 | 任何预算都能从这里开始——一支竖笛、一支口琴就够 | Any budget can start here — a recorder or a harmonica is enough
   - essen-009677 | 旋律简单、音域不宽的曲目，是入门乐器最好的试金石 | Simple tunes with a narrow range are the best litmus test for a starter instrument
 sources:
-  - 本文为方法性建议，综合通用乐器消费经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用乐器消费经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

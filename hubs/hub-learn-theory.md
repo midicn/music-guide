@@ -88,7 +88,7 @@ First identify which layer you are after:
 |---|---|---|
 | "what is this mark on the page" | **notation** | theo + glossary |
 | "why a sharp here and not a flat" | **principle** | theo's key-signature and harmony parts |
-| "I know it — now what" | **usage** | this site's culture pages and tools |
+| "I know it — now what" | **usage** | the culture pages and tools |
 
 ## Where to read: by layer
 

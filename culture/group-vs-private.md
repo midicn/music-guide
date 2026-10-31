@@ -19,7 +19,7 @@ instances:
   - abcmisc-001367 | 一首同一社群的哈瓦那风格曲 —— 集体即兴里"谁领奏"是靠听出来的，不是看谱 | Hava Netze Bamachol — in group improvisation, who leads is heard, not read
   - norbeck-001677 | 一首爱尔兰传统曲的记录 —— 齐奏时所有人同起同落，误差无处可藏 | A recorded Irish trad tune — in unison everyone rises and falls together, with nowhere to hide error
 sources:
-  - 本文为两种课型功能差异的通识性说明；具体课程安排与收费结构因机构而异，不作比较
+  - 两种课型功能差异的通识性说明；具体课程安排与收费结构因机构而异，不作比较
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

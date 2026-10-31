@@ -70,7 +70,7 @@ updated: 2026-10-03
 :::
 
 ::: en
-"I want to learn music but do not know where to start" — this page gives you three routes. **Pick one; do not read all three.**
+"I want to learn music but do not know where to start" — three routes follow. **Pick one; do not read all three.**
 
 ## What you are trying to do here
 

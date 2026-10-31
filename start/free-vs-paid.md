@@ -20,7 +20,7 @@ instances:
   - giantmidi-005689 | 「简易」说的是难度，不是价值 | The word "easy" describes difficulty, not worth
   - mutopia-000796 | 福雷的《西西里舞曲》：名家小品也住在免费曲库里 | Fauré's Sicilienne — a master's miniature living in a free library
 sources:
-  - 本文为方法性建议，综合通用数字内容消费经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用数字内容消费经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

@@ -20,7 +20,7 @@ instances:
   - thesession-003379 | 一首叫「飞起来的手风琴」的传统曲 —— 移民把乐器带过了大西洋，也带走了原来的用法 | The Flying Accordion — migrants carried the instrument across the Atlantic, and its old use with it
   - aria-000645 | 一首十八世纪的羽管键琴奏鸣曲 —— 这件乐器在键盘上原本要接住的是教堂与宫廷的场合 | A 18th-century harpsichord sonata — what this instrument was built to project was church and court
 sources:
-  - 本文为乐器传播的通识性介绍；具体传播路径与年代在不同乐器上差异很大，仅举已知常见的几条
+  - 乐器传播的通识性介绍；具体传播路径与年代在不同乐器上差异很大，仅举已知常见的几条
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---
@@ -136,6 +136,6 @@ Below is a plain diatonic column, the kind a keyboard instrument gives you easil
 - One destination of migration: [[instrument:accordion|Accordion]].
 - Another route's destination: [[instrument:banjo|Banjo]].
 - How variation happens: [[concept:improvisation|Improvisation]].
-- A local adaptation in this site's instrument guide: [[instrument:guqin|Guqin]].
+- A local adaptation in the instrument guide: [[instrument:guqin|Guqin]].
 :::
 

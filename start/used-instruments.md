@@ -20,7 +20,7 @@ instances:
   - aria-000209 | 试琴曲目之二：练习曲检验每个音区的均匀度 | Try-out piece two — studies test evenness across the range
   - pdmx-000629 | 试琴曲目之三：带一段你喜欢的音乐——喜欢，才值得买 | Try-out piece three — bring music you love; love is part of the purchase
 sources:
-  - 本文为方法性建议，综合通用二手乐器交易经验整理，不涉及外部数据引用
+  - 方法性建议，综合通用二手乐器交易经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

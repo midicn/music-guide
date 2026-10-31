@@ -21,7 +21,7 @@ instances:
   - giantmidi-003459 | 古典作曲家写的爵士组曲：「爵士味」一出现，谁都会被它感染 | A jazz suite by a classical composer — once the flavour appears, everyone catches it
   - giantmidi-005959 | 标题等于哀叹：连拉格泰姆作曲家都挡不住爵士的蔓延 | The title is a lament — even ragtime composers could not stop jazz from spreading
 sources:
-  - 本文为方法性建议，综合通用爵士听赏导览整理，不涉及外部数据引用
+  - 方法性建议，综合通用爵士听赏导览整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

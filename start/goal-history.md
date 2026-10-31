@@ -20,7 +20,7 @@ instances:
   - m21-000599 | 文艺复兴的合唱：几个声部贴合、平等，听不出「谁主谁次」 | Renaissance polyphony — equal voices woven together, no one leading
   - m21-000000 | 巴赫的众赞歌：功能和声的教科书——巴洛克把「和声」变成了秩序 | A Bach chorale — the textbook of functional harmony, the Baroque turning harmony into order
 sources:
-  - 本文为方法性建议，综合通用音乐史导览整理，不涉及外部数据引用
+  - 方法性建议，综合通用音乐史导览整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

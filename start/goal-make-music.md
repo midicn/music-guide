@@ -21,7 +21,7 @@ instances:
   - giantmidi-005977 | 拉格泰姆小品：怎么把一段简单的素材组织成一首完整的小曲 | A ragtime miniature — how simple material is shaped into a complete little piece
   - atepp-006591 | 「无词歌」：没有歌词，它依然是一首完整的歌——成品感来自结构，不来自素材 | A "song without words" — completeness comes from structure, not from material
 sources:
-  - 本文为方法性建议，综合通用音乐创作教学实践整理，不涉及外部数据引用
+  - 方法性建议，综合通用音乐创作教学实践整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-28
 ---

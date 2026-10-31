@@ -19,7 +19,7 @@ instances:
   - aria-066771 | 舒伯特的对位练习曲 —— 练的不是技巧，是"同时想两件事" | Schubert's counterpoint exercises — what is trained is not technique but thinking two things at once
   - giantmidi-007594 | 一份十九世纪的钢琴教本 —— 老教材已经把"每天固定时段"写进结构里 | A 19th-century piano tutor — old tutors already baked "a fixed daily slot" into the structure
 sources:
-  - 本文为练习研究常见结论的通识性转述；不引用具体研究编号与统计数字，读者若需结论出处请查原始文献
+  - 练习研究常见结论的通识性转述；不引用具体研究编号与统计数字，读者若需结论出处请查原始文献
   - 涉及的曲目均标注来源与许可档位，可在线试听
 updated: 2026-09-29
 ---

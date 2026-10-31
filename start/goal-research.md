@@ -96,7 +96,7 @@ Two rows of data are enough. The same song, "Scarborough Fair", sits in one cata
 
 - Field recording is research on people — seek consent, explain the purpose, respect the community's say over the recordings;
 - Cite properly: attribute ideas and data honestly;
-- Check licences: before reusing scores or recordings, confirm permission — open licences (like the tiers in this site's dataset) smooth the way, but every item still needs a look.
+- Check licences: before reusing scores or recordings, confirm permission — open licences (like the tiers in the dataset) smooth the way, but every item still needs a look.
 
 ## The material at hand is bigger than you think
 
