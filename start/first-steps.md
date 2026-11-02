@@ -4,8 +4,8 @@ site: home
 cat: S1
 title: 从零开始学音乐，第一步做什么
 title_en: First Steps — Where to Begin with Music
-summary: 先定方向、选一条起跑线——这比先买乐器重要得多
-summary_en: Pick a direction and a starting line before buying anything — that is the real first step
+summary: 选择一段短音乐，从模仿、节拍与音高开始建立练习目标
+summary_en: Choose a short passage and set a goal using imitation, pulse and pitch
 level: standard
 tags: [入门, 起步, 自学]
 tags_en: [getting started, beginners, self-study]
@@ -17,102 +17,66 @@ links:
   - "[[instrument:piano]]"
 instances:
   - mutopia-000522 | 最常被当作「第一首曲子」的旋律：几乎全是级进，好哼好奏 | The melody most often used as a first piece — almost entirely stepwise, easy to hum and play
-  - cyberhymnal-007138 | 小星星的曲调：只用几个相邻的音构成，适合第一周「听结构」 | The "Twinkle" tune — built from a handful of adjacent notes, ideal for hearing structure in week one
+  - wikifonia-000335 | 《小星星》曲调，可跟随重复音与跳进 | Twinkle melody, for following repeated notes and leaps
   - pdmx-002163 | 你已经会唱的旋律：把「听—唱—奏」串起来的第一步 | A melody you already know by heart — the first link from listening to singing to playing
 sources:
   - 方法性建议，综合通用教学实践整理，不涉及外部数据引用
   - 涉及的旋律均标注来源与许可档位，可在线试听
-updated: 2026-09-28
+updated: 2026-11-02
 ---
 
 ::: zh
-想学音乐，但不知道从哪开始——这不是你一个人的问题。「学音乐」三个字装下了太多不同的东西：有人想弹一首曲子，有人想听懂交响乐，有人想写出自己的歌。**门不同，第一步就不同。**
+先选一个可以完成的小目标：听出一首短曲的段落、弹一段旋律，或在软件里写出八小节。目标不同，需要的知识与练习也不同。
 
-## 先定方向：你要的是哪一种
+## 今天可以怎样开始
 
-- **想「听懂」**：第一步不是背知识，是**带问题地听**。挑一首熟悉的曲子，连听三遍，每遍只关注一件事——旋律往哪里走、节奏怎么动、情绪在哪里变。零成本、零设备，现在就能开始。
-- **想「上手弹唱」**：第一步是碰一次真乐器——借的、租的、琴行里试的，都比先下单买一台靠谱。先确认手碰到它的感觉，再谈买。
-- 想「写歌/做音乐」：第一步是拆一首歌。找一首结构简单的曲子，数清楚它用了几个和弦、段落怎么分。
+- **听赏**：选一首熟悉的短曲，记录旋律再次出现的位置。第二遍跟随低音或鼓，比较两次记录。
+- **演奏**：选手边可用的乐器，先确认调音与基本发声，再学两小节。遇到动作问题，找教师或可靠教程核对。
+- **创作**：用键盘或软件写四到八小节，先只决定音高、节奏与句尾，再增加其他声部。
 
-方向定不下来？先用两周只听。 听是三条路共用的地基，而且它不要求你任何投入。
+没有确定方向时，可以分别试做以上任务，记录最想继续的一项，不必先购买完整器材或同时报名多种课程。
 
-## 第一条起跑线：今天就能做的三件事
+## 用一个短句检查进度
 
-1. 带问题听一首曲子（用上面的三遍法）。听完能说出「哪里变了」，就算合格。
-2. 碰一次乐器：琴行、朋友的吉他、手机里的键盘应用都行。目标是消除「乐器很陌生」的感觉。
-3. 把十分钟写进日历：不是「以后每天练」，而是今天几点到几点，写死。
+把目标写成可复查的动作，例如“以稳定拍点连续弹两遍前两小节”，而不是“把钢琴练好”。开始前录一次，练习后再录一次，比较具体差别。若速度和音符还无法兼顾，缩小片段或降低速度。
 
-起步阶段最大的敌人不是难度，是「再说吧」。
-
-## 为什么不该先买齐装备
-
-买装备是最像努力的一种准备工作：挑选、比较、下单，每一步都有进度感。但它和「会音乐」之间隔着的，是练习。
-
-更实际的问题是——第一件装备往往不是最后一件：手感、音色、方向，都会在三个月内改变你的偏好。先用最小的设备开始：身边的、借来的、租来的。让「什么值得买」这个问题晚一点回答，由真实的练习来回答。
-
-## 常见的第一步错误
-
-- 一上来报一个很大的课包：先上一两节试课，确认老师和你说的是同一种语言。
-- 同时铺开三件事（乐理、乐器、编曲）：选一个做主项，其余先当爱好。
-- 等「准备好了」再开始：没有那一天。用手边已有的东西开始，就是最好的准备。
-
-## 听一听：一条音阶
-
-这段音阶是绝大多数旋律的原材料。先听上行，再听下行——起步阶段的「音乐」，就是这些相邻的音在走台阶。等耳朵能跟上台阶，再回头看曲子，它就不再神秘了。
+听音阶时，可以先数音的数量，再哼唱其中两三个音，不必立即记住所有术语。
 
 ```audiolab
-{"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"C 大调音阶：音乐最基础的一条阶梯","label_en":"C major scale — music's most basic ladder","hint":"先听上行，再听下行，最后听它们「一起响」","hint_en":"Hear it up, then down, then all together"}
+{"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"C大调：八个依次排列的音","label_en":"C major — eight notes in sequence","hint":"先听上行，再听下行，最后听它们「一起响」","hint_en":"Hear it up, then down, then all together"}
 ```
 
-## 下一步
+## 决定下一步
 
-- 先把「音」这件事弄明白：从 [[concept:pitch|音高]] 开始。
-- 想先挑一件乐器：看看 [[instrument:piano|钢琴]] 与 [[instrument:violin|小提琴]] 的第一印象。
-- 已经想动手练了：[[concept:practice-method|练习方法]] 讲清了「练什么才有效」。
+如果主要困难是看谱，可从 [[concept:pitch|音高]]与读谱开始；如果是不知道怎样安排练习，读 [[concept:practice-method|练习方法]]。器材方面先确认实际需要的音域、功能和使用场所，再比较借用、租赁或购买。
+
+一周后回看记录：哪些内容能独立完成，哪些还需要示范？据此调整目标，不用把完成同一首曲子的速度当作人与人之间的排名。
 :::
 
 ::: en
-You want to learn music and have no idea where to start. That is not a personal failing — the phrase "learn music" bundles together very different goals. One person wants to play a piece; another wants to understand a symphony; a third wants to write songs. **Different doors lead to different first steps.**
+Choose a small, finishable goal: recognising sections in a short piece, playing a melody, or writing eight bars in software. Different goals call for different knowledge and practice.
 
-## Pick a door first
+## A task for today
 
-- **To understand what you hear**: your first step is not knowledge, it is **listening with questions**. Take a piece you know and play it three times, each time watching one thing only — where the melody moves, how the rhythm drives, where the mood shifts. No cost, no gear, start tonight.
-- **To play or sing**: your first step is to touch a real instrument — borrowed, rented, or tried at a shop — before ordering one. Test how it feels in your hands, then talk about buying.
-- To write or produce: your first step is to take one song apart — pick something simple and count its chords and sections.
+- **Listening**: mark where a familiar short tune returns. On a second pass, follow bass or drums and compare your notes.
+- **Playing**: use an available instrument, check tuning and basic tone production, then work on two bars. Check unfamiliar movements with a teacher or reliable tutorial.
+- **Creating**: write four to eight bars using a keyboard or software. Decide pitches, rhythm and the ending before adding more parts.
 
-Can't choose? Spend two weeks just listening. Listening is the shared foundation of all three paths, and it asks nothing of your wallet.
+If undecided, try each task and note which one you want to continue. A complete equipment purchase or several courses need not come first.
 
-## Your first starting line: three things for today
+## Checking a short passage
 
-1. Listen to one piece with questions (the three-pass method above). If you can say "this is where it changed", you have done it right.
-2. Touch an instrument once — a shop, a friend's guitar, a keyboard app on your phone. The goal is to remove the strangeness.
-3. Put ten minutes in your calendar — not "I will practise daily someday", but a specific slot today.
+State the goal as an observable action: “play the opening two bars twice with a steady pulse,” rather than “get good at piano.” Record before and after practice, then compare a specific feature. If notes and timing cannot yet be coordinated, shorten the passage or reduce the tempo.
 
-The biggest obstacle at the start is not difficulty. It is "later".
-
-## Why not to buy everything first
-
-Shopping for gear feels like effort: comparing, choosing, ordering — every click feels like progress. But between the gear and the music lies practice.
-
-The practical problem is that your first instrument is rarely your last: your hands, ears and direction all change within three months. Start with the smallest setup — what you already own, what you can borrow, what you can rent. Let real practice answer the question of what to buy.
-
-## Common first-step mistakes
-
-- Buying a big lesson package up front — take one or two trial lessons first and check that you and the teacher speak the same language.
-- Opening three fronts at once (theory, instrument, production) — pick one as the main project and keep the rest as hobbies.
-- Waiting to be "ready" — that day never comes. Starting with what you already have is the preparation.
-
-## Listen: one scale
-
-This scale is the raw material of most melodies. Play it upward, then downward — at the beginning, music is just neighbouring notes walking up and down a staircase. Once your ear can follow the steps, the music stops feeling mysterious.
+With a scale, first count the notes and sing two or three back. Learning every term at once is unnecessary.
 
 ```audiolab
-{"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"C 大调音阶：音乐最基础的一条阶梯","label_en":"C major scale — music's most basic ladder","hint":"先听上行，再听下行，最后听它们「一起响」","hint_en":"Hear it up, then down, then all together"}
+{"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"C大调：八个依次排列的音","label_en":"C major — eight notes in sequence","hint":"先听上行，再听下行，最后听它们「一起响」","hint_en":"Hear it up, then down, then all together"}
 ```
 
-## Next
+## Choosing the next step
 
-- Get clear on what a note really is: start from [[concept:pitch|pitch]].
-- Choosing your first instrument: meet the [[instrument:piano|piano]] and the [[instrument:violin|violin]].
-- Ready to practise: [[concept:practice-method|How to Practise]] explains what actually works.
+For notation, begin with [[concept:pitch|Pitch]] and reading. For organising the work, consult [[concept:practice-method|Practice Methods]]. Before comparing borrowing, rental or purchase, establish the range, functions and practice space you actually need.
+
+Review your notes after a week: what can you now do independently, and what still needs a demonstration? Adjust the goal accordingly rather than ranking learners by how quickly they complete one piece.
 :::

@@ -5,11 +5,11 @@
       "href": "path-listen/",
       "zh": {
         "t": "我想听懂音乐",
-        "d": "不学乐器也行：从听到的结构、体裁与风格开始，先建立耳朵的判断。"
+        "d": "从旋律、节奏与结构开始听赏。"
       },
       "en": {
         "t": "I want to understand what I hear",
-        "d": "No instrument needed: start from form, genre and style, and build judgement by ear."
+        "d": "Follow melody, rhythm and form."
       }
     },
     {
@@ -17,11 +17,11 @@
       "href": "path-instrument/",
       "zh": {
         "t": "我想学一件乐器",
-        "d": "从选琴、第一次发声到能完整弹一首，按你的时间和预算铺路。"
+        "d": "了解乐器、基本发声与练习方法。"
       },
       "en": {
         "t": "I want to learn an instrument",
-        "d": "From choosing one and the first sound to playing a whole piece, paced to your time and budget."
+        "d": "Explore instruments, tone production and practice."
       }
     },
     {
@@ -29,11 +29,11 @@
       "href": "path-write/",
       "zh": {
         "t": "我想写一首歌",
-        "d": "旋律、和声、歌词与结构，从一句动机到能交付的 Demo。"
+        "d": "学习旋律、和声、歌词与歌曲结构。"
       },
       "en": {
         "t": "I want to write a song",
-        "d": "Melody, harmony, lyrics and form, from a one-bar idea to a deliverable demo."
+        "d": "Study melody, harmony, lyrics and song form."
       }
     },
     {
@@ -41,11 +41,11 @@
       "href": "path-score/",
       "zh": {
         "t": "我想给视频或游戏配乐",
-        "d": "贴片、情绪曲线、交互分层与交付格式，按画面而不是按小节写。"
+        "d": "查找画面同步、交互配乐与交付方法。"
       },
       "en": {
         "t": "I want to score film or games",
-        "d": "Sync, emotional arc, interactive layers and delivery formats, written to picture rather than bars."
+        "d": "Find scoring, synchronisation and delivery methods."
       }
     },
     {
@@ -53,11 +53,11 @@
       "href": "path-ai/",
       "zh": {
         "t": "我想用 AI 做音乐",
-        "d": "工具选型、提示词、可控性与权利边界，把生成结果变成能交付的成品。"
+        "d": "核对工具能力、生成流程与使用条件。"
       },
       "en": {
         "t": "I want to make music with AI",
-        "d": "Tool choice, prompting, control and rights, turning generations into deliverables."
+        "d": "Check tools, generation workflows and terms."
       }
     },
     {
@@ -65,11 +65,11 @@
       "href": "path-finish/",
       "zh": {
         "t": "我想修复、混音或交付",
-        "d": "录音到母带的最后一公里：修、混、母带、分轨与响度标准。"
+        "d": "查录音修复、混音、母带与文件交付。"
       },
       "en": {
         "t": "I want to fix, mix or deliver",
-        "d": "The last mile from recording to master: repair, mix, master, stems and loudness standards."
+        "d": "Find repair, mixing, mastering and delivery topics."
       }
     }
   ],
@@ -79,11 +79,11 @@
       "href": "level-zero/",
       "zh": {
         "t": "零基础",
-        "d": "没有乐器经验，也读不懂谱。先建立听觉词汇，别急着买设备。"
+        "d": "从声音、节拍与基本记号开始。"
       },
       "en": {
         "t": "Starting from zero",
-        "d": "No instrument, no notation. Build listening vocabulary first; do not buy gear yet."
+        "d": "Begin with sound, pulse and basic notation."
       }
     },
     {
@@ -91,11 +91,11 @@
       "href": "level-instrument/",
       "zh": {
         "t": "会一点乐器",
-        "d": "能弹几首、看得懂简单谱。把零散的手上功夫接上乐理与曲目。"
+        "d": "结合已有曲目学习技巧与乐理。"
       },
       "en": {
         "t": "I play a little",
-        "d": "A few pieces and simple notation. Connect technique to theory and repertoire."
+        "d": "Connect existing repertoire with technique and theory."
       }
     },
     {
@@ -103,11 +103,11 @@
       "href": "level-writer/",
       "zh": {
         "t": "能写歌或编曲",
-        "d": "有作品，但混音与交付不稳。补齐制作链与判断标准。"
+        "d": "查找编曲、混音与制作衔接方法。"
       },
       "en": {
         "t": "I write or arrange",
-        "d": "You finish songs, but mixing and delivery wobble. Fill in the production chain and standards."
+        "d": "Explore arranging, mixing and production workflows."
       }
     },
     {
@@ -115,11 +115,11 @@
       "href": "level-pro/",
       "zh": {
         "t": "职业或半职业",
-        "d": "靠音乐接活。按项目类型找工具档案、交付规范与客户流程。"
+        "d": "按项目查工具、版本管理与交付要求。"
       },
       "en": {
         "t": "Professional or semi-pro",
-        "d": "You take paid work. Go straight to tool profiles, delivery specs and client workflow."
+        "d": "Find tools, version management and delivery requirements."
       }
     }
   ],

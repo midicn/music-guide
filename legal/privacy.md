@@ -4,118 +4,72 @@ site: home
 cat: LEGAL
 title: 隐私政策
 title_en: Privacy Policy
-summary: 我们不收集你的个人数据；本地偏好只存在你自己的浏览器里
-summary_en: We collect no personal data; local preferences stay in your browser
+summary: "托管请求、浏览器偏好、播放文件与 Google 广告的数据处理说明"
+summary_en: "Hosting requests, browser preferences, playback files and Google advertising"
 level: page
 tags: [法律, 隐私]
 tags_en: [legal, privacy]
 alias: [Privacy, 隐私, 数据收集]
 order: 92
-updated: 2026-09-23
+updated: 2026-11-02
 sources:
+  - "https://support.google.com/adsense/answer/13554020"
+  - "https://policies.google.com/technologies/partner-sites"
   - 本站自订政策，据实描述这里的实际技术行为
 ---
 
 ::: zh
-## 一句话
+## 网站与托管
 
-**本站不收集、不存储、不分享你的任何个人数据。** 没有账号、没有表单、没有追踪脚本、没有分析工具。
+midicn 提供公开的音乐知识、MIDI 与音色目录，无需注册账号。浏览页面、下载文件和播放谱例会向托管服务发送普通网络请求，包括 IP 地址、请求地址和浏览器信息；托管方可能保留访问日志。
 
-## 本站会做什么
+## 偏好与本地文件
 
-### 1. 本地偏好（只存在你自己的浏览器里）
+主题和语言选择保存在浏览器的 `localStorage` 中，并通过 `midicn-theme`、`midicn-lang` Cookie 在 `.midicn.com` 分站间同步。Cookie 随相应域名的请求发送，不应视为“从不离开浏览器”的数据。
 
-为了记住你的选择，本站会使用浏览器的 `localStorage` 存两项内容：
-
-| 键 | 内容 | 用途 |
-|---|---|---|
-| `midicn-theme` | `dark` 或 `light` | 记住你的明暗主题选择 |
-| `midicn-lang` | `zh` 或 `en` | 记住你的语言选择（决定下次是否自动切换语言） |
-
-**这两项数据不会发送到任何服务器** —— 它们只存在于你的浏览器本地。清除浏览器数据即可删除。
-
-### 2. 第三方请求（技术必需）
-
-本站是静态站点，但有两类资源来自我们自己的另一个子域：
-
-- **音频引擎**：从 `lib.midicn.com` 加载 Tone.js / Midi.js（用于播放示例）
-- **曲目文件**：点击播放时，从 `lib.midicn.com` 读取对应的 MIDI 文件
-
-这些都是我们自己的域名，不涉及任何第三方公司。但作为标准的网络请求，对方服务器（GitHub Pages）会记录请求 IP —— 这与其他任何网站加载图片的行为相同。
-
-本站不含：Google Analytics、百度统计、任何广告追踪、任何社交插件、任何外部 CDN（字体、图标全部内置）。
+播放器还可能保存音量、播放设置及缓存。选择本地 SoundFont 时，播放器在浏览器中读取文件，不把该文件上传到本站。你可以在浏览器中清除站点数据和 Cookie；这也会重置相关偏好。
 
 ## 广告
 
-本站目前不投放广告。 若未来引入广告，本页会提前更新，说明广告来源、是否会使用 Cookie，以及如何选择退出。
+页脚接入 Google AdSense。广告加载时，浏览器会向 Google 发送页面地址、IP 地址等信息；Google 可能读取或设置 Cookie，并按地区、你的选择及账号设置处理信息，用于广告展示、衡量与反滥用。
 
-## 儿童
+具体说明见 [Google 如何使用合作伙伴网站的信息](https://policies.google.com/technologies/partner-sites)。可以通过 [Google 广告设置](https://adssettings.google.com/)管理个性化广告；关闭个性化不等于停止所有广告请求。
 
-本站不面向儿童收集任何信息（因为不收集任何信息）。若家长发现任何不妥内容，欢迎指出。
+若页面提供同意消息，请按消息选择、调整或撤回同意。浏览器也可以限制第三方 Cookie。屏蔽广告不会影响本站正文的基本阅读。
 
-## 你的权利
+## 播放与外部链接
 
-由于本站不收集个人数据，不存在需要"删除"或"导出"的数据。你随时可以通过清除浏览器数据移除本地偏好。
+播放可能从本站其他分站读取音频引擎、MIDI 和 SoundFont。点击外站链接后，对方的隐私规则适用。本站没有接入独立的 Google Analytics 或社交登录。
 
-## 变更
+## 联系与更新
 
-本政策若更新，会替换本页并注明日期。我们不会在未更新的情况下改变数据处理方式。
-
-## 联系
-
-对隐私有疑问：请通过 [GitHub 仓库](https://github.com/midicn) 提交 issue。
-
-> 本页为通俗表述，不构成法律意见。
+如需反馈隐私问题，可到 [项目反馈页](https://github.com/midicn/home/issues)提交问题，请勿公开提交敏感个人资料。本页随实际功能更新，页面顶部注明修订日期。
 :::
 
 ::: en
-## In one sentence
+## Website and hosting
 
-**This site collects, stores and shares none of your personal data.** No accounts, no forms, no trackers, no analytics.
+midicn offers public music articles, MIDI resources and a SoundFont directory without registration. Page views, downloads and playback send ordinary network requests to hosting services, including the IP address, requested URL and browser information. Hosting providers may retain access logs.
 
-## What this site actually does
+## Preferences and local files
 
-### 1. Local preferences (in your browser only)
+Theme and language choices use browser `localStorage`. The `midicn-theme` and `midicn-lang` cookies also synchronise these choices across `.midicn.com`. Those cookies accompany requests to that domain; they do not remain exclusively inside the browser.
 
-To remember your choices, the site uses the browser's `localStorage` for two items:
-
-| Key | Value | Purpose |
-|---|---|---|
-| `midicn-theme` | `dark` or `light` | Remember your light/dark choice |
-| `midicn-lang` | `zh` or `en` | Remember your language choice (controls whether we auto-switch next time) |
-
-**Neither is sent to any server** — they live in your browser. Clearing browser data removes them.
-
-### 2. Third-party requests (technically necessary)
-
-This is a static site, but two kinds of resource come from another of our own subdomains:
-
-- **Audio engine**: Tone.js / Midi.js loaded from `lib.midicn.com` (used to play examples)
-- **Track files**: when you press play, the corresponding MIDI file is fetched from `lib.midicn.com`
-
-Both are our own domains — no third-party companies are involved. As with any web request, the serving host (GitHub Pages) will log the requesting IP address, exactly as any site logs requests for its images.
-
-This site contains no Google Analytics, no ad trackers, no social plugins, and no external CDNs (fonts and icons are all bundled locally).
+Players may retain volume, playback settings and caches. A SoundFont selected from your device is read in the browser rather than uploaded to this site. Clearing site data and cookies removes associated preferences and caches.
 
 ## Advertising
 
-There is no advertising on this site today. If advertising is ever introduced, this page will be updated first, stating the source, whether cookies are used, and how to opt out.
+The footer uses Google AdSense. When an ad loads, the browser sends Google information such as the page URL and IP address. Google may read or set cookies and process information for ad delivery, measurement and abuse prevention, subject to region, your choices and account settings.
 
-## Children
+See [how Google uses information from partner sites](https://policies.google.com/technologies/partner-sites). [Google Ad Settings](https://adssettings.google.com/) provides controls for ad personalisation. Turning personalisation off does not stop every advertising request.
 
-We do not collect information from children — because we collect no information at all. If a parent spots anything unsuitable, please tell us.
+Where a consent message is provided, use it to make, change or withdraw your choice. Browser settings can also restrict third-party cookies. Blocking ads does not prevent basic reading of site articles.
 
-## Your rights
+## Playback and external links
 
-Since no personal data is collected, there is nothing to delete or export. You can remove the local preferences at any time by clearing your browser data.
+Playback may retrieve engines, MIDI files and SoundFonts from other midicn subdomains. Following an external link brings that provider's privacy rules into effect. No separate Google Analytics integration or social login is installed.
 
-## Changes
+## Contact and changes
 
-If this policy changes, the revised version replaces this page and is dated. We will not change our data practices without updating this page.
-
-## Contact
-
-Privacy questions: open an issue on our [GitHub repository](https://github.com/midicn).
-
-> This page is a plain-language summary, not legal advice.
+Use the [project issue page](https://github.com/midicn/home/issues) for privacy questions, without posting sensitive personal information publicly. This page is revised when site behaviour changes; its revision date appears above.
 :::

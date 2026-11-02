@@ -11,142 +11,43 @@ tags: [法律, 免责]
 tags_en: [legal, disclaimer]
 alias: [Disclaimer, 免责]
 order: 93
-updated: 2026-09-23
+updated: 2026-11-02
 sources:
   - 本站自订声明，据实描述本站内容的性质与边界
 ---
 
 ::: zh
-## 内容性质
+## 阅读与练习
 
-本站是**通识性的音乐知识科普内容**。它不是教材、不是课程、不是学位教育，也不替代任何形式的专业教学。
+本站用于音乐学习和资料查阅。文章中的听辨、参数和练习是具体条件下的说明或示例，不保证对所有风格、设备和学习者都适用。
 
-具体来说，这里的说明**不构成**：
+MIDI 记录演奏事件，不是原始录音。浏览器音源、音色、播放速度与设备会改变试听结果。涉及录音、混音或音频算法的比较，应使用相同音频素材、匹配电平及受控设置；普通 MIDI 试听不能证明某种处理算法的优劣。
 
-- **音乐教学建议** —— 学琴、练声、报考、考级请找专业教师
-- **法律意见** —— 版权、授权、合同请咨询律师
-- 医疗或健康建议 —— 听力保护、嗓音问题、练习损伤请就医
-- 职业或商业建议 —— 从业、投资、合作请自行判断
+## 信息与来源
 
-## 准确性的边界
+人名、年代、作品号、设备功能和外站信息可能变更或有误。发现疑点时，请核对引用来源；用于正式出版、演出、商业交付或研究时，应另行确认所需事实和授权。
 
-我们尽力做到准确：
+外站内容由其提供方负责。页脚广告与正文分开，广告展示不代表本站认可其产品、服务或说法。
 
-- 每条知识条目末尾列出事实来源
-- 数字与结论尽量给出依据
-- 不确定的信息留空，不写猜测
+## 更正
 
-但仍需说明：
-
-- 本站不保证内容完全无误（发现错误欢迎指出，我们会更正）
-- 音乐史与音乐学中若干问题学界本身有分歧，我们会注明，但不代为裁决
-- 部分内容涉及听觉描述（如"这个和弦听起来如何"），这类描述必然带有主观性
-
-## 曲目与许可
-
-关键一条：本站页面上的每一首可播曲目，都来自 [midicn-lib](https://lib.midicn.com/) 数据集，并标注了许可档位：
-
-| 档位 | 含义 |
-|---|---|
-| **C1** | 可商用（PD / CC0 / CC BY / CC BY-SA / OPEN 等） |
-| **C2** | 非商业（CC BY-NC-SA） |
-| **C3** | 仅限学习研究 |
-
-判断某首曲目的使用条件时，请以其标注的档位为准，并以 midicn-lib 的台账为最终依据 ——
-本站在转录过程中可能出现标注误差，台账才是权威。
-
-本站引用这些曲目不改变其原有许可。
-
-## 音频示例
-
-页面上的听辨演示（音程、和弦、节奏等）由浏览器实时合成，用于说明概念，不是任何特定演奏的录音，也不代表某部作品的实际演奏效果。
-
-## 外部链接
-
-本站可能链向外部网站（如 IMSLP、维基百科、作曲家官网）。我们对这些站点的内容、可用性与隐私做法不承担责任。
-
-## 语言版本
-
-本站提供中文与英文两个版本。中文版为内容基准；若两种语言在事实、数字或表述上出现不一致，以中文版为准。英文版是面向国际读者的重述，不是逐句翻译。
-
-## 中国相关内容的表述
-
-涉及中国音乐、地理与民族的内容，本站依中国官方立场表述（例如一律写作「中国台湾」「中国香港」「中国澳门」）。
-
-## 变更
-
-本声明若更新，会替换本页并注明日期。
-
-## 联系
-
-发现错误或有疑问：请通过 [GitHub 仓库](https://github.com/midicn) 提交 issue。
-
-> 本页为通俗表述，不构成法律意见。
+请通过[项目反馈页](https://github.com/midicn/home/issues)指出具体页面、原句和核验依据。曲目与音色的数据边界另见[数据免责声明](../data/disclaimer/)。
 :::
 
 ::: en
-## What this content is
+## Reading and practice
 
-This is **general-interest music education content**. It is not a textbook, not a course, and not a substitute for formal instruction.
+This site supports music study and reference. Listening tasks, settings and exercises describe particular conditions or examples; they do not apply identically to every style, device or learner.
 
-Specifically, nothing here constitutes:
+MIDI contains performance events, not the original recording. SoundFonts, playback speed, browser engines and devices can change the result. Comparisons of recording, mixing or audio algorithms need the same audio source, matched levels and controlled settings. Ordinary MIDI playback cannot establish which processing algorithm is better.
 
-- **Music teaching advice** — for lessons, auditions, exams, consult a qualified teacher
-- **Legal advice** — for copyright, licensing or contracts, consult a lawyer
-- **Medical or health advice** — for hearing protection, vocal issues or practice injuries, see a doctor
-- Professional or business advice — for career and commercial decisions, judge for yourself
+## Information and sources
 
-## Limits of accuracy
+Names, dates, catalogue references, product features and external-site information may change or contain errors. Check cited sources where needed. Confirm facts and permissions separately for formal publication, performance, commercial delivery or research.
 
-We try hard to be accurate:
+External content remains the provider's responsibility. Footer advertising is separated from editorial content and does not constitute endorsement of an advertised product, service or claim.
 
-- Every knowledge entry lists its sources
-- Figures and conclusions are given with their basis where possible
-- When something is uncertain, we leave it blank rather than guess
+## Corrections
 
-Still, to be explicit:
-
-- We do not warrant that the content is free of error (tell us and we will correct it)
-- Several questions in music history and musicology are genuinely disputed; we note the disagreement rather than settle it
-- Some content describes what things sound like, and such descriptions are inherently subjective
-
-## Tracks and licensing
-
-One key point: every playable track on this site comes from the [midicn-lib](https://lib.midicn.com/) dataset and carries a licence tier:
-
-| Tier | Meaning |
-|---|---|
-| **C1** | Commercial use permitted (PD / CC0 / CC BY / CC BY-SA / OPEN, etc.) |
-| **C2** | Non-commercial (CC BY-NC-SA) |
-| **C3** | Study and research only |
-
-**When assessing what you may do with a track, rely on the tier shown, and on the midicn-lib ledger as the final authority** — transcription errors are possible on our side, and the ledger governs.
-
-Referencing these tracks here does not alter their original licences.
-
-## Audio examples
-
-The listening demos on these pages (intervals, chords, rhythms) are synthesised in your browser to illustrate a concept. They are not recordings of any particular performance, nor do they represent how a given work is actually played.
-
-## External links
-
-We may link to external sites (IMSLP, Wikipedia, composers' own pages). We are not responsible for their content, availability or privacy practices.
-
-## Language versions
-
-This site is published in Chinese and English. The Chinese version is the base text: where the two disagree on facts, figures or wording, Chinese governs. The English version is a restatement for international readers, not a literal translation.
-
-## Statements about China
-
-Content concerning China's music, geography and ethnic groups follows the official position of the People's Republic of China (for example, we write "Taiwan, China", "Hong Kong, China" and "Macao, China").
-
-## Changes
-
-If this disclaimer changes, the revised version replaces this page and is dated.
-
-## Contact
-
-For corrections or questions, open an issue on our [GitHub repository](https://github.com/midicn).
-
-> This page is a plain-language summary, not legal advice.
+Use the [project issue page](https://github.com/midicn/home/issues) to identify a page, disputed wording and supporting evidence. See the [data disclaimer](../data/disclaimer/) for music and SoundFont data limitations.
 :::

@@ -22,75 +22,65 @@ instances:
 sources:
   - 方法性建议，综合通用乐器消费经验整理，不涉及外部数据引用
   - 涉及的曲目均标注来源与许可档位，可在线试听
-updated: 2026-09-28
+updated: 2026-11-02
 ---
 
 ::: zh
-「预算多少能开始学音乐？」——先换一个问法：**同样的钱，怎么分配最不容易浪费？**
+乐器预算应覆盖开始练习所需的整套条件，而不只是乐器的标价。可以先列出已有设备、需要补齐的物品和持续支出，再比较购买、租用或借用。
 
-## 按档位划分的三条路
+## 把费用分开列
 
-- **几十到几百元档（立刻开始档）**：口琴、竖笛、尤克里里。特点是「今天下单、明天出声」。它们不是玩具——曲目、教材、社群都成熟，玩两三年再换也不亏。
-- **几百到几千元档（陪你三五年档）**：吉他、电钢琴、多数民族乐器、入门管乐。这一档要花一点心思挑（手感与音准），但一旦选对，能陪你走到中高级。
-- **万元以上档（先租后买档）**：声学钢琴、专业级弦乐器。这一档的第一条建议是「先别买」——先租、先借、先用琴房的琴，把方向确定下来再花钱。
+| 项目 | 需要问清的问题 |
+|---|---|
+| 乐器与设置 | 价格是否包含调试、必要维修或首次保养？ |
+| 配件 | 是否还需支架、琴盒、琴弦、吹嘴、踏板或监听设备？ |
+| 使用场所 | 能否在家使用？是否要另外支付琴房、运输或存放费用？ |
+| 后续维护 | 耗材、调律和保养怎样计费，由谁提供服务？ |
+| 学习支持 | 课程、教材与练习场地怎样取得？ |
 
-## 预算里最容易漏算的三笔钱
+这些支出不能用统一的琴价百分比估算。键盘、管乐、弦乐及打击乐所需配套不同，同类乐器也会因状态、售后和所在地区而异。
 
-1. 配件：琴弦、松香、背带、调音器、节拍器——通常是琴价的 5%–15%；
-2. 维护：钢琴调律（每年一两次）、管乐保养、弦乐换弦——是持续支出；
-3. 学费：如果你想上课，课时费很快就会超过乐器钱——把它算进总预算，乐器预算自然会更理性。
+## 比较几种开始方式
 
-## 两条花钱原则
+购买便于持续使用，但应把售后与维护列入比较。租赁或借用可以减少最初投入，不过要确认押金、租期、维修责任和归还条件。使用学校、社区或琴房设备时，还要考虑可预约时段与通勤。
 
-- 买你预算内「手感可靠」的，不买「最便宜」的。劣质乐器会把「难」伪装成「你没天赋」。
-- 第一件乐器优先租或借。方向确定前的任何贵价购买，都是在赌。
+先选一首想学的短曲或一个具体演奏目标，再请教师判断器材是否适用。便宜不必然难用，昂贵也不能代替合适的设置与练习。
 
-## 听一听：一支便宜乐器也能走完的旋律
-
-下面这段旋律音域窄、跳进小——它是无数入门乐器的第一课。选乐器时不妨拿它当标尺：它在你想买的乐器上能不能舒服地演奏？
+## 用短旋律试一试
 
 ```audiolab
-{"type":"scale","notes":["C4","C4","G4","G4","A4","A4","G4","F4","F4","E4","E4","D4","D4","C4"],"label":"《小星星》开头：入门乐器的通用第一课","label_en":"The opening of Twinkle — every starter instrument's first lesson","hint":"听一遍，想象它在口琴、竖笛、尤克里里上的样子","hint_en":"Hear it, and picture it on a harmonica, a recorder, a ukulele"}
+{"type":"scale","notes":["C4","C4","G4","G4","A4","A4","G4","F4","F4","E4","E4","D4","D4","C4"],"label":"《小星星》短旋律","label_en":"Short Twinkle melody","hint":"留意重复音与跳进，再核对所选乐器的音域和指法。","hint_en":"Notice repeated notes and leaps, then check the chosen instrument’s range and fingering."}
 ```
 
-## 下一步
-
-- 认识「立刻开始档」的两件：[[instrument:ukulele|尤克里里]] 与 [[instrument:harmonica|口琴]]。
-- 买完之后怎么练：[[concept:practice-method|练习方法]]。
-- 学琴的总成本怎么规划，可以对照前面「每天该练多久」里的时间账。
+这段旋律用于观察重复音和跳进；它不是所有乐器的统一入门标准。对照 [[instrument:ukulele|尤克里里]]、[[instrument:harmonica|口琴]]或自己感兴趣的乐器，确认音域、指法与教材，再安排预算。
 :::
 
 ::: en
-"How much do I need to spend to start learning music?" Try a different question first: **with the money I have, how do I allocate it so the least of it is wasted?**
+Budget for the conditions needed to practise, not just the instrument's sticker price. List what you already have, what must be added and the recurring costs before comparing purchase, rental or borrowing.
 
-## Three lanes by budget
+## Separate the costs
 
-- **Tens to low hundreds (start-today lane)**: harmonica, recorder, ukulele. The character of this lane is "order today, sound tomorrow". They are not toys — repertoire, methods and communities are all mature; two or three years on one is no loss at all.
-- **Hundreds to a few thousand (stays-with-you lane)**: guitars, digital pianos, most folk instruments, starter winds. This lane deserves some care (feel and intonation), but pick well and it can carry you into the intermediate years.
-- **Five figures and up (rent-before-buy lane)**: acoustic pianos, professional-grade strings. The first recommendation in this lane is "not yet" — rent, borrow, use the practice-room instrument, and only pay when the direction is settled.
+| Item | Questions to ask |
+|---|---|
+| Instrument and setup | Are adjustment, repairs or initial servicing included? |
+| Accessories | Are a stand, case, strings, mouthpiece, pedals or monitoring also needed? |
+| Place to practise | Can it be used at home, or will room hire, transport or storage cost extra? |
+| Maintenance | What consumables and servicing are needed, who provides them and how are they charged? |
+| Learning support | How will you obtain lessons, materials and practice facilities? |
 
-## Three costs budgets forget
+A single percentage of the instrument price cannot estimate all of these. Keyboards, wind instruments, strings and percussion need different provisions, and condition, support and location matter even within one category.
 
-1. Accessories: strings, rosin, straps, tuners, metronomes — usually 5–15% of the instrument price;
-2. Upkeep: piano tuning (once or twice a year), wind maintenance, string changes — an ongoing spend;
-3. Lessons: if you plan to take them, tuition soon outgrows the instrument — budget it in, and your instrument choice becomes more rational on its own.
+## Comparing ways to begin
 
-## Two spending rules
+Buying provides continued access, but compare support and maintenance as well. Renting or borrowing can reduce initial expenditure; check deposits, duration, repair responsibility and return conditions. Shared school, community or practice-room equipment also depends on availability and travel.
 
-- Buy the most reliable instrument within your budget — not the cheapest. Bad instruments disguise "hard" as "you have no talent".
-- Rent or borrow the first one. Any expensive purchase before your direction is settled is a bet.
+Choose a short piece or concrete playing goal, then ask a teacher whether the equipment suits it. A low price does not automatically mean poor playability, and a high price does not replace a suitable setup and practice.
 
-## Listen: a melody a cheap instrument can finish
-
-The tune below has a narrow range and small leaps — it is the first lesson of countless starter instruments. Use it as a ruler while shopping: can the instrument you want play it comfortably?
+## Trying a short melody
 
 ```audiolab
-{"type":"scale","notes":["C4","C4","G4","G4","A4","A4","G4","F4","F4","E4","E4","D4","D4","C4"],"label":"《小星星》开头：入门乐器的通用第一课","label_en":"The opening of Twinkle — every starter instrument's first lesson","hint":"听一遍，想象它在口琴、竖笛、尤克里里上的样子","hint_en":"Hear it, and picture it on a harmonica, a recorder, a ukulele"}
+{"type":"scale","notes":["C4","C4","G4","G4","A4","A4","G4","F4","F4","E4","E4","D4","D4","C4"],"label":"Short Twinkle melody","label_en":"Short Twinkle melody","hint":"Notice repeated notes and leaps, then check the chosen instrument’s range and fingering.","hint_en":"Notice repeated notes and leaps, then check the chosen instrument’s range and fingering."}
 ```
 
-## Next
-
-- Meet the two "start-today" instruments: the [[instrument:ukulele|ukulele]] and the [[instrument:harmonica|harmonica]].
-- Once bought, how to practise: [[concept:practice-method|How to Practise]].
-- For the total cost of learning, pair this with the time budget in "How Long Should You Practise".
+This melody illustrates repeated notes and leaps; it is not a universal first lesson for every instrument. Compare the [[instrument:ukulele|Ukulele]], [[instrument:harmonica|Harmonica]] or your preferred instrument's range, fingering and learning resources before allocating a budget.
 :::
