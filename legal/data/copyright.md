@@ -33,7 +33,7 @@ C1、C2、C3 的解释见[数据使用条款](../terms/)。本站自有说明文
 
 ## 标注或收录争议
 
-发现许可冲突、错误署名或不当收录，请到[项目反馈页](https://github.com/midicn/home/issues)提供具体文件、原始来源及依据。本站会核查记录，并视结果更正标注或调整访问。
+发现许可冲突、错误署名或不当收录，请到[项目反馈页](https://github.com/midicn/midi-library/issues)提供具体文件、原始来源及依据。本站会核查记录，并视结果更正标注或调整访问。
 :::
 
 ::: en
@@ -52,5 +52,5 @@ See the [data terms](../terms/) for C1, C2 and C3, and the [content copyright pa
 
 ## Disputed records
 
-Report conflicting licences, attribution errors or disputed inclusion through the [project issue page](https://github.com/midicn/home/issues), with the file, original source and supporting evidence. The record will be checked and, where warranted, corrected or access adjusted.
+Report conflicting licences, attribution errors or disputed inclusion through the [project issue page](https://github.com/midicn/midi-library/issues), with the file, original source and supporting evidence. The record will be checked and, where warranted, corrected or access adjusted.
 :::

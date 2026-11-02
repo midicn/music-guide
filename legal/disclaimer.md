@@ -31,7 +31,7 @@ MIDI 记录演奏事件，不是原始录音。浏览器音源、音色、播放
 
 ## 更正
 
-请通过[项目反馈页](https://github.com/midicn/home/issues)指出具体页面、原句和核验依据。曲目与音色的数据边界另见[数据免责声明](../data/disclaimer/)。
+请通过[项目反馈页](https://github.com/midicn/midi-library/issues)指出具体页面、原句和核验依据。曲目与音色的数据边界另见[数据免责声明](../data/disclaimer/)。
 :::
 
 ::: en
@@ -49,5 +49,5 @@ External content remains the provider's responsibility. Footer advertising is se
 
 ## Corrections
 
-Use the [project issue page](https://github.com/midicn/home/issues) to identify a page, disputed wording and supporting evidence. See the [data disclaimer](../data/disclaimer/) for music and SoundFont data limitations.
+Use the [project issue page](https://github.com/midicn/midi-library/issues) to identify a page, disputed wording and supporting evidence. See the [data disclaimer](../data/disclaimer/) for music and SoundFont data limitations.
 :::

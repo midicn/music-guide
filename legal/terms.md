@@ -31,7 +31,7 @@ sources:
 
 ## 反馈
 
-发现内容、来源或许可标注有误，可通过[项目反馈页](https://github.com/midicn/home/issues)说明具体页面和依据。本站会据实更正，但不保证所有信息在任何时候都完整、准确或适合特定用途。
+发现内容、来源或许可标注有误，可通过[项目反馈页](https://github.com/midicn/midi-library/issues)说明具体页面和依据。本站会据实更正，但不保证所有信息在任何时候都完整、准确或适合特定用途。
 :::
 
 ::: en
@@ -49,5 +49,5 @@ Retain attribution and licence notices, do not misrepresent authorship, and avoi
 
 ## Corrections
 
-Report content, provenance or licence errors through the [project issue page](https://github.com/midicn/home/issues), identifying the page and supporting evidence. Corrections are made where warranted; information is not guaranteed to be complete, accurate or suitable for every purpose.
+Report content, provenance or licence errors through the [project issue page](https://github.com/midicn/midi-library/issues), identifying the page and supporting evidence. Corrections are made where warranted; information is not guaranteed to be complete, accurate or suitable for every purpose.
 :::

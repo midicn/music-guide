@@ -4,21 +4,22 @@ site: home
 cat: TOOLS
 title: 七和弦：加一个音改变了什么
 title_en: Seventh Chords — What Adding One Note Changes
-summary: 三和弦加了第四个音，和弦就从「颜色」变成了「句子」
-summary_en: Add a fourth note to a triad and a colour becomes a sentence
+summary: 比较属七、大七与小七和弦，并观察七音在传统和声中的解决
+summary_en: Compare dominant, major and minor sevenths, including conventional voice leading
 level: standard
 tags: [工具, 听辨, 和弦]
 tags_en: [tools, ear training, chord]
 alias: [七和弦, 属七和弦, 大七, 小七, seventh chord]
 order: 209
 instances:
-  - m21-000001 | 巴赫的一首众赞歌 —— 四声部和弦里七和弦比三和弦更常见 | Another Bach chorale — in four-part harmony sevenths are commoner than bare triads
-  - giantmidi-001081 | 奥涅格的一首对位与众赞歌 —— 合唱与对位的和声基础就是七和弦的解决 | Honegger's Fugue et choral — the harmony of choir and counterpoint rests on how sevenths resolve
-  - pdmx-000369 | 一部安魂曲的记录 —— 教会调式的和声大量使用加六度与三四度七和弦 | A recorded Requiem — modal harmony leans heavily on added-sixth and added-fourth sevenths
+  - m21-000001 | 和声观察素材；具体和弦构成以下文合成谱例为准 | Harmony study material; use the constructed examples below to identify the exact chords
+  - giantmidi-001081 | 和声观察素材；具体和弦构成以下文合成谱例为准 | Harmony study material; use the constructed examples below to identify the exact chords
+  - pdmx-000369 | 和声观察素材；具体和弦构成以下文合成谱例为准 | Harmony study material; use the constructed examples below to identify the exact chords
 sources:
+  - https://musictheory.pugetsound.edu/mt21c/VoiceLeadingSeventhChordsIntro.html
   - 这一条为七和弦对比练习的说明；和弦构成依据通用乐理记法
   - 实例均标注来源与许可档位，可在线试听；练习用的合成音由浏览器实时生成，非录音
-updated: 2026-10-03
+updated: 2026-11-03
 ---
 
 ::: zh
@@ -46,13 +47,11 @@ updated: 2026-10-03
 
 ## 关键：加的那个音改变了"什么"
 
-三和弦是一个静态的颜色；七和弦多了一个音之后，它变成了一句没有说完的话：
+先找根音，再确认七音。以 F 大调中的 C7（C–E–G–B♭）解决到 F（F–A–C）为例：常见写法是 E 上行半音到 F，B♭ 下行半音到 A。B♭ 是和弦七音，并不是低音。
 
-- 属七和弦里的那个小七度（B♭ 相对 C）必须往下走半音才能到主和弦（C → B）；
-- 大七和弦里的那个大七度（B 相对 C）也往下走，但它走到的地方不同；
-- 小七和弦的小七度（B♭）同样要往下走。
+在常规调性声部进行中，七音通常下行级进解决；这是特定写作语境中的规则，不能套成所有大七、小七和弦都必须立即下行。爵士、流行作品常把它们用作持续的和声音响。
 
-所以听七和弦的正确方式不是听"它是什么颜色"，而是听"它下面那个音想去哪"。 这和减三和弦是同一个道理——不稳定音程本身就是方向。
+试听时分两次判断：先听和弦自身的音程结构，再听它接到下一个和弦时各声部怎样移动。单独播放一个和弦，不能确定它在整段作品中的功能。
 
 ## 一个能自己验证的动作
 
@@ -60,7 +59,7 @@ updated: 2026-10-03
 2. 只听第二组（属七）的「整体」；
 3. 交替快速听——你会发现大七和属七听起来完全不是一回事，尽管它们只差一个音（B vs B♭）。
 
-这就是"一个半音值多少钱"。 它从一个稳定的和弦变成了一个想解决的和弦。
+这就是"一个半音值多少钱"。 这个半音改变了和弦种类；是否需要解决，要结合调性、旋律与上下文判断。
 
 ## 七和弦在音乐里的实际作用
 
@@ -105,13 +104,7 @@ Add **one more note** to a triad and it sounds completely different. **The point
 
 ## The key: the added note changes **what**
 
-A triad is a static colour. Once a seventh is added, it becomes an unfinished sentence:
-
-- the minor seventh of the dominant chord (B♭ over C) must fall a semitone to reach the tonic (C → B);
-- the major seventh also falls, but lands somewhere different;
-- the minor seventh of the minor seventh chord (B♭) likewise has to fall.
-
-**So the right way to hear a seventh chord is not "what colour is it" but "where does the lower note want to go". That is the same logic as the diminished triad — an unstable interval is itself a direction**.
+In F major, C7 (C–E–G–B♭) can resolve to F (F–A–C): E commonly rises a semitone to F while B♭ falls a semitone to A. The seventh is not necessarily the bass. Common-practice downward resolution is a contextual rule; sustained major and minor seventh sonorities in other styles need not resolve immediately.
 
 ## An action you can verify yourself
 
@@ -119,7 +112,7 @@ A triad is a static colour. Once a seventh is added, it becomes an unfinished se
 2. Then only to the second (dominant seventh) as a block;
 3. Alternate between them quickly — you will notice major seventh and dominant seventh sound like completely different things, though they differ by one note (B versus B♭).
 
-That is what half a semitone is worth. It turns a stable chord into one that wants to resolve.
+That is the difference one semitone makes. Whether the chord needs resolution depends on the key, melody and context.
 
 ## What sevenths actually do in music
 

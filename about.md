@@ -27,7 +27,7 @@ midicn 提供音乐知识、创作方法与音乐资料的查阅入口。
 
 页脚广告支持网站运行。本站自有内容与第三方材料的使用条件不同，详见[版权说明](../legal/copyright/)和[数据使用条款](../legal/data/terms/)；数据处理见[隐私政策](../legal/privacy/)。
 
-发现错误，请到[项目反馈页](https://github.com/midicn/home/issues)提供页面地址、原句和依据。正文中的例子、试听和练习用于帮助理解，不能代替对作品、设备文档及来源许可的核对。
+发现错误，请到[项目反馈页](https://github.com/midicn/midi-library/issues)提供页面地址、原句和依据。正文中的例子、试听和练习用于帮助理解，不能代替对作品、设备文档及来源许可的核对。
 :::
 
 ::: en
@@ -42,5 +42,5 @@ Theory, instruments, history, the glossary, production and AI music are covered 
 
 Footer advertising supports operation. Site-owned explanations and third-party materials have different terms: see [content rights](../legal/copyright/), [data terms](../legal/data/terms/) and the [privacy policy](../legal/privacy/).
 
-To report an error, use the [project issue page](https://github.com/midicn/home/issues) and include the page, disputed wording and evidence. Examples, playback and exercises support learning; they do not replace checking works, device documentation and source licences.
+To report an error, use the [project issue page](https://github.com/midicn/midi-library/issues) and include the page, disputed wording and evidence. Examples, playback and exercises support learning; they do not replace checking works, device documentation and source licences.
 :::

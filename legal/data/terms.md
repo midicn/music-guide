@@ -39,7 +39,7 @@ sources:
 
 ## 疑问与更正
 
-如果台账与原始来源不一致，应先核对来源；无法确认时，不要把不确定标注当作授权。可通过[项目反馈页](https://github.com/midicn/home/issues)提交文件标识、来源链接及依据。
+如果台账与原始来源不一致，应先核对来源；无法确认时，不要把不确定标注当作授权。可通过[项目反馈页](https://github.com/midicn/midi-library/issues)提交文件标识、来源链接及依据。
 :::
 
 ::: en
@@ -65,5 +65,5 @@ Retain provenance and licence records when downloading or redistributing. Use th
 
 ## Questions and corrections
 
-If a ledger entry differs from the original release, check the source first. An uncertain label is not permission. Report a file identifier, source link and supporting evidence through the [project issue page](https://github.com/midicn/home/issues).
+If a ledger entry differs from the original release, check the source first. An uncertain label is not permission. Report a file identifier, source link and supporting evidence through the [project issue page](https://github.com/midicn/midi-library/issues).
 :::

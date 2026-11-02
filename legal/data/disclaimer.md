@@ -33,7 +33,7 @@ MIDI 描述演奏事件；浏览器试听受音色、音源实现、速度与设
 
 ## 反馈
 
-请在[项目反馈页](https://github.com/midicn/home/issues)提供具体文件 ID、问题位置及可复现步骤。涉及授权时，同时附原始发布地址和相关条款。
+请在[项目反馈页](https://github.com/midicn/midi-library/issues)提供具体文件 ID、问题位置及可复现步骤。涉及授权时，同时附原始发布地址和相关条款。
 :::
 
 ::: en
@@ -53,5 +53,5 @@ Per-track records aim to retain provenance but may inherit upstream errors. Full
 
 ## Feedback
 
-Provide the file ID, issue location and reproducible steps on the [project issue page](https://github.com/midicn/home/issues). For licensing questions, include the original release address and relevant terms.
+Provide the file ID, issue location and reproducible steps on the [project issue page](https://github.com/midicn/midi-library/issues). For licensing questions, include the original release address and relevant terms.
 :::

@@ -13,7 +13,8 @@ alias: [工具, 互动, 练习, 节拍器, tools, utilities]
 order: 90
 sources:
   - 本站自订说明，据实描述本站工具区的功能与实现方式
-updated: 2026-10-03
+  - https://musictheory.pugetsound.edu/mt21c/VoiceLeadingSeventhChordsIntro.html
+updated: 2026-11-03
 ---
 
 ::: zh
@@ -52,7 +53,7 @@ updated: 2026-10-03
 
 - [三和弦的三种性质：大、小、减](chord-quality/) —— 区别只在中间那个音的距离
 - [七和弦：加一个音改变了什么](chord-seventh/) —— 从「颜色」变成了「句子」
-- [转位：为什么 C 调不一定从 C 开始](chord-inversion/) —— 和弦的名字由最低音决定
+- [转位：为什么 C 调不一定从 C 开始](chord-inversion/) —— 转位由哪个和弦音在低音决定，和弦根音不随转位改变
 - [挂留与变化音：和弦「还没解决」的那一秒](chord-suspension/) —— 挂留音不是和弦音，这就是张力
 
 ## 和声进行（2 件）
@@ -82,7 +83,7 @@ updated: 2026-10-03
 
 它们是听辨工具，不是学习教材。 每件工具能告诉你「听出来是这样」，但「为什么是这样」在通识那批文章里。
 
-它们也不能替代真人指导。 练耳卡在平台期时，需要的是有人指出你卡在哪——那件事机器做不了（详见[怎么判断一个好老师](../culture/finding-a-teacher/)）。
+它们也不能替代真人指导。 练耳卡在平台期时，需要的是有人指出你卡在哪——自动反馈不一定能判断具体动作和学习条件（详见[怎么判断一个好老师](../culture/finding-a-teacher/)）。
 
 ## 下一步
 
@@ -127,7 +128,7 @@ From triads to suspensions:
 
 - [Three chord qualities: major, minor, diminished](chord-quality/) — the difference is the middle note's distance
 - [Seventh chords: what adding one note changes](chord-seventh/) — from a colour into a sentence
-- [Inversions: why a key in C does not start on C](chord-inversion/) — a chord is named after its lowest note
+- [Inversions: why a key in C does not start on C](chord-inversion/) — the bass determines inversion; the chord root stays the same
 - [Suspensions: the second before a chord resolves](chord-suspension/) — the held note is not a chord tone
 
 ## Progressions (2)
@@ -157,7 +158,7 @@ Metre and pattern are two different things:
 
 They are ear-training tools, not a textbook. Each one can tell you "this is what it sounds like", but "why it sounds like that" lives in the general-knowledge articles.
 
-They do not replace a human teacher. When ear training hits a plateau, what you need is someone to point out where you are stuck — and no machine can do that (see [judging a good teacher](../culture/finding-a-teacher/)).
+They do not replace a human teacher. When ear training hits a plateau, what you need is someone to point out where you are stuck — automated feedback has limits and should be checked against the task (see [judging a good teacher](../culture/finding-a-teacher/)).
 
 ## Next
 

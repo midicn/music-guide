@@ -30,7 +30,7 @@ sources:
 
 ## 权利反馈
 
-如果你认为某项内容的授权、署名或收录有问题，请到[项目反馈页](https://github.com/midicn/home/issues)提供具体页面、作品标识及可核验依据。请勿在公开问题中提交不必要的个人资料。
+如果你认为某项内容的授权、署名或收录有问题，请到[项目反馈页](https://github.com/midicn/midi-library/issues)提供具体页面、作品标识及可核验依据。请勿在公开问题中提交不必要的个人资料。
 :::
 
 ::: en
@@ -46,5 +46,5 @@ The site grants no blanket licence over third-party material. Follow the example
 
 ## Rights enquiries
 
-Use the [project issue page](https://github.com/midicn/home/issues) to identify a disputed page or work and provide verifiable evidence about permission, attribution or inclusion. Avoid posting unnecessary personal information publicly.
+Use the [project issue page](https://github.com/midicn/midi-library/issues) to identify a disputed page or work and provide verifiable evidence about permission, attribution or inclusion. Avoid posting unnecessary personal information publicly.
 :::

@@ -4,157 +4,104 @@ site: home
 cat: TOOLS
 title: 拍号：3/4 与 4/4 听起来为什么不一样
 title_en: Metre — Why 3/4 and 4/4 Sound Different
-summary: 分子告诉你每小节有几拍，分母告诉你以什么为一拍
-summary_en: The top number says how many beats; the bottom says what counts as one
+summary: 区分记谱单位、小节与强弱组织，比较单拍子和复拍子的分组
+summary_en: Distinguish note units, measures and accent patterns in simple and compound metres
 level: standard
 tags: [工具, 节奏, 拍号]
 tags_en: [tools, rhythm, metre]
 alias: [拍号, 三四拍, 四四拍, metre, time signature]
 order: 214
 instances:
-  - giantmidi-009379 | 乔普林的一首圆舞曲 —— 圆舞曲的强-弱-弱就是三拍子最直白的体现 | Joplin's Harmony Club Waltz — the strong-weak-weak of a waltz is 3/4 made obvious
-  - abcmisc-001160 | 一首东欧传统圆舞曲 —— 民间圆舞曲几乎都用三拍子，因为舞步本身就是三步 | A traditional Eastern European round dance — folk waltzes are nearly always in three, because the dance step is three steps
-  - atepp-005648 | 柴可夫斯基《四季》里的八月（收获） —— 收获舞是圆舞曲体裁，3/4 | Tchaikovsky's August (Harvest) from The Seasons — the harvest dance is a waltz movement, in 3/4
+  - giantmidi-009379 | 节奏练习素材；拍号与重音请结合谱面或事件查看，不由题名推断 | Rhythm practice material; inspect the score or events for metre and accents rather than inferring them from the title
+  - abcmisc-001160 | 节奏练习素材；拍号与重音请结合谱面或事件查看，不由题名推断 | Rhythm practice material; inspect the score or events for metre and accents rather than inferring them from the title
+  - atepp-005648 | 节奏练习素材；拍号与重音请结合谱面或事件查看，不由题名推断 | Rhythm practice material; inspect the score or events for metre and accents rather than inferring them from the title
 sources:
+  - https://fundamentalsofmusictheory.umasscreate.net/unit-9/
   - 这一条为拍号听辨练习的说明；拍号与节奏型记号依据通用乐理记法
   - 实例均标注来源与许可档位，可在线试听；练习用的节拍由浏览器实时生成，非录音
-updated: 2026-10-03
+updated: 2026-11-03
 ---
 
 ::: zh
-下面两组用的是**完全相同的四个音**，只是拍号不同。**如果你的耳朵够用，你会听出这两组完全不同 —— 而且差别不在音上。**
+两组示例使用同一类合成音和相同速度，分别按四拍和三拍分组。先跟着拍，再找每小节重新开始的位置。
 
-## 两组对照：同样的音，不同的拍号
+## 同速度的两组对照
 
-**第一组：4/4（四个四分音符）**
-
-```audiolab
-{"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":88,"label":"4/4 · 每拍都一样强","label_en":"4/4 — every beat equally strong","hint":"点「节拍器」先听四拍，然后点「节奏型」听同样的四个音","hint_en":"Play the click first to hear four beats, then play the pattern — the same four notes","cycles":3}
-```
-
-**第二组：3/4（三个四分音符，强-弱-弱）**
+### 4/4：四分音符为一拍，每小节四拍
 
 ```audiolab
-{"type":"rhythm","sig":"3/4","pattern":"q q q","bpm":104,"label":"3/4 · 第二三拍变弱","label_en":"3/4 — beats two and three weaken","hint":"同样的三个音，但听起来像三步舞而不是四拍","hint_en":"The same three notes, but they sound like a three-step dance rather than four beats","cycles":3}
+{"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":88,"label":"4/4 · 四拍一组","label_en":"4/4 — groups of four beats","hint":"先听节拍器，再听四个等长的音；注意每小节起点","hint_en":"Hear the click, then four even notes. Locate the start of each bar.","cycles":3}
 ```
 
-## 关键：拍号不是"有多少个音"
+### 3/4：四分音符为一拍，每小节三拍
 
-这是最重要的一句。
+```audiolab
+{"type":"rhythm","sig":"3/4","pattern":"q q q","bpm":88,"label":"3/4 · 三拍一组","label_en":"3/4 — groups of three beats","hint":"保持与上一组相同的速度，比较三拍与四拍的分组","hint_en":"Keep the same tempo and compare grouping in three and four.","cycles":3}
+```
 
-上面第一组有四个音，第二组有三个音——但拍号的真正区别在于：
+## 拍数不等于音符数
 
-- 分子（上面那个数字）：每小节有几拍；
-- 分母（下面那个数字）：以什么为一个单位（`4` = 四分音符为一拍）。
+4/4 一小节可以写一个全音符、四个四分音符，或更多短音与休止；判断小节是否完整，要加时值，不能只数音符。三个四分音符加一个四分休止符仍可组成完整的 4/4 小节。
 
-所以 4/4 的"四"和 3/4 的"三"指的是拍数，不是音数。 如果你在 4/4 里放三个音，那三个音里第一个是强拍、后面两个要弱下来 —— 它其实还是四拍的感觉，只是空了一拍。
-
-## 强拍在哪里，决定了它是什么
-
-一个拍号真正的内容是哪一拍被强调：
-
-| 拍号 | 强调的位置 | 典型用途 |
+| 拍号 | 常见分组 | 数拍提示 |
 |---|---|---|
-| 4/4 | 第 1 拍（次强在第 3 拍） | 几乎所有流行与古典 |
-| 3/4 | 第 1 拍（后面两拍弱） | 圆舞曲 |
-| 2/4 | 第 1 拍（第二拍弱） | 进行曲、波兰舞曲 |
-| 6/8 | 第 1 与第 4 拍 | 三拍子的两半感觉 |
+| 2/4 | 两个四分拍 | 1、2 |
+| 3/4 | 三个四分拍 | 1、2、3 |
+| 4/4 | 四个四分拍 | 1、2、3、4 |
+| 6/8 | 两个附点四分拍，各分三份 | 1-la-li、2-la-li |
 
-你听到的第一件工具按钮（节拍器）就是告诉你这件事的：第一下那个「叮」（高音）就是强拍。 听的时候注意听那个区别。
+6/8 是常见的复二拍子，不宜只说“每小节六个主要拍”。慢速教学时可以细数六个八分音符，但要继续辨认 3+3 的大拍分组。
 
-## 一个能自己验证的动作
+## 一次只改一个变量
 
-把上面第一组（4/4）的 `pattern` 改成 `q q s s`（四个音，两长两短），再听。
+先保持 BPM 和音色不变，比较上面两组。再在 4/4 中试 `q q e e q`：时值为 1+1+½+½+1，仍占满四拍。相比之下，`q q s s` 只有 2½ 拍，不能当作完整 4/4 小节。
 
-你会发现它其实比 4 个等长的音更像「舞曲」。 因为 节奏型（音的长短） 和 拍号（拍子强弱） 是两套独立的东西：
+拍号提示拍子的组织，不规定每个实际声音都必须服从固定音量。切分、跨拍延音和演奏重音都可能与基本拍点交错。
 
-- 拍号决定"每拍有多强"；
-- 节奏型决定"每拍里发生什么"。
+## 继续练习
 
-很多人混淆这两者。 4/4 里完全可以有舞曲式的长短音，3/4 里也可以有全等长的音。
-
-## 一个诚实的边界
-
-这一条只演示了 4/4 与 3/4。真实拍号还有：
-
-- 2/4、3/8、6/8、9/8、12/8 等—— 它们对应不同的分组方式；
-- 混合拍号（比如 5/4、7/8）—— 现代音乐里很常见。
-
-但判断方法始终是同一个：强拍在哪，弱拍在哪，每小节有几次强拍。
-
-## 下一步
-
-- 节奏型的花样：[常见节奏型](../rhythm-patterns/)
-- 节奏为什么让人想动：[节奏与身体](../../culture/rhythm-and-body/)
-- 律动与"扫描"（tapping）：[练习研究](../../culture/practice-research/)
-- 音程听辨的同类训练：[音程听辨练习](../interval-identification/)
+- [常见节奏型](../rhythm-patterns/)
+- [节奏与身体](../../culture/rhythm-and-body/)
 :::
 
 ::: en
-Below are **exactly the same sounds** under two different time signatures. **If your ears are working, you will hear these as completely different — and the difference is not in the notes.**
+The examples use the same kind of synthesized sound and the same tempo, grouped in four and three. Tap along and locate each new bar.
 
-## Two passes, same sounds, different metre
+## Compare at one tempo
 
-**One: 4/4 (four quarter notes)**
-
-```audiolab
-{"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":88,"label":"4/4 · 每拍都一样强","label_en":"4/4 — every beat equally strong","hint":"点「节拍器」先听四拍，然后点「节奏型」听同样的四个音","hint_en":"Play the click first to hear four beats, then play the pattern — the same four notes","cycles":3}
-```
-
-**Two: 3/4 (three quarter notes, strong-weak-weak)**
+### 4/4: four quarter-note beats
 
 ```audiolab
-{"type":"rhythm","sig":"3/4","pattern":"q q q","bpm":104,"label":"3/4 · 第二三拍变弱","label_en":"3/4 — beats two and three weaken","hint":"同样的三个音，但听起来像三步舞而不是四拍","hint_en":"The same three notes, but they sound like a three-step dance rather than four beats","cycles":3}
+{"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":88,"label":"4/4 · 四拍一组","label_en":"4/4 — groups of four beats","hint":"先听节拍器，再听四个等长的音；注意每小节起点","hint_en":"Hear the click, then four even notes. Locate the start of each bar.","cycles":3}
 ```
 
-## The key: a time signature is not "how many notes"
+### 3/4: three quarter-note beats
 
-**This is the most important sentence on the page.**
+```audiolab
+{"type":"rhythm","sig":"3/4","pattern":"q q q","bpm":88,"label":"3/4 · 三拍一组","label_en":"3/4 — groups of three beats","hint":"保持与上一组相同的速度，比较三拍与四拍的分组","hint_en":"Keep the same tempo and compare grouping in three and four.","cycles":3}
+```
 
-The first group has four notes and the second has three — but the real difference is:
+## Beats are not a note count
 
-- the top number: how many beats per bar;
-- the bottom number: what unit a beat is (`4` = the quarter note).
+A 4/4 bar can contain one whole note, four quarters, or shorter notes and rests. Add durations rather than counting attacks. Three quarters plus a quarter rest also fill the bar.
 
-So the "four" in 4/4 and the "three" in 3/4 refer to beats, not notes. If you put three notes in 4/4, the first is strong and the other two must weaken — it still feels like four beats, with one left empty.
-
-## Where the strong beat falls decides what it is
-
-What a time signature really contains is which beat is stressed:
-
-| Signature | Stress | Typical use |
+| Signature | Usual grouping | Count |
 |---|---|---|
-| 4/4 | beat 1 (secondary on 3) | nearly all pop and classical music |
-| 3/4 | beat 1 (beats 2 and 3 weak) | waltzes |
-| 2/4 | beat 1 (beat 2 weak) | marches, polkas |
-| 6/8 | beats 1 and 4 | two half-groups of a triple feel |
+| 2/4 | two quarter-note beats | 1, 2 |
+| 3/4 | three quarter-note beats | 1, 2, 3 |
+| 4/4 | four quarter-note beats | 1, 2, 3, 4 |
+| 6/8 | two dotted-quarter beats, divided into threes | 1-la-li, 2-la-li |
 
-The "click" button above is telling you exactly this: that first higher "ding" is the strong beat. Listen for the difference.
+6/8 is commonly compound duple. Counting six eighth notes slowly can help, but retain the larger 3+3 grouping.
 
-## An action you can verify yourself
+## Change one variable at a time
 
-Change the `pattern` of the first group to `q q s s` (four notes, two long and two short) and listen again.
+Keep tempo and timbre constant first. Then try `q q e e q` in 4/4: 1+1+½+½+1 fills four beats. In contrast, `q q s s` totals only 2½ beats.
 
-You will find it sounds more like a "dance" than four even notes. That is because rhythm pattern and metre are two independent things:
+Metre organizes beats; it does not require every performed sound to follow fixed loudness levels. Syncopation, ties and performance accents can cross the underlying grouping.
 
-- the metre decides how strong each beat is;
-- the pattern decides what happens inside each beat.
+## Continue
 
-Many people conflate these. 4/4 can easily carry a dance-like long-short pattern, and 3/4 can carry entirely even notes.
-
-## An honest boundary
-
-Only 4/4 and 3/4 are shown here. Real signatures also include:
-
-- 2/4, 3/8, 6/8, 9/8, 12/8 — each implying a different grouping;
-- irregular metres (5/4, 7/8) — very common in modern music.
-
-**But the test is always the same: where is the strong beat, where are the weak ones, and how many strong beats per bar.**
-
-## Next
-
-- The range of patterns: [common rhythm patterns](../rhythm-patterns/)
-- Why rhythm makes you move: [rhythm and body](../../culture/rhythm-and-body/)
-- Keeping time: [practice research](../../culture/practice-research/)
-- A parallel kind of drill: [interval identification drill](../interval-identification/)
+- [Common rhythm patterns](../rhythm-patterns/)
+- [Rhythm and body](../../culture/rhythm-and-body/)
 :::

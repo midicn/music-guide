@@ -43,7 +43,7 @@ midicn 提供公开的音乐知识、MIDI 与音色目录，无需注册账号�
 
 ## 联系与更新
 
-如需反馈隐私问题，可到 [项目反馈页](https://github.com/midicn/home/issues)提交问题，请勿公开提交敏感个人资料。本页随实际功能更新，页面顶部注明修订日期。
+如需反馈隐私问题，可到 [项目反馈页](https://github.com/midicn/midi-library/issues)提交问题，请勿公开提交敏感个人资料。本页随实际功能更新，页面顶部注明修订日期。
 :::
 
 ::: en
@@ -71,5 +71,5 @@ Playback may retrieve engines, MIDI files and SoundFonts from other midicn subdo
 
 ## Contact and changes
 
-Use the [project issue page](https://github.com/midicn/home/issues) for privacy questions, without posting sensitive personal information publicly. This page is revised when site behaviour changes; its revision date appears above.
+Use the [project issue page](https://github.com/midicn/midi-library/issues) for privacy questions, without posting sensitive personal information publicly. This page is revised when site behaviour changes; its revision date appears above.
 :::
