@@ -2,128 +2,96 @@
 id: hubs/hub-sites-map
 site: home
 cat: HUB
-title: 十三个站点分别是什么
-title_en: What Each of the Thirteen Sites Is For
-summary: 一张诚实的表：每个站现在有什么、没有什么、以及该去哪读
-summary_en: An honest table — what each site has, what it does not yet have, and where to read
+title: 站点与内容导航
+title_en: Site and Content Guide
+summary: 按学习、创作与资源用途，找到当前分站与具体内容
+summary_en: Find current sites and content for learning, making music and working with resources
 level: page
 tags: [枢纽, 站点, 索引]
 tags_en: [hub, sites, index]
 alias: [站点地图, 站点一览, 站点总览, site map]
 order: 307
 sources:
-  - 本页为站点说明，内容为据实整理；状态一栏以各站实际条目数为准（2026-10-03 实测）
-updated: 2026-10-03
+  - 分站职责依据统一站点注册表与当前发布页面整理（2026-11-02）
+updated: 2026-11-02
 ---
 
 ::: zh
-midicn 拆成了十三个站。**这一页的作用是把它们说清楚，包括哪些还没建好。**
+按想做的事选择入口；主站的[学音乐](../../learn/)和[做音乐](../../make/)页面会继续引导到具体条目。
 
-我们不打算把还没建好的部分说得比实际好，所以下面那张表里有一列叫「状态」。
+## 学习与查阅
 
-## 你在这里想做什么
+| 分站 | 适合做什么 |
+|---|---|
+| [主站](https://home.midicn.com/) | 入门引导、主题导览、互动工具与[全站搜索](../../search/) |
+| [乐理与和声](https://theo.midicn.com/) | 读谱、节奏、音阶、和弦、和声与曲式 |
+| [乐器图鉴](https://inst.midicn.com/) | 认识乐器的发声、结构、音域与演奏方式 |
+| [音乐史](https://hist.midicn.com/) | 按时期、地区和风格阅读音乐的背景 |
+| [音乐词典](https://gloss.midicn.com/) | 查术语、人物、体裁及相关条目 |
 
-**按站点看，而不是按主题看。** 如果你想知道"学乐理该去哪个站"，请直接看[乐理枢纽](../hub-learn-theory/)；这一页给的是"这十三个站各自是什么"。
+## 创作与制作
 
-## 去哪读：十三个站
+| 分站 | 适合做什么 |
+|---|---|
+| [音频与音乐制作](https://prod.midicn.com/) | DAW、MIDI、录音、编曲、混音与交付 |
+| [AI 做音乐](https://ai.midicn.com/) | 生成流程、提示词、结果评估与制作衔接 |
 
-### 已经可以读的（3 个）
+## 曲目与音色
 
-**midicn 首页**（[home.midicn.com](https://home.midicn.com/)）—— 门户。这一站放两类东西：三十篇新手引导、七十篇通识与文化、以及十八件可以点的听辨工具。**不知道从哪开始就从这里进。**
+| 分站 | 适合做什么 |
+|---|---|
+| [MIDI 音乐库](https://lib.midicn.com/) | 检索曲目、试听、查看逐曲来源和许可、下载 MIDI |
+| [维度浏览](https://mid.midicn.com/) | 按作曲家、地区、流派、时期、乐器或来源找曲目 |
+| [打包下载](https://zip.midicn.com/) | 按用途或维度找到下载包 |
+| [音色库](https://sf.midicn.com/) | 查找 SoundFont，查看说明、来源与下载入口 |
 
-音乐理论（[theo.midicn.com](https://theo.midicn.com/)）—— 一百五十余条理论条目，从乐理 basics 到和声与曲式。本站目前内容量最大的知识站。
+## 音乐网站导航
 
-乐器图鉴（[inst.midicn.com](https://inst.midicn.com/)）—— 一百四十余件乐器，含剖面图、音域图与音色试听。想了解一件乐器怎么发声，从这里进。
-
-### 骨架站：内容在陆续上线（6 个）
-
-这些站已经有首页与"本站收录什么"的说明页，但条目还没铺开：
-
-- 音乐词典（[gloss.midicn.com](https://gloss.midicn.com/)）—— 术语速查，进度落后于计划
-- 音乐史（[hist.midicn.com](https://hist.midicn.com/)）—— 待建
-- 作曲家（[comp.midicn.com](https://comp.midicn.com/)）—— 待建
-- 流派与风格（[gen.midicn.com](https://gen.midicn.com/)）—— 待建
-- 音乐制作（[prod.midicn.com](https://prod.midicn.com/)）—— 待建
-- 中国音乐（[cn.midicn.com](https://cn.midicn.com/)）—— 待建
-
-### 数据站：提供可下载的东西（4 个）
-
-这四个不是文章站，是取数据的地方：
-
-- 数据集总览（[lib.midicn.com](https://lib.midicn.com/)）—— 全部曲目的来源、许可与下载入口
-- 曲目详情（[mid.midicn.com](https://mid.midicn.com/)）—— 按作品查详情与使用指引
-- 压缩包（[zip.midicn.com](https://zip.midicn.com/)）—— 打包下载
-- 音频（[sf.midicn.com](https://sf.midicn.com/)）—— 音频与采样资源
-
-## 还没建好的
-
-三件我们还没做的事，写在这里是为了让你知道边界在哪：
-
-1. 站内搜索还在做 —— 目前只能靠首页的六个枢纽页导航
-2. 词典站内容量不足 —— 它计划做六百条以上，现在只有骨架
-3. 除首页、理论站与乐器站外，其余知识站基本还是骨架
-
-另外诚实说一句：上面六个骨架站里，有些可能很久都不会更新。我们不承诺时间表，只承诺"建好之后会在表里改状态"。
+[音乐导航](https://nav.midicn.com/)同时提供本站入口与精选音乐外站，可按用途搜索和筛选。
 
 ## 下一步
 
-- 不知道从哪开始：[新手入门](../../start/)
-- 想按主题走：[乐理枢纽](../hub-learn-theory/) · [乐器枢纽](../hub-choose-instrument/) · [听辨枢纽](../hub-listen-better/)
+- 按问题找内容：[学音乐](../../learn/) · [做音乐](../../make/)
+- 已有关键词：[全站搜索](../../search/)
 - 回到[首页](../../)
 :::
 
 ::: en
-midicn is split across thirteen sites. **The map below explains them, including the ones still being filled in.**
+Choose a destination for the task at hand. The home site's [Learn music](../../learn/) and [Make music](../../make/) guides lead to specific entries.
 
-We do not intend to make unfinished things sound better than they are, so the table below has a column called "status".
+## Learn and look things up
 
-## What you are trying to do here
+| Site | What to find |
+|---|---|
+| [Home](https://home.midicn.com/en/) | Beginner guides, topic guides, interactive tools and [site-wide search](../../search/) |
+| [Theory](https://theo.midicn.com/en/) | Notation, rhythm, scales, chords, harmony and form |
+| [Instruments](https://inst.midicn.com/en/) | Sound production, construction, range and playing techniques |
+| [Music history](https://hist.midicn.com/en/) | Musical contexts by period, region and style |
+| [Glossary](https://gloss.midicn.com/en/) | Terms, people, genres and related entries |
 
-**Browse by site rather than by topic.** If you want to know where to study theory, go straight to [the theory hub](../hub-learn-theory/). The map answers "what is each of the thirteen sites".
+## Create and produce
 
-## Where to read: the thirteen sites
+| Site | What to find |
+|---|---|
+| [Audio and production](https://prod.midicn.com/en/) | DAWs, MIDI, recording, arranging, mixing and delivery |
+| [AI music](https://ai.midicn.com/en/) | Generation workflows, prompts, evaluation and production |
 
-### Readable now (3)
+## Tracks and sounds
 
-**midicn home** ([home.midicn.com](https://home.midicn.com/)) — the gateway. This site carries two kinds of content: thirty beginner guides, seventy pieces on music in general, and eighteen clickable ear-training tools. **Start here if you do not know where to begin.**
+| Site | What to find |
+|---|---|
+| [MIDI library](https://lib.midicn.com/) | Track search, playback, per-track sources and licences, and MIDI downloads |
+| [Dimensions](https://mid.midicn.com/) | Browsing by composer, region, genre, period, instrument or source |
+| [Packs](https://zip.midicn.com/) | Downloads organized by use or dimension |
+| [SoundFonts](https://sf.midicn.com/) | SoundFont descriptions, sources and downloads |
 
-Music theory ([theo.midicn.com](https://theo.midicn.com/)) — over 150 theory entries, from the fundamentals through harmony and form. It is currently the largest knowledge site.
+## Music websites
 
-Instrument guide ([inst.midicn.com](https://inst.midicn.com/)) — over 140 instruments, with cross-section diagrams, range charts and timbre auditions. Start here to understand how an instrument makes sound.
-
-### Skeleton sites: content arriving gradually (6)
-
-These already have a home page and a "what the site covers" note, but the entries are not laid out yet:
-
-- Glossary ([gloss.midicn.com](https://gloss.midicn.com/)) — term lookup, behind its plan
-- Music history ([hist.midicn.com](https://hist.midicn.com/)) — to be built
-- Composers ([comp.midicn.com](https://comp.midicn.com/)) — to be built
-- Genres and styles ([gen.midicn.com](https://gen.midicn.com/)) — to be built
-- Music production ([prod.midicn.com](https://prod.midicn.com/)) — to be built
-- Chinese music ([cn.midicn.com](https://cn.midicn.com/)) — to be built
-
-### Data sites: where to download from (4)
-
-These four are not article sites; they are where you get data:
-
-- Dataset overview ([lib.midicn.com](https://lib.midicn.com/)) — sources, licences and download entries for everything
-- Track details ([mid.midicn.com](https://mid.midicn.com/)) — per-work detail and usage guidance
-- Archives ([zip.midicn.com](https://zip.midicn.com/)) — packaged downloads
-- Audio ([sf.midicn.com](https://sf.midicn.com/)) — audio and sample resources
-
-## What is not built yet
-
-Three things we have not done, listed so you know where the boundaries are:
-
-1. Site search is still being built — for now, use the six hub pages on the home page
-2. The glossary is short of its plan — it targets over 600 entries and currently has only a skeleton
-3. **Apart from home, theory and instruments, the other knowledge sites are essentially skeletons**
-
-And plainly: some of those six skeleton sites may take a long time to fill. We promise no timetable — only that the status table above will be updated when a site is built.
+The [Music directory](https://nav.midicn.com/) combines midicn destinations with selected music websites, searchable and filterable by purpose.
 
 ## Next
 
-- Not sure where to start: [Start Here](../../start/)
-- Browsing by topic: [theory hub](../hub-learn-theory/) · [instruments hub](../hub-choose-instrument/) · [listening hub](../hub-listen-better/)
-- Back to the [home page](../../)
+- Find a topic: [Learn music](../../learn/) · [Make music](../../make/)
+- Search a keyword: [site-wide search](../../search/)
+- Back to [Home](../../)
 :::

@@ -13,7 +13,7 @@ alias: [新手入门, 入门引导, 从零开始, start here, beginners guide]
 order: 0
 sources:
   - 入门引导的目录页：按阶段和问题分组，各条目均可在站内继续读
-updated: 2026-09-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -75,7 +75,7 @@ updated: 2026-09-28
 2. **读完就做**——每篇结尾的「下一步」不止是链接，是行动；
 3. **随时回来**——卡住的时候，回来换一篇读，比硬扛有效。
 
-想知道这个网站还有什么？回到[首页](../)看看十三个站点的分工，或者看看[互动工具](../tools/)（陆续上线）。
+想继续找内容？可以看[学音乐](../learn/)、[做音乐](../make/)，或进入[互动工具](../tools/)动手试一试。
 :::
 
 ::: en
@@ -137,5 +137,5 @@ Thirty short pieces, one question each; **every one ends with a "Next"** that se
 2. **Do after reading** — each "Next" is an action, not just a link;
 3. **Come back any time** — when stuck, switching to another piece beats pushing through.
 
-Curious what else is here? Head back to the [home page](../) to see how the thirteen sites divide the work, or visit the [interactive tools](../tools/) (being added over time).
+Looking for another topic? Try [Learn music](../learn/), [Make music](../make/) or the [interactive tools](../tools/).
 :::

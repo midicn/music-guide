@@ -13,7 +13,7 @@ alias: [聆听枢纽, 听辨枢纽, 听得懂, listening hub]
 order: 304
 sources:
   - 本页为导航页，内容为据实整理；工具可用性以 2026-10-03 实测的 18 件为准
-updated: 2026-10-03
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -53,8 +53,8 @@ updated: 2026-10-03
 
 这一层最容易被跳过，但它决定了你能听出什么。
 
-- [五个音乐作品的标准曲式](https://theo.midicn.com/) —— 先知道曲子的骨架
-- [音乐史](https://hist.midicn.com/)与[流派](https://gen.midicn.com/)站 —— 背景知识（两站仍在骨架状态）
+- [曲式与结构](https://theo.midicn.com/form/) —— 先知道曲子的骨架
+- [音乐史](https://hist.midicn.com/) —— 按时期、地区与风格补充背景
 - 站内：[乐器图鉴](https://inst.midicn.com/) —— 音色是什么、从哪来
 
 ## 一个可执行的三步法
@@ -67,20 +67,13 @@ updated: 2026-10-03
 
 第 1 步不能省。 没听过原版就分析结构，你分析的是谱子，不是音乐。
 
-## 还没建好的
+## 继续练听
 
-四处诚实说明：
-
-1. 没有"聆听曲目表" —— 站内有很多通识与理论，但没有一份"按难度排列的曲目清单"。这是本条路线最大的空缺
-2. 音乐史与流派站都在骨架状态 —— 所以"背景知识"这一层实际上只有站外的零散文章可用
-3. 工具区没有"听写"（dictation） —— 十八件都是"听得出"，没有"写下来"这一环
-4. 词典站不足以支撑"查术语" —— 而查术语是这一层最频繁的动作
-
-第 1 点我认为是真缺口：它需要一份跨三站的曲目排序，是一份新内容而不是新结构。
+可结合[音乐史](https://hist.midicn.com/)补充背景，遇到术语查[音乐词典](https://gloss.midicn.com/)。现有听辨工具不等同于按难度编排的完整听写课程；选择一首作品，反复听同一个具体问题更容易比较变化。
 
 ## 下一步
 
-- 按站点看全貌：[十三个站点分别是什么](../hub-sites-map/)
+- 按站点看全貌：[站点与内容导航](../hub-sites-map/)
 - 工具区完整清单：[十八件互动工具](../../tools/)
 - 教与练的问题：[教学与练习枢纽](../hub-teacher-practice/)
 - 回到[首页](../../)
@@ -123,8 +116,8 @@ The full list of eighteen is in the [tools index](../../tools/), grouped as inte
 
 **This layer is most often skipped, and it decides what you are able to hear at all.**
 
-- [The five standard forms](https://theo.midicn.com/) — learn the skeleton of a piece first
-- [Music history](https://hist.midicn.com/) and [genres](https://gen.midicn.com/) — background (both still skeletons)
+- [Musical form](https://theo.midicn.com/en/form/) — learn the skeleton of a piece first
+- [Music history](https://hist.midicn.com/en/) — context by period, region and style
 - Onsite: [the instrument guide](https://inst.midicn.com/) — what timbre is and where it comes from
 
 ## An executable three-step method
@@ -137,20 +130,13 @@ If you only have half an hour and no idea where to start:
 
 Step 1 cannot be skipped. Analysing the score without ever hearing the piece means you are analysing notation, not music.
 
-## What is not built yet
+## Keep listening
 
-Four honest notes:
-
-1. There is no listening repertoire — there is plenty of general knowledge and theory, but no "list of pieces ordered by difficulty". That is the biggest gap on this route.
-2. The history and genre sites are skeletons — so the "background knowledge" layer is effectively only scattered offsite articles.
-3. The tools have no dictation — all eighteen are "hear it"; none covers "write it down".
-4. The glossary is not enough to look terms up — and looking terms up is the most frequent action at this layer.
-
-Point 1 is a genuine gap: it needs a cross-site ordering of pieces, which is new content, not a new structure.
+Use [music history](https://hist.midicn.com/en/) for context and the [glossary](https://gloss.midicn.com/en/) for terms. The listening tools are not a complete graded dictation course. Revisit one specific question in a piece to compare what you hear.
 
 ## Next
 
-- The site-level view: [what each of the thirteen sites is for](../hub-sites-map/)
+- The site-level view: [Site and Content Guide](../hub-sites-map/)
 - The full tool list: [eighteen interactive tools](../../tools/)
 - Questions of teaching and practice: [teaching and practice hub](../hub-teacher-practice/)
 - Back to the [home page](../../)

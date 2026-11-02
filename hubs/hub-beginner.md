@@ -13,7 +13,7 @@ alias: [入门枢纽, 新手枢纽, 从哪开始, beginner hub]
 order: 301
 sources:
   - 本页为导航页，内容为据实整理；状态说明以各站实际条目数为准（2026-10-03 实测）
-updated: 2026-10-03
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -53,18 +53,13 @@ updated: 2026-10-03
 - [大调为什么听起来「快乐」：解释与争议](../../culture/major-happy-why/) —— 从一个最简单的现象开始
 - 站外：[音乐理论](https://theo.midicn.com/) —— 一百五十余条理论条目
 
-## 还没建好的
+## 接着怎么学
 
-诚实说一句，这条路上有两处还是空的：
-
-1. 词典站内容量不足 —— 它本来该是"每个术语随手能查"的地方，现在只有骨架
-2. 没有一条完整的"从零到能弹曲子"路线图 —— 三十篇入门短文覆盖了判断与心态，但没有覆盖技术训练的那条线
-
-第二点是真缺口。 现在你得自己把入门短文和乐器站拼起来读。
+遇到术语可以查[音乐词典](https://gloss.midicn.com/)。想把基础知识与练习连起来，可从主站[学音乐](../../learn/)选择起步路径，再进入乐器站阅读对应内容。导览不能代替针对具体乐器的练习安排。
 
 ## 下一步
 
-- 想按站点看全貌：[十三个站点分别是什么](../hub-sites-map/)
+- 想按站点看全貌：[站点与内容导航](../hub-sites-map/)
 - 想按主题走：[听辨枢纽](../hub-listen-better/) · [乐器枢纽](../hub-choose-instrument/)
 - 回到[首页](../../)
 :::
@@ -106,18 +101,13 @@ Take this if you would rather understand than start playing.
 - [Why the major scale sounds happy: explanation and dispute](../../culture/major-happy-why/) — start from the simplest phenomenon
 - Offsite: [music theory](https://theo.midicn.com/) — over 150 theory entries
 
-## What is not built yet
+## Where to continue
 
-Honestly, two gaps on this path:
-
-1. The glossary is short of its plan — it should be the place where any term is one click away, and it is still a skeleton
-2. There is no complete "zero to playing a piece" roadmap — the thirty guides cover judgement and mindset, but they do not cover the technical training track
-
-The second point is a genuine gap. For now you have to assemble the guides and the instrument site yourself.
+Look up unfamiliar terms in the [glossary](https://gloss.midicn.com/en/). Use [Learn music](../../learn/) to connect the basics with a starting path and relevant instrument entries. A guide does not replace instrument-specific practice.
 
 ## Next
 
-- The site-level view: [what each of the thirteen sites is for](../hub-sites-map/)
+- The site-level view: [Site and Content Guide](../hub-sites-map/)
 - Browsing by topic: [listening hub](../hub-listen-better/) · [instruments hub](../hub-choose-instrument/)
 - Back to the [home page](../../)
 :::

@@ -13,7 +13,7 @@ alias: [乐器枢纽, 选乐器, 学什么乐器, instrument hub]
 order: 303
 sources:
   - 本页为导航页，内容为据实整理；乐器站实测 292 个产物页（2026-10-03）
-updated: 2026-10-03
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -75,7 +75,7 @@ updated: 2026-10-03
 
 ## 下一步
 
-- 按站点看全貌：[十三个站点分别是什么](../hub-sites-map/)
+- 按站点看全貌：[站点与内容导航](../hub-sites-map/)
 - 选好之后怎么开始练：[教学与练习枢纽](../hub-teacher-practice/)
 - 想理解音乐本身：[乐理枢纽](../hub-learn-theory/)
 - 回到[首页](../../)
@@ -140,7 +140,7 @@ Point three is a genuine gap. The piece on [adult music education](../../culture
 
 ## Next
 
-- The site-level view: [what each of the thirteen sites is for](../hub-sites-map/)
+- The site-level view: [Site and Content Guide](../hub-sites-map/)
 - Having chosen, how to start practising: [teaching and practice hub](../hub-teacher-practice/)
 - Wanting to understand music itself: [theory hub](../hub-learn-theory/)
 - Back to the [home page](../../)

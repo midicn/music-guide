@@ -13,7 +13,7 @@ alias: [教学枢纽, 练习枢纽, 怎么教, 怎么练, teaching hub]
 order: 305
 sources:
   - 本页为导航页，内容为据实整理；教学法条目以 culture C5 的 10 篇为准（2026-10-03 实测）
-updated: 2026-10-03
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -85,7 +85,7 @@ updated: 2026-10-03
 
 ## 下一步
 
-- 按站点看全貌：[十三个站点分别是什么](../hub-sites-map/)
+- 按站点看全貌：[站点与内容导航](../hub-sites-map/)
 - 正在选乐器：[乐器枢纽](../hub-choose-instrument/)
 - 正在理解音乐：[听辨枢纽](../hub-listen-better/)
 - 回到[首页](../../)
@@ -160,7 +160,7 @@ Point four is the most practical gap on this route: the hardest part of a teachi
 
 ## Next
 
-- The site-level view: [what each of the thirteen sites is for](../hub-sites-map/)
+- The site-level view: [Site and Content Guide](../hub-sites-map/)
 - Choosing an instrument: [instruments hub](../hub-choose-instrument/)
 - Understanding music: [listening hub](../hub-listen-better/)
 - Back to the [home page](../../)
