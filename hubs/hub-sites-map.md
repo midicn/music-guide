@@ -41,7 +41,7 @@ updated: 2026-11-02
 | 分站 | 适合做什么 |
 |---|---|
 | [MIDI 音乐库](https://lib.midicn.com/) | 检索曲目、试听、查看逐曲来源和许可、下载 MIDI |
-| [维度浏览](https://mid.midicn.com/) | 按作曲家、地区、流派、时期、乐器或来源找曲目 |
+| [MIDI分类下载](https://mid.midicn.com/) | 按作曲家、地区、流派、时期、乐器或来源找曲目 |
 | [打包下载](https://zip.midicn.com/) | 按用途或维度找到下载包 |
 | [音色库](https://sf.midicn.com/) | 查找 SoundFont，查看说明、来源与下载入口 |
 

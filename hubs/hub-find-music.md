@@ -22,7 +22,7 @@ updated: 2026-11-02
 ## 找曲目与试听
 
 - [MIDI 音乐库](https://lib.midicn.com/)：按关键词搜索，查看曲目详情并试听。
-- [维度浏览](https://mid.midicn.com/)：按作曲家、地区、流派、时期、乐器与来源查找。
+- [MIDI分类下载](https://mid.midicn.com/)：按作曲家、地区、流派、时期、乐器与来源查找。
 - [音乐史](https://hist.midicn.com/)：了解作品所处的时期、地区与音乐背景。
 - [音乐词典](https://gloss.midicn.com/)：查询相关术语、人物与体裁。
 

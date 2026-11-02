@@ -188,7 +188,7 @@
   "quiz": "diagnose/",
   "library": {
     "title": "曲库：能听、能下、能核对",
-    "sub": "页面里的试听、按维度浏览和打包下载，都来自同一份开放数据；每一首的许可都单独标注。",
+    "sub": "页面里的试听、按MIDI分类下载和打包下载，都来自同一份开放数据；每一首的许可都单独标注。",
     "note": "C1 可商用 · C2 非商业 · C3 仅学习研究；本站不改变原许可，具体以 midicn-lib 台账为准。",
     "items": [
       {
@@ -209,14 +209,14 @@
       {
         "href": "https://mid.midicn.com/",
         "n": "6 维",
-        "t": "维度浏览",
+        "t": "MIDI分类下载",
         "d": "按作曲家、民歌省份、流派、时期、乐器、来源进入",
         "zh": {
-          "t": "维度浏览",
+          "t": "MIDI分类下载",
           "d": "按作曲家、民歌省份、流派、时期、乐器、来源进入"
         },
         "en": {
-          "t": "Browse by dimension",
+          "t": "MIDI Category Downloads",
           "d": "Composer, province, genre, period, instrument, source"
         },
         "n_en": "6 dimensions"
