@@ -1,0 +1,89 @@
+{
+  "schema": 1,
+  "pages": {
+    "learn": {
+      "title": {"zh": "学音乐", "en": "Learn music"},
+      "intro": {"zh": "从想弄懂的问题开始，找到乐理、乐器、音乐史和词典里的具体内容。", "en": "Start with a question, then find a useful entry in theory, instruments, history or the glossary."},
+      "sites": ["theo", "inst", "hist", "gloss"],
+      "topics": [
+        {"id": "start", "title": {"zh": "从零开始", "en": "Start learning"}, "description": {"zh": "先选方向，再安排练习。", "en": "Choose a direction and find a way to practise."}, "more": "home", "entries": [
+          {"site": "home", "slug": "start/first-steps", "description": {"zh": "找到适合自己的起点。", "en": "Find a starting point that fits you."}},
+          {"site": "home", "slug": "start/theory-or-instrument-first", "description": {"zh": "把乐理和演奏放在一起学。", "en": "Connect theory with playing."}},
+          {"site": "home", "slug": "start/deliberate-practice", "description": {"zh": "从一个具体问题安排练习。", "en": "Build practice around one specific problem."}}
+        ]},
+        {"id": "read", "title": {"zh": "读谱与节奏", "en": "Read and keep time"}, "description": {"zh": "看懂音符，也能跟着节拍听。", "en": "Read the notes and follow the beat."}, "more": "theo", "entries": [
+          {"site": "theo", "slug": "staff", "description": {"zh": "认识谱线和音符的位置。", "en": "Understand lines and note positions."}},
+          {"site": "theo", "slug": "rhythmic-notation", "description": {"zh": "看懂音符与休止符的时值。", "en": "Read note and rest durations."}},
+          {"site": "home", "slug": "tools/rhythm-metre", "description": {"zh": "听一听不同拍号的差别。", "en": "Listen to the difference between metres."}}
+        ]},
+        {"id": "harmony", "title": {"zh": "旋律与和声", "en": "Melody and harmony"}, "description": {"zh": "从音与音的关系理解音乐。", "en": "Explore how notes relate to each other."}, "more": "theo", "entries": [
+          {"site": "theo", "slug": "interval", "description": {"zh": "比较两个音之间的距离。", "en": "Compare the distance between two notes."}},
+          {"site": "theo", "slug": "scale", "description": {"zh": "认识旋律常用的音高材料。", "en": "Explore the pitches used in melodies."}},
+          {"site": "theo", "slug": "chord", "description": {"zh": "听几个音合在一起的效果。", "en": "Hear how notes sound together."}}
+        ]},
+        {"id": "instruments", "title": {"zh": "认识乐器", "en": "Explore instruments"}, "description": {"zh": "从声音、结构和演奏方式认识乐器。", "en": "Discover instruments through sound and playing."}, "more": "inst", "entries": [
+          {"site": "inst", "slug": "piano", "description": {"zh": "了解键盘、琴弦与触键。", "en": "Explore keys, strings and touch."}},
+          {"site": "inst", "slug": "acoustic-guitar", "description": {"zh": "认识钢弦吉他的发声与用途。", "en": "Learn how a steel-string guitar works."}},
+          {"site": "inst", "slug": "erhu", "description": {"zh": "认识两根弦与运弓发声。", "en": "Explore its two strings and bowing."}}
+        ]},
+        {"id": "history", "title": {"zh": "风格与音乐史", "en": "Styles and history"}, "description": {"zh": "把听到的风格放回时代与生活。", "en": "Connect musical styles with their time and setting."}, "more": "hist", "entries": [
+          {"site": "hist", "slug": "baroque", "description": {"zh": "从歌剧、协奏曲与赋格认识这一时期。", "en": "Explore opera, concertos and fugues."}},
+          {"site": "hist", "slug": "classical", "description": {"zh": "认识乐句、曲式与公共音乐会。", "en": "Discover phrasing, forms and public concerts."}},
+          {"site": "hist", "slug": "chinese-folk-song", "description": {"zh": "从号子、山歌和小调听起。", "en": "Start with work songs and folk melodies."}}
+        ]},
+        {"id": "terms", "title": {"zh": "演奏术语速查", "en": "Read performance terms"}, "description": {"zh": "遇到陌生词，先查清它在说什么。", "en": "Look up unfamiliar words as you read."}, "more": "gloss", "entries": [
+          {"site": "gloss", "slug": "tempo", "description": {"zh": "查音乐快慢与相关标记。", "en": "Look up speed and tempo markings."}},
+          {"site": "gloss", "slug": "dynamics", "description": {"zh": "查谱面上的强弱记号。", "en": "Decode loudness markings in a score."}},
+          {"site": "gloss", "slug": "legato", "description": {"zh": "理解音与音怎样连接。", "en": "Understand how notes connect."}}
+        ]}
+      ],
+      "paths": [
+        {"title": {"zh": "从零学起", "en": "Start from zero"}, "steps": ["home:start/first-steps", "home:start/theory-or-instrument-first", "home:start/deliberate-practice"]},
+        {"title": {"zh": "开始读谱", "en": "Start reading music"}, "steps": ["theo:staff", "theo:rhythmic-notation", "home:tools/rhythm-metre"]},
+        {"title": {"zh": "开始听和声", "en": "Start hearing harmony"}, "steps": ["theo:interval", "theo:scale", "theo:chord"]}
+      ]
+    },
+    "make": {
+      "title": {"zh": "做音乐", "en": "Make music"},
+      "intro": {"zh": "从写歌、编曲到录音和混音，按手头要做的事找内容。", "en": "Find a starting point for songwriting, arranging, recording or mixing."},
+      "sites": ["prod", "ai", "theo"],
+      "topics": [
+        {"id": "song", "title": {"zh": "开始写歌", "en": "Start a song"}, "description": {"zh": "从一句想法发展出旋律与和声。", "en": "Develop an idea into melody and harmony."}, "more": "theo", "entries": [
+          {"site": "home", "slug": "path-write", "description": {"zh": "看清从想法到 Demo 的过程。", "en": "Follow the steps from idea to demo."}},
+          {"site": "theo", "slug": "motive", "description": {"zh": "把短小材料发展成音乐。", "en": "Develop a small musical idea."}},
+          {"site": "theo", "slug": "chord", "description": {"zh": "为旋律寻找和声材料。", "en": "Find harmonic material for a melody."}}
+        ]},
+        {"id": "midi", "title": {"zh": "DAW 与 MIDI", "en": "Work with DAW and MIDI"}, "description": {"zh": "用软件录下、编辑和组织音乐。", "en": "Record, edit and organize music in software."}, "more": "prod", "entries": [
+          {"site": "prod", "slug": "daw-introduction", "description": {"zh": "认识工程、轨道与时间线。", "en": "Get to know sessions, tracks and the timeline."}},
+          {"site": "prod", "slug": "piano-roll", "description": {"zh": "编辑 MIDI 的音高和时值。", "en": "Edit MIDI pitch and note length."}},
+          {"site": "prod", "slug": "velocity-humanize", "description": {"zh": "调整力度与细微时差。", "en": "Shape velocity and small timing differences."}}
+        ]},
+        {"id": "record", "title": {"zh": "录音与人声", "en": "Record and shape vocals"}, "description": {"zh": "从录音准备开始处理声音。", "en": "Start with preparation and follow the recording."}, "more": "prod", "entries": [
+          {"site": "prod", "slug": "session-prep-checklist", "description": {"zh": "提前检查工程、设备与录音安排。", "en": "Prepare the session, equipment and recording plan."}},
+          {"site": "prod", "slug": "vocal-miking", "description": {"zh": "调整话筒位置与录音环境。", "en": "Work on microphone placement and the room."}},
+          {"site": "prod", "slug": "vocal-chain", "description": {"zh": "按问题选择处理环节。", "en": "Choose processing for specific problems."}}
+        ]},
+        {"id": "mix", "title": {"zh": "混音与母带", "en": "Mix and master"}, "description": {"zh": "先处理平衡，再看整体声音。", "en": "Start with balance, then consider the whole track."}, "more": "prod", "entries": [
+          {"site": "prod", "slug": "volume-balance", "label": {"zh": "音量平衡", "en": "Level balance"}, "description": {"zh": "用推子安排声音的前后关系。", "en": "Set the foreground and background with faders."}},
+          {"site": "prod", "slug": "bus-processing", "description": {"zh": "理解整体处理与单轨处理的分工。", "en": "Separate bus processing from track-level fixes."}},
+          {"site": "prod", "slug": "what-is-mastering", "description": {"zh": "了解混音完成后的处理与交付。", "en": "Understand what follows the finished mix."}}
+        ]},
+        {"id": "ai", "title": {"zh": "用 AI 做音乐", "en": "Make music with AI"}, "description": {"zh": "选路线、写要求，再判断结果。", "en": "Choose an approach, describe the brief and judge the result."}, "more": "ai", "entries": [
+          {"site": "ai", "slug": "choose-for-song-demo", "description": {"zh": "按修改需求选择生成方式。", "en": "Choose a route based on your editing needs."}},
+          {"site": "ai", "slug": "prompt-anatomy", "description": {"zh": "写清风格、编制与段落要求。", "en": "Describe style, instrumentation and form."}},
+          {"site": "ai", "slug": "evaluating-generations", "description": {"zh": "按结构、演唱和声音检查结果。", "en": "Review form, performance and sound."}}
+        ]},
+        {"id": "score", "title": {"zh": "视频与游戏配乐", "en": "Score video and games"}, "description": {"zh": "围绕画面、循环和分轨安排音乐。", "en": "Plan music for picture, loops and stems."}, "more": "prod", "entries": [
+          {"site": "prod", "slug": "scoring-workflow", "description": {"zh": "从需求与场景安排配乐步骤。", "en": "Organize work around the brief and scenes."}},
+          {"site": "prod", "slug": "score-delivery-and-stems", "description": {"zh": "了解分轨、命名与交付要求。", "en": "Plan stems, names and delivery formats."}},
+          {"site": "ai", "slug": "work-game-loop", "description": {"zh": "检查循环点、分层与状态切换。", "en": "Work on loop points, layers and state changes."}}
+        ]}
+      ],
+      "paths": [
+        {"title": {"zh": "写下第一段", "en": "Write your first sketch"}, "steps": ["home:path-write", "theo:motive", "prod:piano-roll"]},
+        {"title": {"zh": "录一段人声", "en": "Record a vocal"}, "steps": ["prod:session-prep-checklist", "prod:vocal-miking", "prod:vocal-chain"]},
+        {"title": {"zh": "试一版 AI Demo", "en": "Try an AI demo"}, "steps": ["ai:choose-for-song-demo", "ai:prompt-anatomy", "ai:evaluating-generations"]}
+      ]
+    }
+  }
+}
