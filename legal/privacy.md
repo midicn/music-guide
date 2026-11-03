@@ -4,8 +4,8 @@ site: home
 cat: LEGAL
 title: 隐私政策
 title_en: Privacy Policy
-summary: "托管请求、浏览器偏好、播放文件与 Google 广告的数据处理说明"
-summary_en: "Hosting requests, browser preferences, playback files and Google advertising"
+summary: "托管、网页分析、浏览器偏好、播放和广告的数据处理说明"
+summary_en: "Hosting, Cloudflare Web Analytics, browser preferences, playback files and Google advertising"
 level: page
 tags: [法律, 隐私]
 tags_en: [legal, privacy]
@@ -15,6 +15,8 @@ updated: "2026-11-03"
 sources:
   - "https://support.google.com/adsense/answer/13554020"
   - "https://policies.google.com/technologies/partner-sites"
+  - "https://developers.cloudflare.com/web-analytics/about/"
+  - "https://developers.cloudflare.com/web-analytics/data-metrics/core-web-vitals/"
   - 本站自订政策，据实描述这里的实际技术行为
 ---
 
@@ -22,6 +24,10 @@ sources:
 ## 网站与托管
 
 midicn 由境外运营，提供公开的音乐知识、MIDI 与音色目录，无需注册账号。浏览页面、下载文件和播放谱例会向托管服务发送普通网络请求，包括 IP 地址、请求地址和浏览器信息；托管方可能保留访问日志。
+
+## Cloudflare 服务
+
+部分页面通过 Cloudflare 提供缓存与安全服务，并加载 Cloudflare Web Analytics，统计访问和页面性能。该网页分析不使用 Cookie 或 localStorage 记录访客身份；网络请求仍可能向 Cloudflare 发送 IP 地址、页面地址等信息。详情见 [网页分析说明](https://developers.cloudflare.com/web-analytics/about/)和 [Cloudflare 隐私政策](https://www.cloudflare.com/privacypolicy/)。
 
 ## 偏好与本地文件
 
@@ -50,6 +56,10 @@ midicn 由境外运营，提供公开的音乐知识、MIDI 与音色目录，�
 ## Website and hosting
 
 midicn is operated outside mainland China and offers public music articles, MIDI resources and a SoundFont directory without registration. Page views, downloads and playback send ordinary network requests to hosting services, including the IP address, requested URL and browser information. Hosting providers may retain access logs.
+
+## Cloudflare services
+
+Some pages use Cloudflare caching and security services and load Cloudflare Web Analytics for page-view and performance measurements. That analytics feature does not use cookies or localStorage to identify visitors. Network requests can still send an IP address and page URL to Cloudflare. See the [analytics documentation](https://developers.cloudflare.com/web-analytics/about/) and [Cloudflare privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 ## Preferences and local files
 
