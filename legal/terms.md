@@ -11,7 +11,7 @@ tags: [法律, 条款]
 tags_en: [legal, terms]
 alias: [服务条款, Terms of Service, ToS]
 order: 91
-updated: 2026-11-02
+updated: "2026-11-03"
 sources:
   - 本站自订条款，非法律意见；如需法律依据请咨询专业人士
 ---
@@ -37,7 +37,7 @@ sources:
 ::: en
 ## Reusing content
 
-Unless otherwise marked, midicn's own text and diagrams use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Give appropriate credit, link to the licence and indicate changes when copying, adapting or translating. Do not imply endorsement. The site's own code uses the MIT licence.
+Unless otherwise marked, MIDI Music's own text and diagrams use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Give appropriate credit, link to the licence and indicate changes when copying, adapting or translating. Do not imply endorsement. The site's own code uses the MIT licence.
 
 Music, SoundFonts, recordings, external images and other cited material do not automatically share that licence. Follow their source terms. C1, C2 and C3 labels help readers find licence information; the complete source licence remains authoritative.
 

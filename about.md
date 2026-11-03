@@ -2,8 +2,8 @@
 id: about
 site: home
 cat: META
-title: 关于 midicn
-title_en: About midicn
+title: 关于MIDI音乐
+title_en: About MIDI Music
 summary: 分站内容、使用方式、来源与反馈
 summary_en: Content, navigation, sources and corrections
 level: page
@@ -11,12 +11,14 @@ tags: [关于, 导航]
 tags_en: [about, navigation]
 order: 95
 sources:
-  - 本站站点注册表与当前页面功能（2026-11-02）
-updated: 2026-11-02
+  - 本站站点注册表与当前页面功能（2026-11-03）
+updated: 2026-11-03
 ---
 
 ::: zh
-midicn 提供音乐知识、创作方法与音乐资料的查阅入口。
+MIDI音乐（midicn），原名“中国MIDI音乐”。听音乐，学音乐，做音乐。
+
+网站整理音乐知识、创作方法与音乐资料，提供试听、学习和制作的查阅入口。
 
 - [学音乐](../learn/)：从读谱、节奏、乐器和听赏进入具体条目。
 - [做音乐](../make/)：按写作、编曲、录音、混音与交付找到资料。
@@ -31,12 +33,14 @@ midicn 提供音乐知识、创作方法与音乐资料的查阅入口。
 :::
 
 ::: en
-midicn provides reference material for music study, creative work and music resources.
+MIDI Music (midicn), formerly 中国MIDI音乐, brings together listening, learning and music making.
+
+The site provides reference material for music study, creative work and music resources.
 
 - [Learn music](../learn/): enter topics through notation, rhythm, instruments and listening.
 - [Create music](../make/): find material on writing, arranging, recording, mixing and delivery.
 - [MIDI Library](https://lib.midicn.com/) and [SoundFonts](https://sf.midicn.com/): browse files, listen and check their source licences.
-- [Music Directory](https://nav.midicn.com/): explore midicn sites and music websites.
+- [Music Directory](https://nav.midicn.com/): explore MIDI Music sites and music websites.
 
 Theory, instruments, history, the glossary, production and AI music are covered on their respective sites. Use [site-wide search](../search/) or the [site and content guide](../hubs/hub-sites-map/) to find a topic.
 

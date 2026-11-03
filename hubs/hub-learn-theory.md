@@ -13,7 +13,7 @@ alias: [乐理枢纽, 理论枢纽, 乐理学习, theory hub]
 order: 302
 sources:
   - 本页为导航页，内容为据实整理；状态说明以各站实际条目数为准（2026-10-03 实测）
-updated: 2026-11-02
+updated: "2026-11-03"
 ---
 
 ::: zh
@@ -69,5 +69,5 @@ For example, write C major and C natural minor side by side and locate E/E♭, A
 
 Choose one question in a familiar melody: its ending note, a change of bass, or a returning rhythm. Write a sentence or two about what you notice and check the score. There is no need to analyse the whole work at once.
 
-[Learn music](../../learn/) groups starting points by goal. The [site and content guide](../hub-sites-map/) explains what each midicn site contains.
+[Learn music](../../learn/) groups starting points by goal. The [site and content guide](../hub-sites-map/) explains what each MIDI Music site contains.
 :::

@@ -11,7 +11,7 @@ tags: [法律, 隐私]
 tags_en: [legal, privacy]
 alias: [Privacy, 隐私, 数据收集]
 order: 92
-updated: 2026-11-02
+updated: "2026-11-03"
 sources:
   - "https://support.google.com/adsense/answer/13554020"
   - "https://policies.google.com/technologies/partner-sites"
@@ -21,7 +21,7 @@ sources:
 ::: zh
 ## 网站与托管
 
-midicn 提供公开的音乐知识、MIDI 与音色目录，无需注册账号。浏览页面、下载文件和播放谱例会向托管服务发送普通网络请求，包括 IP 地址、请求地址和浏览器信息；托管方可能保留访问日志。
+MIDI音乐 提供公开的音乐知识、MIDI 与音色目录，无需注册账号。浏览页面、下载文件和播放谱例会向托管服务发送普通网络请求，包括 IP 地址、请求地址和浏览器信息；托管方可能保留访问日志。
 
 ## 偏好与本地文件
 
@@ -49,7 +49,7 @@ midicn 提供公开的音乐知识、MIDI 与音色目录，无需注册账号�
 ::: en
 ## Website and hosting
 
-midicn offers public music articles, MIDI resources and a SoundFont directory without registration. Page views, downloads and playback send ordinary network requests to hosting services, including the IP address, requested URL and browser information. Hosting providers may retain access logs.
+MIDI Music offers public music articles, MIDI resources and a SoundFont directory without registration. Page views, downloads and playback send ordinary network requests to hosting services, including the IP address, requested URL and browser information. Hosting providers may retain access logs.
 
 ## Preferences and local files
 
@@ -67,7 +67,7 @@ Where a consent message is provided, use it to make, change or withdraw your cho
 
 ## Playback and external links
 
-Playback may retrieve engines, MIDI files and SoundFonts from other midicn subdomains. Following an external link brings that provider's privacy rules into effect. No separate Google Analytics integration or social login is installed.
+Playback may retrieve engines, MIDI files and SoundFonts from other MIDI Music subdomains. Following an external link brings that provider's privacy rules into effect. No separate Google Analytics integration or social login is installed.
 
 ## Contact and changes
 

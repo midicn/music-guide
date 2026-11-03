@@ -13,7 +13,7 @@ alias: [站点地图, 站点一览, 站点总览, site map]
 order: 307
 sources:
   - 分站职责依据统一站点注册表与当前发布页面整理（2026-11-02）
-updated: 2026-11-02
+updated: "2026-11-03"
 ---
 
 ::: zh
@@ -87,7 +87,7 @@ Choose a destination for the task at hand. The home site's [Learn music](../../l
 
 ## Music websites
 
-The [Music directory](https://nav.midicn.com/) combines midicn destinations with selected music websites, searchable and filterable by purpose.
+The [Music directory](https://nav.midicn.com/) combines MIDI Music destinations with selected music websites, searchable and filterable by purpose.
 
 ## Next
 
