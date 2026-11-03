@@ -4,19 +4,30 @@ site: home
 cat: META
 title: 关于midicn
 title_en: About midicn
-summary: 分站内容、使用方式、来源与反馈
-summary_en: Content, navigation, sources and corrections
+summary: 始于1999年的音乐故事，以及今天的midicn
+summary_en: Our story since 1999 and midicn today
 level: page
 tags: [关于, 导航]
 tags_en: [about, navigation]
 order: 95
 sources:
+  - 创办者提供的网站沿革（1999年起，2026-11-03整理）
   - 本站站点注册表与当前页面功能（2026-11-03）
 updated: 2026-11-03
 ---
 
 ::: zh
 midicn，曾用名“中国MIDI音乐”。听音乐，学音乐，做音乐。
+
+## 从1999年说起
+
+1999年，网站以 `midi.163.net` 为起点，最初只是一个音乐爱好者的个人网站。那是拨号上网的年代，一份小小的 MIDI 文件，就能把一段旋律带到另一台电脑上。建站的初衷也很简单：把喜欢的音乐留下来，与同样喜欢音乐的人分享。
+
+这个小站后来被雅虎中国目录收录，也渐渐有了更多同路人。到了“中国MIDI音乐网”的论坛时期，来自全国各地的音乐爱好者和专业人士在这里相聚。MIDI 是共同的话题，音乐则把不同经历的人联系在了一起。
+
+从个人小站到音乐社区，再到今天的 midicn，网站的样子变了，音乐的制作与传播方式也变了。我们仍想保留那个朴素的起点：让人更容易接近音乐，找到资料、学会一点东西，也做出属于自己的声音。
+
+## 今天的midicn
 
 网站整理音乐知识、创作方法与音乐资料，提供试听、学习和制作的查阅入口。
 
@@ -34,6 +45,16 @@ midicn，曾用名“中国MIDI音乐”。听音乐，学音乐，做音乐。
 
 ::: en
 midicn, formerly 中国MIDI音乐, brings together listening, learning and music making.
+
+## Our story began in 1999
+
+In 1999, the site began at `midi.163.net` as a music enthusiast’s personal website. It was the dial-up era: a small MIDI file could carry a melody from one computer to another. The idea was simple—keep the music we loved and share that interest with others.
+
+The site was later listed in the Yahoo China directory. During the China MIDI Music Network forum years, it brought together enthusiasts and music professionals from across China. MIDI provided a common topic; music connected people with different backgrounds.
+
+From a personal homepage to a music community and today’s midicn, both the site and the ways people make and share music have changed. The original wish remains: help people find their way into music, learn something useful and make a sound of their own.
+
+## midicn today
 
 The site provides reference material for music study, creative work and music resources.
 
