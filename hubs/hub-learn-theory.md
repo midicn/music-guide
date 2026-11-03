@@ -69,5 +69,5 @@ For example, write C major and C natural minor side by side and locate E/E♭, A
 
 Choose one question in a familiar melody: its ending note, a change of bass, or a returning rhythm. Write a sentence or two about what you notice and check the score. There is no need to analyse the whole work at once.
 
-[Learn music](../../learn/) groups starting points by goal. The [site and content guide](../hub-sites-map/) explains what each MIDI Music site contains.
+[Learn music](../../learn/) groups starting points by goal. The [site and content guide](../hub-sites-map/) explains what each midicn site contains.
 :::

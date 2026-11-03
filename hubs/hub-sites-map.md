@@ -23,7 +23,7 @@ updated: "2026-11-03"
 
 | 分站 | 适合做什么 |
 |---|---|
-| [主站](https://home.midicn.com/) | 入门引导、主题导览、互动工具与[全站搜索](../../search/) |
+| [主站](https://midicn.com/) | 入门引导、主题导览、互动工具与[全站搜索](../../search/) |
 | [乐理与和声](https://theo.midicn.com/) | 读谱、节奏、音阶、和弦、和声与曲式 |
 | [乐器图鉴](https://inst.midicn.com/) | 认识乐器的发声、结构、音域与演奏方式 |
 | [音乐史](https://hist.midicn.com/) | 按时期、地区和风格阅读音乐的背景 |
@@ -41,7 +41,7 @@ updated: "2026-11-03"
 | 分站 | 适合做什么 |
 |---|---|
 | [MIDI 音乐库](https://lib.midicn.com/) | 检索曲目、试听、查看逐曲来源和许可、下载 MIDI |
-| [MIDI分类下载](https://mid.midicn.com/) | 按作曲家、地区、流派、时期、乐器或来源找曲目 |
+| [MIDI分类下载](https://midi.midicn.com/) | 按作曲家、地区、流派、时期、乐器或来源找曲目 |
 | [打包下载](https://zip.midicn.com/) | 按用途或维度找到下载包 |
 | [音色库](https://sf.midicn.com/) | 查找 SoundFont，查看说明、来源与下载入口 |
 
@@ -63,7 +63,7 @@ Choose a destination for the task at hand. The home site's [Learn music](../../l
 
 | Site | What to find |
 |---|---|
-| [Home](https://home.midicn.com/en/) | Beginner guides, topic guides, interactive tools and [site-wide search](../../search/) |
+| [Home](https://midicn.com/en/) | Beginner guides, topic guides, interactive tools and [site-wide search](../../search/) |
 | [Theory](https://theo.midicn.com/en/) | Notation, rhythm, scales, chords, harmony and form |
 | [Instruments](https://inst.midicn.com/en/) | Sound production, construction, range and playing techniques |
 | [Music history](https://hist.midicn.com/en/) | Musical contexts by period, region and style |
@@ -81,13 +81,13 @@ Choose a destination for the task at hand. The home site's [Learn music](../../l
 | Site | What to find |
 |---|---|
 | [MIDI library](https://lib.midicn.com/) | Track search, playback, per-track sources and licences, and MIDI downloads |
-| [Dimensions](https://mid.midicn.com/) | Browsing by composer, region, genre, period, instrument or source |
+| [Dimensions](https://midi.midicn.com/) | Browsing by composer, region, genre, period, instrument or source |
 | [Packs](https://zip.midicn.com/) | Downloads organized by use or dimension |
 | [SoundFonts](https://sf.midicn.com/) | SoundFont descriptions, sources and downloads |
 
 ## Music websites
 
-The [Music directory](https://nav.midicn.com/) combines MIDI Music destinations with selected music websites, searchable and filterable by purpose.
+The [Music directory](https://nav.midicn.com/) combines midicn destinations with selected music websites, searchable and filterable by purpose.
 
 ## Next
 

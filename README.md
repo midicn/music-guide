@@ -1,6 +1,6 @@
 # midicn · 音乐知识
 
-这是 [音乐知识](https://home.midicn.com/) 的双语内容真源；网站产物位于 [midicn/home](https://github.com/midicn/home)。
+这是 [音乐知识](https://midicn.com/) 的双语内容真源；网站产物位于 [midicn/home](https://github.com/midicn/home)。
 
 midicn 音乐知识的入口 —— 从入门出发，连接乐理、乐器、全球音乐史、音频制作、AI 做音乐与词典。
 

@@ -34,7 +34,7 @@ updated: "2026-11-03"
 - [「我有没有天赋」：一个问错的问题](../../start/talent-myth/) —— 为什么这问题没法回答
 - [先学乐理，还是先练琴](../../start/theory-or-instrument-first/) —— 它们不是排队关系
 
-**这一路全程在 [MIDI音乐 首页](https://home.midicn.com/start/) 里，共三十篇短文，每篇只回答一个问题。**
+**这一路全程在 [midicn 首页](https://midicn.com/start/) 里，共三十篇短文，每篇只回答一个问题。**
 
 ### 路线 B：已经决定学乐器了，卡在"怎么开始练"
 
@@ -82,7 +82,7 @@ Answer one question first: **what is actually blocking you?** The three routes m
 - ["Do I have talent?": a misframed question](../../start/talent-myth/) — why this question has no answer
 - [Theory first, or instrument first?](../../start/theory-or-instrument-first/) — they are not a queue
 
-**This route lives entirely in the [MIDI Music home site](https://home.midicn.com/start/): thirty short pieces, one question each.**
+**This route lives entirely in the [midicn home site](https://midicn.com/start/): thirty short pieces, one question each.**
 
 ### Route B: you have chosen an instrument but not how to practise
 

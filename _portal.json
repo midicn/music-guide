@@ -188,8 +188,8 @@
   "quiz": "diagnose/",
   "library": {
     "title": "曲库：能听、能下、能核对",
-    "sub": "页面里的试听、按MIDI分类下载和打包下载，都来自同一份开放数据；每一首的许可都单独标注。",
-    "note": "C1 可商用 · C2 非商业 · C3 仅学习研究；本站不改变原许可，具体以 midicn-lib 台账为准。",
+    "sub": "试听、分类检索与打包下载共用曲目目录，逐曲保留来源与许可记录。",
+    "note": "使用前核对具体来源、许可及用途；C1/C2/C3 是整理档位，不是整档授权。",
     "items": [
       {
         "href": "https://lib.midicn.com/",
@@ -207,7 +207,7 @@
         "n_en": "133k"
       },
       {
-        "href": "https://mid.midicn.com/",
+        "href": "https://midi.midicn.com/",
         "n": "6 维",
         "t": "MIDI分类下载",
         "d": "按作曲家、民歌省份、流派、时期、乐器、来源进入",
@@ -240,22 +240,22 @@
         "href": "https://sf.midicn.com/",
         "n": "2,492",
         "t": "音色库",
-        "d": "SoundFont 目录，只分发可自由使用的音色",
+        "d": "查阅 SoundFont 的作者、来源与具体许可",
         "zh": {
           "t": "音色库",
-          "d": "SoundFont 目录，只分发可自由使用的音色"
+          "d": "查阅 SoundFont 的作者、来源与具体许可"
         },
         "en": {
           "t": "SoundFonts",
-          "d": "A catalogue of freely usable soundfonts"
+          "d": "Check SoundFont authors, sources and specific licences"
         },
         "n_en": "2,492"
       }
     ],
     "en": {
       "title": "The library: listen, download and verify",
-      "sub": "Listening examples, dimension browsing and downloads share one open dataset, with a licence recorded for every track.",
-      "note": "C1 commercial use · C2 non-commercial · C3 study and research. Original licences remain unchanged; consult the track ledger."
+      "sub": "Playback, category browsing and downloads share one catalogue, with source and licence records per track.",
+      "note": "Check the specific source, licence and intended use. C1/C2/C3 are catalogue tiers, not blanket permissions."
     }
   },
   "trails": [
